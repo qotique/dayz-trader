@@ -8,14 +8,6 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
-from trader_concept import (
-    ensure_output_dirs,
-    load_data,
-    main,
-    process_traders,
-    save_currency_settings,
-    save_general_settings,
-)
 from models.input import (
     AcceptedStates,
     Category,
@@ -23,6 +15,14 @@ from models.input import (
     License,
     Product,
     Trader,
+)
+from trader_concept import (
+    ensure_output_dirs,
+    load_data,
+    main,
+    process_traders,
+    save_currency_settings,
+    save_general_settings,
 )
 
 # ── Helpers ──────────────────────────────────────────────────────────────────

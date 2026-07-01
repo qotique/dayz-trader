@@ -3,15 +3,14 @@ import tempfile
 from pathlib import Path
 from typing import Any
 
-
+from models.input import Product as InputProduct
+from models.output import Product as OutputProduct
 from trader_concept import (
+    ensure_output_dirs,
     get_prices_for_product,
     round_stock_for_vodka,
     write_product_and_stock,
-    ensure_output_dirs,
 )
-from models.input import Product as InputProduct
-from models.output import Product as OutputProduct
 
 
 def _make_product(**aliased_overrides: Any) -> InputProduct:

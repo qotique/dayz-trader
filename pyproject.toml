@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=64.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dayz-trader"
+version = "0.2.0"
+description = "Генератор конфигов TraderX для DayZ из Google Sheets / Excel / CSV"
+readme = "README_RU.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+dependencies = [
+    "gspread>=6.0",
+    "oauth2client>=4.0",
+    "pydantic>=2.0",
+    "python-dotenv>=1.0",
+    "transliterate>=1.10",
+    "click>=8.0",
+    "openpyxl>=3.0",
+]
+
+[project.scripts]
+trader = "cli:cli"
+
+[tool.setuptools.packages.find]
+include = ["models*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP"]
+ignore = ["N815"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]
+"cli.py" = ["E501"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = false
+ignore_missing_imports = true

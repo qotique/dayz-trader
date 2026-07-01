@@ -1,4 +1,4 @@
-from models.output import Product, Stock, Category, Currency, CurrencyType
+from models.output import Category, Currency, CurrencyType, Product, Stock
 
 
 class TestProduct:
