@@ -5,8 +5,6 @@ import logging
 import os
 from typing import Any
 
-from dotenv import load_dotenv
-
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
@@ -16,11 +14,65 @@ from models._utils import translit_key
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
-load_dotenv()
 
-CREDENTIALS_FILE = os.getenv("CREDENTIALS_FILE", "credentials.json")
-SPREADSHEET_ID = os.getenv("SPREADSHEET_ID", "10EIAQROX6kft6fnHaXk6_rMYb8j9oMgANAxi3yC9w0o")
-OUTPUT_DIR = os.getenv("OUTPUT_DIR", "output/profiles/TraderX")
+def _load_config_from_toml() -> dict[str, str]:
+    """Load config from config.toml if it exists."""
+    try:
+        import tomllib
+    except ImportError:
+        return {}
+    try:
+        with open("config.toml", "rb") as f:
+            cfg = tomllib.load(f)
+    except (FileNotFoundError, tomllib.TOMLDecodeError):
+        return {}
+
+    result: dict[str, str] = {}
+
+    google = cfg.get("google", {})
+    if isinstance(google, dict):
+        if "spreadsheet_id" in google:
+            result["SPREADSHEET_ID"] = str(google["spreadsheet_id"])
+        if "credentials_file" in google:
+            result["CREDENTIALS_FILE"] = str(google["credentials_file"])
+
+    output_dir = cfg.get("output_dir")
+    if output_dir is not None:
+        result["OUTPUT_DIR"] = str(output_dir)
+
+    return result
+
+
+def _load_config_from_dotenv() -> dict[str, str]:
+    """Load config from .env file if python-dotenv is available."""
+    try:
+        from dotenv import load_dotenv
+
+        load_dotenv()
+    except ImportError:
+        return {}
+
+    result: dict[str, str] = {}
+    for key in ("CREDENTIALS_FILE", "SPREADSHEET_ID", "OUTPUT_DIR"):
+        val = os.getenv(key)
+        if val:
+            result[key] = val
+    return result
+
+
+def _get_config() -> dict[str, str]:
+    """Merge config sources: config.toml > .env > defaults."""
+    cfg: dict[str, str] = {}
+    cfg.update(_load_config_from_dotenv())
+    cfg.update(_load_config_from_toml())
+    cfg.setdefault("CREDENTIALS_FILE", "credentials.json")
+    cfg.setdefault("OUTPUT_DIR", "output/profiles/TraderX")
+    return cfg
+
+
+CONFIG = _get_config()
+CREDENTIALS_FILE = CONFIG["CREDENTIALS_FILE"]
+OUTPUT_DIR = CONFIG["OUTPUT_DIR"]
 
 
 def create_gspread_client(credentials_file: str) -> gspread.Client:
@@ -368,10 +420,17 @@ def ensure_output_dirs(output_dir: str) -> None:
 
 
 def main(
-    credentials_file: str = CREDENTIALS_FILE,
-    spreadsheet_id: str = SPREADSHEET_ID,
-    output_dir: str = OUTPUT_DIR,
+    credentials_file: str = "",
+    spreadsheet_id: str = "",
+    output_dir: str = "",
 ) -> None:
+    cfg = _get_config()
+    credentials_file = credentials_file or cfg["CREDENTIALS_FILE"]
+    spreadsheet_id = spreadsheet_id or os.getenv("SPREADSHEET_ID", "")
+    output_dir = output_dir or cfg["OUTPUT_DIR"]
+    if not spreadsheet_id:
+        logger.error("SPREADSHEET_ID не задан. Укажите в config.toml, .env или аргументом.")
+        return
     client = create_gspread_client(credentials_file)
     sheet = open_sheet(client, spreadsheet_id)
 
@@ -407,4 +466,8 @@ def main(
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        import cli as _cli_mod  # type: ignore[has-type]
+        _cli_mod.cli()  # type: ignore[has-type]
+    except ImportError:
+        main()

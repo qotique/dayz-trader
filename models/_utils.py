@@ -1,6 +1,6 @@
 import itertools
-from transliterate import translit
 
+from transliterate import translit
 
 _input_trader_counter = itertools.count(start=0)
 _output_trader_counter = itertools.count(start=0)

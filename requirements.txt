@@ -1,0 +1,7 @@
+gspread>=6.0
+oauth2client>=4.0
+pydantic>=2.0
+python-dotenv>=1.0
+transliterate>=1.10
+click>=8.0
+openpyxl>=3.0

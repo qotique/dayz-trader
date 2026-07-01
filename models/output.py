@@ -4,7 +4,8 @@ from typing import Any
 
 from pydantic import BaseModel, Field, StrictInt
 
-from models._utils import next_output_trader_id as next_trader_id, translit_key
+from models._utils import next_output_trader_id as next_trader_id
+from models._utils import translit_key
 
 
 class Product(BaseModel):

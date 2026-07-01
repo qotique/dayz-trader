@@ -1,4 +1,4 @@
-from models.input import Trader, Category, Product, Loadout, TraderPrices
+from models.input import Category, Loadout, Product, Trader, TraderPrices
 
 
 class TestTraderFromRaw:
