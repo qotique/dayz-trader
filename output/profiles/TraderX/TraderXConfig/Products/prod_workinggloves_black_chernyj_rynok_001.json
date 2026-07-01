@@ -1,0 +1,11 @@
+{
+    "className": "WorkingGloves_Black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 1000,
+    "sellPrice": 750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

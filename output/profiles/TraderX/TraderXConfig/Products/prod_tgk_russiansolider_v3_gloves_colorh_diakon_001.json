@@ -1,0 +1,11 @@
+{
+    "className": "TGK_RussianSolider_V3_Gloves_ColorH",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 800,
+    "sellPrice": 550,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

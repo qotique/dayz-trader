@@ -1,0 +1,11 @@
+{
+    "className": "M4_MPHndgrd",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 3000,
+    "sellPrice": 2250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

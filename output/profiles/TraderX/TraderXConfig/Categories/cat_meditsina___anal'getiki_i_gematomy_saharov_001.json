@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Анальгетики и Гематомы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_morphine_saharov_001",
+        "prod_painkillertablets_saharov_001",
+        "prod_terjeampoulenovacaine_saharov_001",
+        "prod_terjeampoulemorphine_saharov_001",
+        "prod_terjeampoulegexobarbital_saharov_001",
+        "prod_terjeampouleketamin_saharov_001",
+        "prod_terjeinjectorpromidol_saharov_001",
+        "prod_terjepillspainkillertablets_saharov_001",
+        "prod_terjepillsanalgin_saharov_001",
+        "prod_terjesalvecapsicum_saharov_001"
+    ]
+}

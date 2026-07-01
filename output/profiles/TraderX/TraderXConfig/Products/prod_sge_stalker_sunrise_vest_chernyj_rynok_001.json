@@ -1,0 +1,15 @@
+{
+    "className": "SGE_Stalker_Sunrise_Vest",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 150000,
+    "sellPrice": 112500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sge_stalker_sunrise_vest_2_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_vest_3_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_vest_4_chernyj_rynok_001"
+    ]
+}

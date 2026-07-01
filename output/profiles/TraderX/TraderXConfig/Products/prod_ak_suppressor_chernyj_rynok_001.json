@@ -1,0 +1,11 @@
+{
+    "className": "AK_Suppressor",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 500000,
+    "sellPrice": 375000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

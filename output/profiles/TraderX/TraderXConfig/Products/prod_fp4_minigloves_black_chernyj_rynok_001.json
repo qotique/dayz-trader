@@ -1,0 +1,17 @@
+{
+    "className": "FP4_MiniGloves_black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 10000,
+    "sellPrice": 7500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_fp4_minigloves_blackred_chernyj_rynok_001",
+        "prod_fp4_minigloves_blue_chernyj_rynok_001",
+        "prod_fp4_minigloves_brown_chernyj_rynok_001",
+        "prod_fp4_minigloves_green_chernyj_rynok_001",
+        "prod_fp4_minigloves_gray_chernyj_rynok_001"
+    ]
+}

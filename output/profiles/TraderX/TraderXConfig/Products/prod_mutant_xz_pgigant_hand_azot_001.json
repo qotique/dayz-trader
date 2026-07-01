@@ -1,0 +1,11 @@
+{
+    "className": "Mutant_XZ_Pgigant_Hand",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 5400,
+    "sellPrice": 5100,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

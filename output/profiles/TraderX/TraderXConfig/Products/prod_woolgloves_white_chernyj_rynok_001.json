@@ -1,0 +1,23 @@
+{
+    "className": "WoolGloves_White",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 2500,
+    "sellPrice": 1850,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_woolglovesfingerless_black_chernyj_rynok_001",
+        "prod_woolgloves_green_chernyj_rynok_001",
+        "prod_woolgloves_black_chernyj_rynok_001",
+        "prod_woolgloves_tan_chernyj_rynok_001",
+        "prod_woolgloves_christmasblue_chernyj_rynok_001",
+        "prod_woolglovesfingerless_green_chernyj_rynok_001",
+        "prod_woolglovesfingerless_tan_chernyj_rynok_001",
+        "prod_woolglovesfingerless_white_chernyj_rynok_001",
+        "prod_woolglovesfingerless_christmasred_chernyj_rynok_001",
+        "prod_woolglovesfingerless_christmasblue_chernyj_rynok_001",
+        "prod_woolgloves_christmasred_chernyj_rynok_001"
+    ]
+}

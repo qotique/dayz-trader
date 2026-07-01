@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Прочее]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_battery9v_svoboda_001",
+        "prod_ac_emptybag_svoboda_001",
+        "prod_ac_rollingpapers_svoboda_001",
+        "prod_cp_plasticroll_svoboda_001"
+    ]
+}

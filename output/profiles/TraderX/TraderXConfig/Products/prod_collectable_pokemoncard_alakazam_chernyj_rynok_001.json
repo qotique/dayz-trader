@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Alakazam",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 12500,
+    "sellPrice": 11850,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

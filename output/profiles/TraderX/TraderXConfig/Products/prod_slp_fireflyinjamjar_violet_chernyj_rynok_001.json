@@ -1,0 +1,11 @@
+{
+    "className": "SLP_FireflyInJamJar_Violet",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 8000,
+    "sellPrice": 7900,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

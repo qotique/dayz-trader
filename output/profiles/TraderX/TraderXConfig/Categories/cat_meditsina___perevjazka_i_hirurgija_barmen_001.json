@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_barmen_001",
+        "prod_terjesyringenew_barmen_001",
+        "prod_terjesurgicalkit_barmen_001",
+        "prod_terjesurgicaltool_ceramic_barmen_001"
+    ]
+}

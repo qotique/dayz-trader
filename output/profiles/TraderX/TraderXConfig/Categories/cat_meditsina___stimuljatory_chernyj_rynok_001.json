@@ -1,0 +1,20 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Стимуляторы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_express_syringe25_chernyj_rynok_001",
+        "prod_sfp_express_syringe50_chernyj_rynok_001",
+        "prod_sfp_express_syringe75_chernyj_rynok_001",
+        "prod_sfp_express_syringe100_chernyj_rynok_001",
+        "prod_terjeampouleadrenalin_chernyj_rynok_001",
+        "prod_terjeinjectorreanimatal_chernyj_rynok_001",
+        "prod_terjeinjectorpropital_chernyj_rynok_001",
+        "prod_sfp_ai2_medkit_standart_chernyj_rynok_001",
+        "prod_sfp_ai2_medkit_yello_chernyj_rynok_001",
+        "prod_sfp_ai2_medkit_blue_chernyj_rynok_001",
+        "prod_sfp_ai2_medkit_green_chernyj_rynok_001",
+        "prod_sfp_ai2_medkit_red_chernyj_rynok_001"
+    ]
+}

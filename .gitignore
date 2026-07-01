@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+
+# Caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.idea/
+
+# Secrets
+credentials.json
+
+# Backups / old versions
+*.bak
+*.bk.py
+*.bk2/
+*.old.py
+
+# Logs
+*.log

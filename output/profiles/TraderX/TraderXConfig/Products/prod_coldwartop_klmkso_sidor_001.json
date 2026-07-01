@@ -1,0 +1,11 @@
+{
+    "className": "ColdWarTop_KLMKSO",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 8100,
+    "sellPrice": 7650,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

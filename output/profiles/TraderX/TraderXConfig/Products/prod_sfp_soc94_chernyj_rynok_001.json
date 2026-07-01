@@ -1,0 +1,11 @@
+{
+    "className": "SFP_SOC94",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 750000,
+    "sellPrice": 562500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "ColdWarJacket_Strichtarn",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 22500,
+    "sellPrice": 21350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

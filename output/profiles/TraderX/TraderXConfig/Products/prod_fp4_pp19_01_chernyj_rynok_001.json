@@ -1,0 +1,11 @@
+{
+    "className": "FP4_pp19_01",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 200000,
+    "sellPrice": 150000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

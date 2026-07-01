@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsCharcoalTablets",
+    "coefficient": 1.0,
+    "maxStock": 125,
+    "tradeQuantity": 16,
+    "buyPrice": 142,
+    "sellPrice": 7,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

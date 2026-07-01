@@ -1,0 +1,17 @@
+{
+    "className": "SFP_CTG_Pants_Brown",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 19500,
+    "sellPrice": 14600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sfp_ctg_pants_summer_kapitan_maruga_001",
+        "prod_sfp_ctg_pants_autumn_kapitan_maruga_001",
+        "prod_sfp_ctg_pants_pixelsummer_kapitan_maruga_001",
+        "prod_sfp_ctg_pants_pixelautumn_kapitan_maruga_001",
+        "prod_sfp_ctg_pants_swamp_kapitan_maruga_001"
+    ]
+}

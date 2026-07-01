@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Hazmat_pants",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 5200,
+    "sellPrice": 4900,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

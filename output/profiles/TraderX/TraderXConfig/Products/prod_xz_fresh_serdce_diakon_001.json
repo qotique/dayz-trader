@@ -1,0 +1,11 @@
+{
+    "className": "XZ_Fresh_serdce",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 50,
+    "sellPrice": 48,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "QPK_ScrewdriverKrest",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 225,
+    "sellPrice": 200,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

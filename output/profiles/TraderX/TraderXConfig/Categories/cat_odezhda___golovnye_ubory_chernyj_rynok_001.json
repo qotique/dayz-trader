@@ -1,0 +1,15 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Головные уборы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_booniehat_dpm_chernyj_rynok_001",
+        "prod_sfp_ecologbig_helm_chernyj_rynok_001",
+        "prod_nbchoodwhite_chernyj_rynok_001",
+        "prod_rsg_mask_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_balaclava_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_balaclava_emr_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_balacalava_colork_chernyj_rynok_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_baba_njura_001",
+        "prod_terjesurgicalkit_baba_njura_001",
+        "prod_terjesurgicaltool_ceramic_baba_njura_001"
+    ]
+}

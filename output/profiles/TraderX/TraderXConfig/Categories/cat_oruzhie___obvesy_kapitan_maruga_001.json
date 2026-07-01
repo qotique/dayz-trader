@@ -1,0 +1,14 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Обвесы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_universallight_kapitan_maruga_001",
+        "prod_ak74_woodbttstck_kapitan_maruga_001",
+        "prod_ak74_hndgrd_kapitan_maruga_001",
+        "prod_ak_woodbttstck_kapitan_maruga_001",
+        "prod_pso1optic_kapitan_maruga_001",
+        "prod_aks74u_bttstck_kapitan_maruga_001"
+    ]
+}

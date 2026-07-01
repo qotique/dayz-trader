@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Разгрузки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_smershvest_sidor_001",
+        "prod_smershbag_sidor_001",
+        "prod_highcapacityvest_black_sidor_001",
+        "prod_ukassvest_black_sidor_001"
+    ]
+}

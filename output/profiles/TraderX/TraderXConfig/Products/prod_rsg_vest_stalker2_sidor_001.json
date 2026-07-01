@@ -1,0 +1,11 @@
+{
+    "className": "RSG_Vest_Stalker2",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 21600,
+    "sellPrice": 20500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

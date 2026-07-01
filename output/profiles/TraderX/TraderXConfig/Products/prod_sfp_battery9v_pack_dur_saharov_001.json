@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Battery9V_pack_Dur",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 600,
+    "sellPrice": 450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

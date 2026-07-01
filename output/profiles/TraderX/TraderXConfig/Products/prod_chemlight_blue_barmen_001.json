@@ -1,0 +1,11 @@
+{
+    "className": "Chemlight_Blue",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 52435236,
+    "buyPrice": 75,
+    "sellPrice": 50,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,33 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Прочее]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeheadgearpsihelm_nauka_001",
+        "prod_terjeradtent_nauka_001",
+        "prod_terjecanisterchemical_nauka_001",
+        "prod_terjepump_nauka_001",
+        "prod_battery9v_nauka_001",
+        "prod_sfp_battery9v_pack_dur_nauka_001",
+        "prod_sfp_battery9v_pack_energ_nauka_001",
+        "prod_sfp_battery9v_pack_gp_nauka_001",
+        "prod_sfp_battery9v_pack_dw_nauka_001",
+        "prod_sfp_battery9v_pack_panason_nauka_001",
+        "prod_sfp_battery9v_pack_kosmos_nauka_001",
+        "prod_sfp_battery9v_dur_nauka_001",
+        "prod_sfp_battery9v_energ_nauka_001",
+        "prod_sfp_battery9v_gp_nauka_001",
+        "prod_sfp_battery9v_dw_nauka_001",
+        "prod_sfp_battery9v_panason_nauka_001",
+        "prod_sfp_battery9v_kosmos_nauka_001",
+        "prod_cj_battery9v_1_nauka_001",
+        "prod_cj_battery9v_2_nauka_001",
+        "prod_cj_battery9v_3_nauka_001",
+        "prod_cj_battery9v_4_nauka_001",
+        "prod_chemlight_red_nauka_001",
+        "prod_heatpack_nauka_001",
+        "prod_xzone_gasmask_filter_classc_double_nauka_001",
+        "prod_xzone_gasmask_filter_classa_double_nauka_001"
+    ]
+}

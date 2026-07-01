@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Противогазы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_xzone_gasmask_gp21_nauka_001",
+        "prod_xzone_gasmask_stalker_white_nauka_001",
+        "prod_xzone_gasmask_stalker_black_nauka_001"
+    ]
+}

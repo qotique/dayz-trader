@@ -1,0 +1,17 @@
+{
+    "className": "SFP_Vepr12_8Rnd",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 20000,
+    "sellPrice": 15000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sfp_vepr12_32rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_camo_32rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_16rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_camo_16rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_camo_8rnd_chernyj_rynok_001"
+    ]
+}

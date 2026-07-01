@@ -1,0 +1,11 @@
+{
+    "className": "SFP_PMakarov",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 60000,
+    "sellPrice": 45000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "Kote_Material_BoxUgol",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 18,
+    "buyPrice": 400,
+    "sellPrice": 300,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

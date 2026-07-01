@@ -1,0 +1,26 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_saharov_001",
+        "prod_cj_fieldbandage_large_saharov_001",
+        "prod_cj_fieldbandage_small_saharov_001",
+        "prod_sak_m_bandage_saharov_001",
+        "prod_terjefirstaidkitadvance_black_saharov_001",
+        "prod_terjefirstaidkitadvance_camo_saharov_001",
+        "prod_terjefirstaidkitindividual_black_saharov_001",
+        "prod_terjefirstaidkitindividual_camo_saharov_001",
+        "prod_terjefirstaidkitmedium_saharov_001",
+        "prod_terjefirstaidkitlarge_saharov_001",
+        "prod_terjeplaster_saharov_001",
+        "prod_terjebandagehemostatic_saharov_001",
+        "prod_terjesurgicaltool_white_saharov_001",
+        "prod_terjesyringenew_saharov_001",
+        "prod_bloodbagkit_saharov_001",
+        "prod_terjesurgicalkit_saharov_001",
+        "prod_terjesurgicaltool_ceramic_saharov_001",
+        "prod_terjestethoscope_saharov_001"
+    ]
+}

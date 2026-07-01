@@ -1,0 +1,997 @@
+{
+    "version": "1.0.1",
+    "serverID": "47f8c01a-3dfd-43d7-a355-13c49451445b",
+    "licenses": [
+        {
+            "licenseId": "license_000",
+            "licenseName": "Car License",
+            "description": "License for Car Licence"
+        },
+        {
+            "licenseId": "license_001",
+            "licenseName": "Admin License",
+            "description": "License for Admin Licence"
+        }
+    ],
+    "acceptedStates": {
+        "acceptWorn": 1,
+        "acceptDamaged": 1,
+        "acceptBadlyDamaged": 1,
+        "coefficientWorn": 0.8,
+        "coefficientDamaged": 0.6,
+        "coefficientBadlyDamaged": 0.3
+    },
+    "traders": [
+        {
+            "npcId": 0,
+            "className": "SFP_NCP_Sidor_Voice",
+            "givenName": "Сидор",
+            "role": "Барыга с деребаса. Покупает части мутантов, может и еще что...",
+            "position": [
+                3469.94,
+                30.22,
+                1081.8
+            ],
+            "orientation": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___droboviki_sidor_001",
+                "cat_oruzhie___avtomaticheskoe_sidor_001",
+                "cat_oruzhie___pistolety_sidor_001",
+                "cat_oruzhie___magaziny_sidor_001",
+                "cat_oruzhie___boepripasy_sidor_001",
+                "cat_oruzhie___obvesy_sidor_001",
+                "cat_shlemy_sidor_001",
+                "cat_bronezhilety_sidor_001",
+                "cat_razgruzki_sidor_001",
+                "cat_odezhda___verh_sidor_001",
+                "cat_odezhda___niz_sidor_001",
+                "cat_odezhda___obuv'_sidor_001",
+                "cat_odezhda___perchatki_sidor_001",
+                "cat_odezhda___rjukzaki_sidor_001",
+                "cat_ekipirovka_sidor_001",
+                "cat_instrumenty_sidor_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_sidor_001",
+                "cat_meditsina___anal'getiki_i_gematomy_sidor_001",
+                "cat_meditsina___perevjazka_i_hirurgija_sidor_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_sidor_001",
+                "cat_meditsina___antidoty_i_antirad_sidor_001",
+                "cat_meditsina___stimuljatory_sidor_001",
+                "cat_meditsina___krov'_sidor_001",
+                "cat_chasti_mutantov_sidor_001",
+                "cat_prochee_sidor_001",
+                "cat_hlam_sidor_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 1,
+            "className": "SurvivorF_Eva",
+            "givenName": "Баба Нюра",
+            "role": "Покупает древесину, может и еще что...",
+            "position": [
+                3453.37,
+                20.7805,
+                312.969
+            ],
+            "orientation": [
+                -177.208,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___droboviki_baba_njura_001",
+                "cat_oruzhie___boepripasy_baba_njura_001",
+                "cat_odezhda___golovnye_ubory_baba_njura_001",
+                "cat_odezhda___verh_baba_njura_001",
+                "cat_odezhda___niz_baba_njura_001",
+                "cat_odezhda___obuv'_baba_njura_001",
+                "cat_odezhda___perchatki_baba_njura_001",
+                "cat_odezhda___rjukzaki_baba_njura_001",
+                "cat_ekipirovka_baba_njura_001",
+                "cat_instrumenty_baba_njura_001",
+                "cat_eda_baba_njura_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_baba_njura_001",
+                "cat_meditsina___anal'getiki_i_gematomy_baba_njura_001",
+                "cat_meditsina___perevjazka_i_hirurgija_baba_njura_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_baba_njura_001",
+                "cat_meditsina___antidoty_i_antirad_baba_njura_001",
+                "cat_meditsina___stimuljatory_baba_njura_001",
+                "cat_meditsina___krov'_baba_njura_001",
+                "cat_prochee_baba_njura_001",
+                "cat_hlam_baba_njura_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": [
+                {
+                    "className": "SFP_Maskarad_Head",
+                    "quantity": -1,
+                    "slotName": "",
+                    "attachments": []
+                },
+                {
+                    "className": "SFP_NPC_BabkaTorgashka_Maskarad",
+                    "quantity": -1,
+                    "slotName": "Body",
+                    "attachments": []
+                },
+                {
+                    "className": "SFP_Maskarad_boots",
+                    "quantity": -1,
+                    "slotName": "Feet",
+                    "attachments": []
+                },
+                {
+                    "className": "SFP_Maskarad_pants",
+                    "quantity": -1,
+                    "slotName": "Legs",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "npcId": 2,
+            "className": "SFP_NPC_Barmen_ai_invizStena",
+            "givenName": "Бармен",
+            "role": "Торговец за рубли",
+            "position": [
+                3935.46,
+                107.456,
+                6418.57
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___droboviki_barmen_001",
+                "cat_oruzhie___avtomaticheskoe_barmen_001",
+                "cat_oruzhie___magaziny_barmen_001",
+                "cat_oruzhie___boepripasy_barmen_001",
+                "cat_oruzhie___obvesy_barmen_001",
+                "cat_shlemy_barmen_001",
+                "cat_bronezhilety_barmen_001",
+                "cat_razgruzki_barmen_001",
+                "cat_odezhda___golovnye_ubory_barmen_001",
+                "cat_odezhda___verh_barmen_001",
+                "cat_odezhda___niz_barmen_001",
+                "cat_odezhda___obuv'_barmen_001",
+                "cat_odezhda___perchatki_barmen_001",
+                "cat_odezhda___rjukzaki_barmen_001",
+                "cat_ekipirovka_barmen_001",
+                "cat_instrumenty_barmen_001",
+                "cat_eda_barmen_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_barmen_001",
+                "cat_meditsina___anal'getiki_i_gematomy_barmen_001",
+                "cat_meditsina___perevjazka_i_hirurgija_barmen_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_barmen_001",
+                "cat_meditsina___antidoty_i_antirad_barmen_001",
+                "cat_meditsina___stimuljatory_barmen_001",
+                "cat_meditsina___krov'_barmen_001",
+                "cat_chasti_mutantov_barmen_001",
+                "cat_prochee_barmen_001",
+                "cat_hlam_barmen_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 3,
+            "className": "SurvivorM_Peter",
+            "givenName": "Капитан Маруга",
+            "role": "Почти полковник",
+            "position": [
+                3695.66,
+                20.0955,
+                449.248
+            ],
+            "orientation": [
+                -165.923,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___avtomaticheskoe_kapitan_maruga_001",
+                "cat_oruzhie___pistolety_kapitan_maruga_001",
+                "cat_oruzhie___vintovki_kapitan_maruga_001",
+                "cat_oruzhie___magaziny_kapitan_maruga_001",
+                "cat_oruzhie___boepripasy_kapitan_maruga_001",
+                "cat_oruzhie___obvesy_kapitan_maruga_001",
+                "cat_shlemy_kapitan_maruga_001",
+                "cat_bronezhilety_kapitan_maruga_001",
+                "cat_razgruzki_kapitan_maruga_001",
+                "cat_odezhda___golovnye_ubory_kapitan_maruga_001",
+                "cat_odezhda___verh_kapitan_maruga_001",
+                "cat_odezhda___niz_kapitan_maruga_001",
+                "cat_odezhda___obuv'_kapitan_maruga_001",
+                "cat_odezhda___perchatki_kapitan_maruga_001",
+                "cat_odezhda___rjukzaki_kapitan_maruga_001",
+                "cat_ekipirovka_kapitan_maruga_001",
+                "cat_instrumenty_kapitan_maruga_001",
+                "cat_eda_kapitan_maruga_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_kapitan_maruga_001",
+                "cat_meditsina___anal'getiki_i_gematomy_kapitan_maruga_001",
+                "cat_meditsina___perevjazka_i_hirurgija_kapitan_maruga_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_kapitan_maruga_001",
+                "cat_meditsina___antidoty_i_antirad_kapitan_maruga_001",
+                "cat_meditsina___stimuljatory_kapitan_maruga_001",
+                "cat_meditsina___krov'_kapitan_maruga_001",
+                "cat_meditsina___profilaktika_kapitan_maruga_001",
+                "cat_prochee_kapitan_maruga_001",
+                "cat_hlam_kapitan_maruga_001",
+                "cat_postavka_kapitan_maruga_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": [
+                {
+                    "className": "TGK_RussianSoldier_v2_Pants_EMR",
+                    "quantity": -1,
+                    "slotName": "Legs",
+                    "attachments": []
+                },
+                {
+                    "className": "TGK_RussianSoldier_v2_VKPO_EMR",
+                    "quantity": -1,
+                    "slotName": "Body",
+                    "attachments": []
+                },
+                {
+                    "className": "TGK_RussianSoldier_v2_6B45_EMR",
+                    "quantity": -1,
+                    "slotName": "Vest",
+                    "attachments": [
+                        {
+                            "className": "TGK_RussianSoldier_v2_GroinPlate_EMR",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "TGK_RussianSoldier_v2_GroinPouch_EMR",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "TGK_RussianSoldier_v2_MagPouchBig_EMR",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "TGK_RussianSoldier_v2_MagPouchSmall2_EMR",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "TGK_RussianSoldier_v2_MagPouchSmall2_EMR",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "TGK_RussianSoldier_v2_MagPouchSmall_EMR",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "TGK_RussianSoldier_v2_MagPouchSmall_EMR",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "TGK_RussianSoldier_v2_MedPouch_EMR",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "className": "TGK_RussianSoldier_v2_Boots_Black",
+                    "quantity": -1,
+                    "slotName": "Feet",
+                    "attachments": []
+                },
+                {
+                    "className": "TGK_RussianSoldier_v2_Gloves_EMR",
+                    "quantity": -1,
+                    "slotName": "Gloves",
+                    "attachments": []
+                },
+                {
+                    "className": "TGK_RussianSoldier_v2_Helmet_EMR",
+                    "quantity": -1,
+                    "slotName": "Headgear",
+                    "attachments": [
+                        {
+                            "className": "UniversalLight",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "npcId": 4,
+            "className": "SFP_NPC_Sich_invizStena",
+            "givenName": "Ашот",
+            "role": "Торговец за рубли",
+            "position": [
+                2137.89,
+                68.6956,
+                1069.08
+            ],
+            "orientation": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___boepripasy_ashot_001",
+                "cat_odezhda___rjukzaki_ashot_001",
+                "cat_instrumenty_ashot_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_ashot_001",
+                "cat_meditsina___anal'getiki_i_gematomy_ashot_001",
+                "cat_meditsina___perevjazka_i_hirurgija_ashot_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_ashot_001",
+                "cat_meditsina___antidoty_i_antirad_ashot_001",
+                "cat_meditsina___krov'_ashot_001",
+                "cat_prochee_ashot_001",
+                "cat_hlam_ashot_001",
+                "cat_trava_ashot_001",
+                "cat_semena_ashot_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 5,
+            "className": "SFP_NCP_Sidor_Voice",
+            "givenName": "Свобода",
+            "role": "Торговец за рубли",
+            "position": [
+                7558.99,
+                80.925,
+                1709.76
+            ],
+            "orientation": [
+                130.760162,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___boepripasy_svoboda_001",
+                "cat_odezhda___rjukzaki_svoboda_001",
+                "cat_instrumenty_svoboda_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_svoboda_001",
+                "cat_meditsina___anal'getiki_i_gematomy_svoboda_001",
+                "cat_meditsina___perevjazka_i_hirurgija_svoboda_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_svoboda_001",
+                "cat_meditsina___antidoty_i_antirad_svoboda_001",
+                "cat_meditsina___krov'_svoboda_001",
+                "cat_prochee_svoboda_001",
+                "cat_hlam_svoboda_001",
+                "cat_trava_svoboda_001",
+                "cat_semena_svoboda_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 6,
+            "className": "SFP_NPC_Azot_invizStena",
+            "givenName": "Азот",
+            "role": "Торговец за рубли",
+            "position": [
+                2453.65,
+                71.5329,
+                2577.43
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___avtomaticheskoe_azot_001",
+                "cat_oruzhie___boepripasy_azot_001",
+                "cat_odezhda___rjukzaki_azot_001",
+                "cat_instrumenty_azot_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_azot_001",
+                "cat_meditsina___anal'getiki_i_gematomy_azot_001",
+                "cat_meditsina___perevjazka_i_hirurgija_azot_001",
+                "cat_meditsina___antidoty_i_antirad_azot_001",
+                "cat_meditsina___krov'_azot_001",
+                "cat_chasti_mutantov_azot_001",
+                "cat_prochee_azot_001",
+                "cat_hlam_azot_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 7,
+            "className": "SFP_NCP_Sidor_Voice",
+            "givenName": "Долг",
+            "role": "Торговец за рубли",
+            "position": [
+                7557.91,
+                80.925,
+                1691.81
+            ],
+            "orientation": [
+                130.760162,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___avtomaticheskoe_dolg_001",
+                "cat_oruzhie___magaziny_dolg_001",
+                "cat_oruzhie___boepripasy_dolg_001",
+                "cat_oruzhie___obvesy_dolg_001",
+                "cat_odezhda___obuv'_dolg_001",
+                "cat_ekipirovka_dolg_001",
+                "cat_instrumenty_dolg_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_dolg_001",
+                "cat_meditsina___anal'getiki_i_gematomy_dolg_001",
+                "cat_meditsina___perevjazka_i_hirurgija_dolg_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_dolg_001",
+                "cat_meditsina___antidoty_i_antirad_dolg_001",
+                "cat_meditsina___krov'_dolg_001",
+                "cat_chasti_mutantov_dolg_001",
+                "cat_prochee_dolg_001",
+                "cat_hlam_dolg_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 8,
+            "className": "SurvivorM_Hassan",
+            "givenName": "Зуб",
+            "role": "Торговец за рубли",
+            "position": [
+                3612.1,
+                69.7699,
+                2688.23
+            ],
+            "orientation": [
+                89.5548,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___boepripasy_zub_001",
+                "cat_ekipirovka_zub_001",
+                "cat_instrumenty_zub_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_zub_001",
+                "cat_meditsina___anal'getiki_i_gematomy_zub_001",
+                "cat_meditsina___perevjazka_i_hirurgija_zub_001",
+                "cat_meditsina___antidoty_i_antirad_zub_001",
+                "cat_meditsina___krov'_zub_001",
+                "cat_prochee_zub_001",
+                "cat_hlam_zub_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": [
+                {
+                    "className": "SFP_Stranik_Boots",
+                    "quantity": -1,
+                    "slotName": "Feet",
+                    "attachments": []
+                },
+                {
+                    "className": "SFP_Stranik_Sweeter",
+                    "quantity": -1,
+                    "slotName": "Body",
+                    "attachments": []
+                },
+                {
+                    "className": "SFP_Stranik_Pants",
+                    "quantity": -1,
+                    "slotName": "Legs",
+                    "attachments": []
+                },
+                {
+                    "className": "SFP_Stranik_Hood",
+                    "quantity": -1,
+                    "slotName": "Headgear",
+                    "attachments": []
+                },
+                {
+                    "className": "SFP_Stranik_FaceMask",
+                    "quantity": -1,
+                    "slotName": "Mask",
+                    "attachments": []
+                },
+                {
+                    "className": "UKAssVest_Olive",
+                    "quantity": -1,
+                    "slotName": "Vest",
+                    "attachments": []
+                },
+                {
+                    "className": "FP4_MiniGloves_Brown",
+                    "quantity": -1,
+                    "slotName": "Gloves",
+                    "attachments": []
+                },
+                {
+                    "className": "SportGlasses_Green",
+                    "quantity": -1,
+                    "slotName": "Eyewear",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "npcId": 9,
+            "className": "SFP_NCP_Sidor_Voice",
+            "givenName": "Бандиты",
+            "role": "Торговец за рубли",
+            "position": [
+                7557.56,
+                80.925,
+                1686.08
+            ],
+            "orientation": [
+                130.760162,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___droboviki_bandity_001",
+                "cat_oruzhie___boepripasy_bandity_001",
+                "cat_ekipirovka_bandity_001",
+                "cat_instrumenty_bandity_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_bandity_001",
+                "cat_meditsina___anal'getiki_i_gematomy_bandity_001",
+                "cat_meditsina___perevjazka_i_hirurgija_bandity_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_bandity_001",
+                "cat_meditsina___antidoty_i_antirad_bandity_001",
+                "cat_meditsina___krov'_bandity_001",
+                "cat_prochee_bandity_001",
+                "cat_hlam_bandity_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 10,
+            "className": "SFP_NPC_Ecolog_invizStena",
+            "givenName": "Сахаров",
+            "role": "Торговец за рубли",
+            "position": [
+                2158.92,
+                69.5186,
+                2262.45
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___boepripasy_saharov_001",
+                "cat_odezhda___rjukzaki_saharov_001",
+                "cat_ekipirovka_saharov_001",
+                "cat_instrumenty_saharov_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_saharov_001",
+                "cat_meditsina___anal'getiki_i_gematomy_saharov_001",
+                "cat_meditsina___perevjazka_i_hirurgija_saharov_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_saharov_001",
+                "cat_meditsina___antidoty_i_antirad_saharov_001",
+                "cat_meditsina___psihika_i_kontuzija_saharov_001",
+                "cat_meditsina___stimuljatory_saharov_001",
+                "cat_meditsina___krov'_saharov_001",
+                "cat_meditsina___profilaktika_saharov_001",
+                "cat_meditsina___jady_saharov_001",
+                "cat_chasti_mutantov_saharov_001",
+                "cat_prochee_saharov_001",
+                "cat_hlam_saharov_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 11,
+            "className": "SFP_NCP_Sidor_Voice",
+            "givenName": "Наука",
+            "role": "Научный сотрудник",
+            "position": [
+                13.0426,
+                93.148,
+                2527.19
+            ],
+            "orientation": [
+                -90.0,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___boepripasy_nauka_001",
+                "cat_shlemy_nauka_001",
+                "cat_odezhda___golovnye_ubory_nauka_001",
+                "cat_odezhda___verh_nauka_001",
+                "cat_odezhda___niz_nauka_001",
+                "cat_odezhda___obuv'_nauka_001",
+                "cat_odezhda___perchatki_nauka_001",
+                "cat_odezhda___rjukzaki_nauka_001",
+                "cat_protivogazy_nauka_001",
+                "cat_ekipirovka_nauka_001",
+                "cat_instrumenty_nauka_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_nauka_001",
+                "cat_meditsina___anal'getiki_i_gematomy_nauka_001",
+                "cat_meditsina___perevjazka_i_hirurgija_nauka_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_nauka_001",
+                "cat_meditsina___antidoty_i_antirad_nauka_001",
+                "cat_meditsina___psihika_i_kontuzija_nauka_001",
+                "cat_meditsina___stimuljatory_nauka_001",
+                "cat_meditsina___krov'_nauka_001",
+                "cat_meditsina___profilaktika_nauka_001",
+                "cat_meditsina___jady_nauka_001",
+                "cat_chasti_mutantov_nauka_001",
+                "cat_prochee_nauka_001",
+                "cat_hlam_nauka_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 12,
+            "className": "SFP_NPC_BlackTraider_invizStena",
+            "givenName": "Черный рынок",
+            "role": "Предприниматель хуев",
+            "position": [
+                3505.91,
+                34.8899,
+                16.6407
+            ],
+            "orientation": [
+                -52.2977,
+                0.0,
+                0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___droboviki_chernyj_rynok_001",
+                "cat_oruzhie___avtomaticheskoe_chernyj_rynok_001",
+                "cat_oruzhie___pistolety_chernyj_rynok_001",
+                "cat_oruzhie___vintovki_chernyj_rynok_001",
+                "cat_oruzhie___magaziny_chernyj_rynok_001",
+                "cat_oruzhie___boepripasy_chernyj_rynok_001",
+                "cat_oruzhie___obvesy_chernyj_rynok_001",
+                "cat_obvesy_chernyj_rynok_001",
+                "cat_shlemy_chernyj_rynok_001",
+                "cat_bronezhilety_chernyj_rynok_001",
+                "cat_razgruzki_chernyj_rynok_001",
+                "cat_odezhda___golovnye_ubory_chernyj_rynok_001",
+                "cat_odezhda___verh_chernyj_rynok_001",
+                "cat_odezhda___niz_chernyj_rynok_001",
+                "cat_odezhda___obuv'_chernyj_rynok_001",
+                "cat_odezhda___perchatki_chernyj_rynok_001",
+                "cat_odezhda___rjukzaki_chernyj_rynok_001",
+                "cat_protivogazy_chernyj_rynok_001",
+                "cat_ekipirovka_chernyj_rynok_001",
+                "cat_instrumenty_chernyj_rynok_001",
+                "cat_eda_chernyj_rynok_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_chernyj_rynok_001",
+                "cat_meditsina___anal'getiki_i_gematomy_chernyj_rynok_001",
+                "cat_meditsina___perevjazka_i_hirurgija_chernyj_rynok_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_chernyj_rynok_001",
+                "cat_meditsina___antidoty_i_antirad_chernyj_rynok_001",
+                "cat_meditsina___psihika_i_kontuzija_chernyj_rynok_001",
+                "cat_meditsina___stimuljatory_chernyj_rynok_001",
+                "cat_meditsina___krov'_chernyj_rynok_001",
+                "cat_meditsina___profilaktika_chernyj_rynok_001",
+                "cat_meditsina___jady_chernyj_rynok_001",
+                "cat_chasti_mutantov_chernyj_rynok_001",
+                "cat_prochee_chernyj_rynok_001",
+                "cat_hlam_chernyj_rynok_001",
+                "cat_postavka_chernyj_rynok_001",
+                "cat_trava_chernyj_rynok_001",
+                "cat_semena_chernyj_rynok_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 13,
+            "className": "SFP_NPC_Lesnik_Voice",
+            "givenName": "Рыбак",
+            "role": "Покупает рыбу, может и еще что...",
+            "position": [
+                3431.35,
+                21.4342,
+                471.404
+            ],
+            "orientation": [
+                -8.0,
+                0.0,
+                0.0
+            ],
+            "categoriesId": [
+                "cat_instrumenty_rybak_001",
+                "cat_eda_rybak_001",
+                "cat_meditsina___stimuljatory_rybak_001",
+                "cat_prochee_rybak_001",
+                "cat_hlam_rybak_001",
+                "cat_trava_rybak_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": []
+        },
+        {
+            "npcId": 14,
+            "className": "SurvivorM_Elias",
+            "givenName": "Диакон",
+            "role": "Найдется все",
+            "position": [
+                7555.36,
+                80.025,
+                1734.96
+            ],
+            "orientation": [
+                118.237,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___droboviki_diakon_001",
+                "cat_oruzhie___avtomaticheskoe_diakon_001",
+                "cat_oruzhie___pistolety_diakon_001",
+                "cat_oruzhie___vintovki_diakon_001",
+                "cat_oruzhie___magaziny_diakon_001",
+                "cat_oruzhie___boepripasy_diakon_001",
+                "cat_oruzhie___obvesy_diakon_001",
+                "cat_obvesy_diakon_001",
+                "cat_shlemy_diakon_001",
+                "cat_bronezhilety_diakon_001",
+                "cat_razgruzki_diakon_001",
+                "cat_odezhda___golovnye_ubory_diakon_001",
+                "cat_odezhda___verh_diakon_001",
+                "cat_odezhda___niz_diakon_001",
+                "cat_odezhda___obuv'_diakon_001",
+                "cat_odezhda___perchatki_diakon_001",
+                "cat_odezhda___rjukzaki_diakon_001",
+                "cat_protivogazy_diakon_001",
+                "cat_ekipirovka_diakon_001",
+                "cat_instrumenty_diakon_001",
+                "cat_eda_diakon_001",
+                "cat_meditsina___antibiotiki_i_vaktsiny_diakon_001",
+                "cat_meditsina___anal'getiki_i_gematomy_diakon_001",
+                "cat_meditsina___perevjazka_i_hirurgija_diakon_001",
+                "cat_meditsina___dezinfektsija_i_gigiena_diakon_001",
+                "cat_meditsina___antidoty_i_antirad_diakon_001",
+                "cat_meditsina___psihika_i_kontuzija_diakon_001",
+                "cat_meditsina___stimuljatory_diakon_001",
+                "cat_meditsina___krov'_diakon_001",
+                "cat_meditsina___profilaktika_diakon_001",
+                "cat_meditsina___jady_diakon_001",
+                "cat_chasti_mutantov_diakon_001",
+                "cat_prochee_diakon_001",
+                "cat_hlam_diakon_001",
+                "cat_postavka_diakon_001",
+                "cat_trava_diakon_001",
+                "cat_semena_diakon_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": [
+                {
+                    "className": "FP4_priest_robe",
+                    "quantity": -1,
+                    "slotName": "Body",
+                    "attachments": []
+                },
+                {
+                    "className": "WasteLandZ_Mountaineering_Boots",
+                    "quantity": -1,
+                    "slotName": "Feet",
+                    "attachments": []
+                },
+                {
+                    "className": "WasteLandZ_Mountaineering_Pants",
+                    "quantity": -1,
+                    "slotName": "Legs",
+                    "attachments": [
+                        {
+                            "className": "Flaregun",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "className": "SportGlasses_Orange",
+                    "quantity": -1,
+                    "slotName": "Eyewear",
+                    "attachments": []
+                },
+                {
+                    "className": "PlateCarrierVest_Black",
+                    "quantity": -1,
+                    "slotName": "Vest",
+                    "attachments": [
+                        {
+                            "className": "TerjeFirstAidKitIndividual_Black",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "PlateCarrierPouches_Black",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "className": "BoonieHat_Black",
+                    "quantity": -1,
+                    "slotName": "Headgear",
+                    "attachments": [
+                        {
+                            "className": "Hook",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "className": "WasteLandZ_Mountaineering_Bag",
+                    "quantity": -1,
+                    "slotName": "Back",
+                    "attachments": [
+                        {
+                            "className": "FilteringBottle",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "Binoculars",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "Crowbar",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "SawedoffIzh43Shotgun",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "className": "SGE_Loner_Mask",
+                    "quantity": -1,
+                    "slotName": "Mask",
+                    "attachments": []
+                },
+                {
+                    "className": "ArmyPouch_Black",
+                    "quantity": -1,
+                    "slotName": "Armband",
+                    "attachments": [
+                        {
+                            "className": "TerjeDosimetrMkc01A",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "className": "FP4_MiniGloves_Brown",
+                    "quantity": -1,
+                    "slotName": "Gloves",
+                    "attachments": []
+                },
+                {
+                    "className": "FP4_POAS_Bag",
+                    "quantity": -1,
+                    "slotName": "Hips",
+                    "attachments": [
+                        {
+                            "className": "PlateCarrierPouches_Black",
+                            "quantity": 1
+                        },
+                        {
+                            "className": "Canteen",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "className": "RnC_ActiveHeadset_BK",
+                    "quantity": -1,
+                    "slotName": "",
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "npcId": 15,
+            "className": "SurvivorM_Oliver",
+            "givenName": "Охотник",
+            "role": "Покупает шкуры и мясо",
+            "position": [
+                3857.57,
+                20.053,
+                424.964
+            ],
+            "orientation": [
+                50.8745,
+                0.0,
+                -0.0
+            ],
+            "categoriesId": [
+                "cat_oruzhie___pistolety_ohotnik_001",
+                "cat_oruzhie___boepripasy_ohotnik_001",
+                "cat_prochee_ohotnik_001",
+                "cat_hlam_ohotnik_001"
+            ],
+            "currenciesAccepted": [
+                "RUB"
+            ],
+            "loadouts": [
+                {
+                    "className": "HunterPants_Brown",
+                    "quantity": -1,
+                    "slotName": "Legs",
+                    "attachments": []
+                },
+                {
+                    "className": "HuntingJacket_Autumn",
+                    "quantity": -1,
+                    "slotName": "Body",
+                    "attachments": []
+                },
+                {
+                    "className": "HuntingVest",
+                    "quantity": -1,
+                    "slotName": "Vest",
+                    "attachments": []
+                },
+                {
+                    "className": "TTSKOBoots",
+                    "quantity": -1,
+                    "slotName": "Feet",
+                    "attachments": []
+                },
+                {
+                    "className": "BoonieHat_Dubok",
+                    "quantity": -1,
+                    "slotName": "Headgear",
+                    "attachments": []
+                },
+                {
+                    "className": "WorkingGloves_Yellow",
+                    "quantity": -1,
+                    "slotName": "Gloves",
+                    "attachments": []
+                },
+                {
+                    "className": "SGE_Loner_Mask_dw",
+                    "quantity": -1,
+                    "slotName": "Mask",
+                    "attachments": []
+                }
+            ]
+        }
+    ],
+    "traderObjects": []
+}

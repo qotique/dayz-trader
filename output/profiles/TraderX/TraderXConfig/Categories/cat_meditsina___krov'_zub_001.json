@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Кровь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_startkitiv_zub_001",
+        "prod_bloodbagempty_zub_001",
+        "prod_salinebagiv_zub_001",
+        "prod_terjepillsmagnesiumsulfate_zub_001",
+        "prod_terjepillsvikasol_zub_001"
+    ]
+}

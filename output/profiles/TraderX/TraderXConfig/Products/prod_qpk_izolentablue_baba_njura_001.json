@@ -1,0 +1,11 @@
+{
+    "className": "QPK_IzolentaBlue",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 132,
+    "sellPrice": 100,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

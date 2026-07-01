@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Snork_Otrezano_Telo",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 15,
+    "buyPrice": 1050,
+    "sellPrice": 950,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,23 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Дробовики]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_izh43shotgun_chernyj_rynok_001",
+        "prod_r12_chernyj_rynok_001",
+        "prod_toz34_chernyj_rynok_001",
+        "prod_sfp_shotgunmp153_chernyj_rynok_001",
+        "prod_m1912_shotgun_chernyj_rynok_001",
+        "prod_rs_x1_armtac_chernyj_rynok_001",
+        "prod_sfp_shotgunmp153mod_chernyj_rynok_001",
+        "prod_sfp_spas12_shotgun_chernyj_rynok_001",
+        "prod_vepr12_chernyj_rynok_001",
+        "prod_sfp_vepr12_chernyj_rynok_001",
+        "prod_fp4_spas12_chernyj_rynok_001",
+        "prod_izh18shotgun_chernyj_rynok_001",
+        "prod_sfp_benellim4_chernyj_rynok_001",
+        "prod_jd_model1887_chernyj_rynok_001",
+        "prod_jd_serbusupershorty_chernyj_rynok_001"
+    ]
+}

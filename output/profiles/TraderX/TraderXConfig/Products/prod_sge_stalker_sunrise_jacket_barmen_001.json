@@ -1,0 +1,15 @@
+{
+    "className": "SGE_Stalker_Sunrise_Jacket",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 37500,
+    "sellPrice": 28100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sge_stalker_sunrise_jacket_2_barmen_001",
+        "prod_sge_stalker_sunrise_jacket_3_barmen_001",
+        "prod_sge_stalker_sunrise_jacket_4_barmen_001"
+    ]
+}

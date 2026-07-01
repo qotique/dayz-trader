@@ -1,0 +1,11 @@
+{
+    "className": "CJ_Sewingspool_Green",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 18,
+    "buyPrice": 525,
+    "sellPrice": 350,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

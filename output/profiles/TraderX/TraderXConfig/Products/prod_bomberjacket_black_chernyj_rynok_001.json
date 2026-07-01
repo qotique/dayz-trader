@@ -1,0 +1,15 @@
+{
+    "className": "BomberJacket_Black",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 16500,
+    "sellPrice": 12350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_bomberjacket_blue_chernyj_rynok_001",
+        "prod_bomberjacket_skyblue_chernyj_rynok_001",
+        "prod_bomberjacket_maroon_chernyj_rynok_001"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "className": "SFP_VEPR12",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 195000,
+    "sellPrice": 146250,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_sfp_vepr12_barmen_001",
+        "prod_sfp_vepr12_camo_barmen_001"
+    ],
+    "variants": [
+        "prod_sfp_vepr12_camo_barmen_001"
+    ]
+}

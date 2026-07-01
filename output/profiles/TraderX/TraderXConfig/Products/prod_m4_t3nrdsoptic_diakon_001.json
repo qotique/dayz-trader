@@ -1,0 +1,11 @@
+{
+    "className": "M4_T3NRDSOptic",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 2000,
+    "sellPrice": 1500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

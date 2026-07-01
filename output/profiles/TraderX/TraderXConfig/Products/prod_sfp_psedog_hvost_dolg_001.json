@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Psedog_hvost",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 480,
+    "sellPrice": 450,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

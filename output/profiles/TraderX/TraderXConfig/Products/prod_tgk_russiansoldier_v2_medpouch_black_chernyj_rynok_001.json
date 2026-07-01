@@ -1,0 +1,15 @@
+{
+    "className": "TGK_RussianSoldier_v2_MedPouch_Black",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 7500,
+    "sellPrice": 5250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tgk_russiansoldier_v2_medpouch_alpine_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_medpouch_black_mc_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_medpouch_mc_chernyj_rynok_001"
+    ]
+}

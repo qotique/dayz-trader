@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Рюкзаки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_fp4_pohod_bag_barmen_001",
+        "prod_fp4_surv_bag_barmen_001",
+        "prod_sge_stalker_sunrise_backpack_barmen_001",
+        "prod_rng_camelbag_woods_barmen_001",
+        "prod_rsg_backpack_tactical_black_barmen_001"
+    ]
+}

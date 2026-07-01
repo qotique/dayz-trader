@@ -1,0 +1,17 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Дробовики]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_izh43shotgun_barmen_001",
+        "prod_r12_barmen_001",
+        "prod_sfp_shotgunmp153_barmen_001",
+        "prod_rs_x1_armtac_barmen_001",
+        "prod_sfp_shotgunmp153mod_barmen_001",
+        "prod_vepr12_barmen_001",
+        "prod_sfp_vepr12_barmen_001",
+        "prod_jd_model1887_barmen_001",
+        "prod_jd_serbusupershorty_barmen_001"
+    ]
+}

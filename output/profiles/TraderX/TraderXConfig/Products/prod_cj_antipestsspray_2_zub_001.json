@@ -1,0 +1,11 @@
+{
+    "className": "CJ_AntiPestsSpray_2",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 420,
+    "sellPrice": 300,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

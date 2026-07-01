@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Кровь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_startkitiv_chernyj_rynok_001",
+        "prod_bloodbagempty_chernyj_rynok_001",
+        "prod_salinebagiv_chernyj_rynok_001",
+        "prod_bloodtestkit_chernyj_rynok_001",
+        "prod_terjeampouleerythropoetin_chernyj_rynok_001",
+        "prod_terjeinjectorerythropoietin_chernyj_rynok_001",
+        "prod_terjeinjectorerytromixelin_chernyj_rynok_001",
+        "prod_terjepillsmagnesiumsulfate_chernyj_rynok_001",
+        "prod_terjepillsirovit_chernyj_rynok_001",
+        "prod_terjepillsvikasol_chernyj_rynok_001"
+    ]
+}

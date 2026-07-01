@@ -1,0 +1,11 @@
+{
+    "className": "FP4_POAS_Bag",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 2700,
+    "sellPrice": 2550,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

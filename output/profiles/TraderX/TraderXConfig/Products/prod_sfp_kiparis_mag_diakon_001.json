@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Kiparis_Mag",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 800,
+    "sellPrice": 600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

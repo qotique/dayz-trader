@@ -1,0 +1,16 @@
+{
+    "className": "ColdWarPants_Splinter",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 4950,
+    "sellPrice": 4700,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_coldwarpants_strichtarn_barmen_001",
+        "prod_coldwarpants_oblaky_barmen_001",
+        "prod_coldwarpants_finnish_barmen_001",
+        "prod_coldwarpants_jigsaw_barmen_001"
+    ]
+}

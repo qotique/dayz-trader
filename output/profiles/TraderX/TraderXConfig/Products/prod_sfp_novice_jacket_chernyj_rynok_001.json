@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Novice_jacket",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 19000,
+    "sellPrice": 14250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

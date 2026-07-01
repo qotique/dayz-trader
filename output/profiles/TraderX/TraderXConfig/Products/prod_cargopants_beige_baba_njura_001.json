@@ -1,0 +1,15 @@
+{
+    "className": "CargoPants_Beige",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 1650,
+    "sellPrice": 1200,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_cargopants_blue_baba_njura_001",
+        "prod_cargopants_green_baba_njura_001",
+        "prod_cargopants_les_baba_njura_001"
+    ]
+}

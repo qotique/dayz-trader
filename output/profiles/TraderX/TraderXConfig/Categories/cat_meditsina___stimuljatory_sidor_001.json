@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Стимуляторы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_ai2_medkit_yello_sidor_001",
+        "prod_sfp_ai2_medkit_blue_sidor_001"
+    ]
+}

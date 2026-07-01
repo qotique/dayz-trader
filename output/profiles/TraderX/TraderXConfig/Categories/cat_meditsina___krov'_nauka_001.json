@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Кровь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_startkitiv_nauka_001",
+        "prod_bloodbagempty_nauka_001",
+        "prod_salinebagiv_nauka_001",
+        "prod_bloodtestkit_nauka_001",
+        "prod_terjeampouleerythropoetin_nauka_001",
+        "prod_terjeinjectorerythropoietin_nauka_001",
+        "prod_terjeinjectorerytromixelin_nauka_001",
+        "prod_terjepillsmagnesiumsulfate_nauka_001",
+        "prod_terjepillsirovit_nauka_001",
+        "prod_terjepillsvikasol_nauka_001"
+    ]
+}

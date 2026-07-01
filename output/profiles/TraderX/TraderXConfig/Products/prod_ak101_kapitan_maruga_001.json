@@ -1,0 +1,14 @@
+{
+    "className": "AK101",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 104000,
+    "sellPrice": 78000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_pso1optic_kapitan_maruga_001",
+        "prod_universallight_kapitan_maruga_001"
+    ],
+    "variants": []
+}

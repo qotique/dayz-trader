@@ -1,0 +1,11 @@
+{
+    "className": "SFP_ratdog_Otrezano_Lapa",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 2100,
+    "sellPrice": 1950,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

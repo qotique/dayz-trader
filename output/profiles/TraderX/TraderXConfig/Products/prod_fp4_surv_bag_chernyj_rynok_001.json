@@ -1,0 +1,13 @@
+{
+    "className": "FP4_Surv_Bag",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 32500,
+    "sellPrice": 24350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_fp4_surv_bag_green_chernyj_rynok_001"
+    ]
+}

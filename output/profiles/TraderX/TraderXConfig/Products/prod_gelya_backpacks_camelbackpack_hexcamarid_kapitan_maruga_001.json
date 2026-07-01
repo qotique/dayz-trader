@@ -1,0 +1,11 @@
+{
+    "className": "Gelya_Backpacks_CamelBackpack_HexcamArid",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 10400,
+    "sellPrice": 7800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

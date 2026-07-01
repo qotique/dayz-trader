@@ -1,0 +1,25 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антибиотики и Вакцины]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeampouleamoxivan_chernyj_rynok_001",
+        "prod_terjeampoulevaxicam_chernyj_rynok_001",
+        "prod_terjeampoulerabivax_chernyj_rynok_001",
+        "prod_terjeampoulerabinoline_chernyj_rynok_001",
+        "prod_terjeampouleketarol_chernyj_rynok_001",
+        "prod_terjeampouleflemoclav_chernyj_rynok_001",
+        "prod_terjeampouleimipenem_chernyj_rynok_001",
+        "prod_terjeampoulerifampicyne_chernyj_rynok_001",
+        "prod_terjeinjectortopoizomeraza_chernyj_rynok_001",
+        "prod_terjeinjectorrabinucoline_chernyj_rynok_001",
+        "prod_terjepillstetracyclineantibiotics_chernyj_rynok_001",
+        "prod_terjepillsparacetamol_chernyj_rynok_001",
+        "prod_terjepillsibuprofen_chernyj_rynok_001",
+        "prod_terjepillsnurofen_chernyj_rynok_001",
+        "prod_terjepillsamoxiclav_chernyj_rynok_001",
+        "prod_terjepillspiperacylin_chernyj_rynok_001",
+        "prod_terjepillsamibaktam_chernyj_rynok_001"
+    ]
+}

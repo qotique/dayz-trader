@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Tools_PliersElite",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 2750,
+    "sellPrice": 2700,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

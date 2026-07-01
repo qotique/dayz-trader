@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Soivet_boots",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 12500,
+    "sellPrice": 9350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

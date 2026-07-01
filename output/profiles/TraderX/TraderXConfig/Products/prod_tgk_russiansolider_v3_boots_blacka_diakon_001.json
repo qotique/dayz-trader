@@ -1,0 +1,23 @@
+{
+    "className": "TGK_RussianSolider_V3_Boots_BlackA",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 2400,
+    "sellPrice": 1650,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tgk_russiansolider_v3_boots_blackb_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_blue_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_gray_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_greena_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_greenb_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_greenc_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_orange_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_tana_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_tanb_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_tanc_diakon_001",
+        "prod_tgk_russiansolider_v3_boots_tand_diakon_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SGE_Military_HeavyArmor_Jacket",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 62000,
+    "sellPrice": 46500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

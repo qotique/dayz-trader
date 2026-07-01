@@ -1,0 +1,22 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Инструменты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_kitchenknife_baba_njura_001",
+        "prod_terjedosimetrdpg05_baba_njura_001",
+        "prod_rz_pda_black_baba_njura_001",
+        "prod_rz_pda_flash_baba_njura_001",
+        "prod_rz_pda_flash_profile_baba_njura_001",
+        "prod_rz_pda_sos_baba_njura_001",
+        "prod_rz_pda_networkchip_baba_njura_001",
+        "prod_rz_pda_ssd_baba_njura_001",
+        "prod_rz_pda_battery_baba_njura_001",
+        "prod_matchbox_baba_njura_001",
+        "prod_fishingrod_baba_njura_001",
+        "prod_hatchet_baba_njura_001",
+        "prod_tripod_baba_njura_001",
+        "prod_canopener_baba_njura_001"
+    ]
+}

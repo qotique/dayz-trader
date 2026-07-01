@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Express_Syringe100",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 24665,
+    "sellPrice": 1200,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

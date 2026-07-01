@@ -1,0 +1,15 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Обвесы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_aks74u_bttstck_barmen_001",
+        "prod_jd_groza_optic_barmen_001",
+        "prod_jdm249body_barmen_001",
+        "prod_jdm249cover_barmen_001",
+        "prod_reflexoptic_barmen_001",
+        "prod_jd_mp7suppressor_barmen_001",
+        "prod_jd_mp9_suppressor_barmen_001"
+    ]
+}

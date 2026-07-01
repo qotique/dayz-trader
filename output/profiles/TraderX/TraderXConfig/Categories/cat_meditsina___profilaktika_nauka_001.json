@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Профилактика]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeexpresstestrabies_nauka_001",
+        "prod_terjeexpresstestsepsispack_nauka_001",
+        "prod_terjeexpresstestrabiespack_nauka_001",
+        "prod_terjeexpresstestagents_nauka_001",
+        "prod_terjepillsb190_nauka_001"
+    ]
+}

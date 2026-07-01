@@ -1,0 +1,11 @@
+{
+    "className": "HuntingJacket_Winter",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 4500,
+    "sellPrice": 3350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

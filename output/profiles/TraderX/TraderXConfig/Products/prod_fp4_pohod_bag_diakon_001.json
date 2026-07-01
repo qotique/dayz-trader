@@ -1,0 +1,13 @@
+{
+    "className": "FP4_POHOD_Bag",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 7500,
+    "sellPrice": 5600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_fp4_pohod_bag_green_diakon_001"
+    ]
+}

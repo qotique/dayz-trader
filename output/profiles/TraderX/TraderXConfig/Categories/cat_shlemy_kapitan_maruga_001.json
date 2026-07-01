@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Шлемы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_helmet_sobr_colorbase_kapitan_maruga_001",
+        "prod_gorkahelmet_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_helmet_emr_kapitan_maruga_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBrickBlueGod",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 25800,
+    "sellPrice": 12900,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

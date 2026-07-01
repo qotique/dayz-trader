@@ -1,0 +1,18 @@
+{
+    "className": "JD_CZ_EVO3A1",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 127500,
+    "sellPrice": 95600,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_reflexoptic_barmen_001",
+        "prod_jd_cz_mag_evo_35rnd_barmen_001"
+    ],
+    "variants": [
+        "prod_jd_cz_evo3a1_fde_barmen_001",
+        "prod_jd_cz_evo3a1_grey_barmen_001",
+        "prod_jd_cz_evo3a1_olive_barmen_001"
+    ]
+}

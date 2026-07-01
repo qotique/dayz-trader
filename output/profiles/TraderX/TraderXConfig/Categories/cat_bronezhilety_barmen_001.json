@@ -1,0 +1,16 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Бронежилеты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_vest6b5_black_barmen_001",
+        "prod_platecarriervest_green_barmen_001",
+        "prod_sge_stalker_sunrise_vest_barmen_001",
+        "prod_expansion_platecarriervest_yeet_barmen_001",
+        "prod_expansion_pressvest_blue_yeet_barmen_001",
+        "prod_rsg_vest_black_stalker_barmen_001",
+        "prod_tgk_russiansoldier_v2_groinplate_black_barmen_001",
+        "prod_tgk_russiansoldier_v2_6b45_black_barmen_001"
+    ]
+}

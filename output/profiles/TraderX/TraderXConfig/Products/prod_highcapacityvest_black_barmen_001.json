@@ -1,0 +1,13 @@
+{
+    "className": "HighCapacityVest_Black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 5550,
+    "sellPrice": 5250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_highcapacityvest_les_barmen_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "CJ_Pliers_Red",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 270,
+    "sellPrice": 200,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

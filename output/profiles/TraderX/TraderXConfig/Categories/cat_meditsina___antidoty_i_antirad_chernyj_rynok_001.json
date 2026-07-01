@@ -1,0 +1,24 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антидоты и Антирад]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_charcoaltablets_chernyj_rynok_001",
+        "prod_terjeantiradinjector_chernyj_rynok_001",
+        "prod_terjeampoulemetoclopramid_chernyj_rynok_001",
+        "prod_terjeampoulepentacin_chernyj_rynok_001",
+        "prod_terjeampouleneirocetal_chernyj_rynok_001",
+        "prod_terjeampouleheptral_chernyj_rynok_001",
+        "prod_terjeampoulecarboxyme_chernyj_rynok_001",
+        "prod_terjeinjectorstomaproxidal_chernyj_rynok_001",
+        "prod_terjepillscharcoaltablets_chernyj_rynok_001",
+        "prod_terjepillspolisorb_chernyj_rynok_001",
+        "prod_terjepillsmesalazin_chernyj_rynok_001",
+        "prod_terjepillsftalazol_chernyj_rynok_001",
+        "prod_terjepillshexacyanoferrate_chernyj_rynok_001",
+        "prod_terjepillsiversan_chernyj_rynok_001",
+        "prod_terjepillsrombiopental_chernyj_rynok_001",
+        "prod_terjepillspotassiumiodide_chernyj_rynok_001"
+    ]
+}

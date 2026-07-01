@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Бронежилеты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_vest6b5_black_sidor_001",
+        "prod_expansion_platecarriervest_yeet_sidor_001",
+        "prod_expansion_pressvest_blue_yeet_sidor_001",
+        "prod_rsg_vest_stalker1_sidor_001",
+        "prod_rsg_vest_black_stalker_sidor_001"
+    ]
+}

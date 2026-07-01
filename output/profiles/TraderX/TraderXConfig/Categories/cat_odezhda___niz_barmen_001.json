@@ -1,0 +1,16 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Низ]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_gorkapants_summer_barmen_001",
+        "prod_sfp_gorka4_pants_barmen_001",
+        "prod_sge_stalker_sunrise_pants_barmen_001",
+        "prod_coldwarpants_splinter_barmen_001",
+        "prod_coldwarbottom_frogskin_barmen_001",
+        "prod_rsg_stalker1_pants_barmen_001",
+        "prod_rsg_stalker_black_pants_barmen_001",
+        "prod_tgk_russiansoldier_v2_pants_black_barmen_001"
+    ]
+}

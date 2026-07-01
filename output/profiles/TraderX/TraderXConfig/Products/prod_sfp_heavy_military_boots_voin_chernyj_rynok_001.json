@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Heavy_Military_boots_voin",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 200000,
+    "sellPrice": 150000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

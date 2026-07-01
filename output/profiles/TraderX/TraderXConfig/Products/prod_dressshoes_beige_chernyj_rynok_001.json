@@ -1,0 +1,15 @@
+{
+    "className": "DressShoes_Beige",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 12500,
+    "sellPrice": 11850,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_dressshoes_brown_chernyj_rynok_001",
+        "prod_dressshoes_sunburst_chernyj_rynok_001",
+        "prod_dressshoes_white_chernyj_rynok_001"
+    ]
+}

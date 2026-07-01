@@ -1,0 +1,23 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Пистолеты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_p1_chernyj_rynok_001",
+        "prod_flaregun_chernyj_rynok_001",
+        "prod_pistol_tokarev_chernyj_rynok_001",
+        "prod_glock19_chernyj_rynok_001",
+        "prod_fnx45_chernyj_rynok_001",
+        "prod_gsh18_chernyj_rynok_001",
+        "prod_colt1911_chernyj_rynok_001",
+        "prod_aps_pistol_chernyj_rynok_001",
+        "prod_engraved1911_chernyj_rynok_001",
+        "prod_deagle_chernyj_rynok_001",
+        "prod_deagle_gold_chernyj_rynok_001",
+        "prod_magnum_chernyj_rynok_001",
+        "prod_longhorn_chernyj_rynok_001",
+        "prod_sfp_pmakarov_chernyj_rynok_001",
+        "prod_p220_chernyj_rynok_001"
+    ]
+}

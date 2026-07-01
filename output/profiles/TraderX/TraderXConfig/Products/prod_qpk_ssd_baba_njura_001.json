@@ -1,0 +1,11 @@
+{
+    "className": "QPK_SSD",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 7150,
+    "sellPrice": 7050,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

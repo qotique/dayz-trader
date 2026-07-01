@@ -1,0 +1,11 @@
+{
+    "className": "RNG_CamelBag_Woods",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 72000,
+    "sellPrice": 54000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "VEPR12u",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 195000,
+    "sellPrice": 146250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

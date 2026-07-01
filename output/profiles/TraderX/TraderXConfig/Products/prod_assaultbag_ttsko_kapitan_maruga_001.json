@@ -1,0 +1,11 @@
+{
+    "className": "AssaultBag_Ttsko",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 4680,
+    "sellPrice": 3500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

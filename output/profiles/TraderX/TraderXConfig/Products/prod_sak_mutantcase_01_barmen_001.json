@@ -1,0 +1,13 @@
+{
+    "className": "Sak_MutantCase_01",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 12000,
+    "sellPrice": 11400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sak_mutantcase_02_barmen_001"
+    ]
+}

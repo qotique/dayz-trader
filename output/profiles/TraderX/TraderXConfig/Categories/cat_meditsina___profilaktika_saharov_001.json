@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Профилактика]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeexpresstestrabies_saharov_001",
+        "prod_terjeexpresstestsepsispack_saharov_001",
+        "prod_terjeexpresstestrabiespack_saharov_001",
+        "prod_terjeexpresstestagents_saharov_001",
+        "prod_terjepillsb190_saharov_001"
+    ]
+}

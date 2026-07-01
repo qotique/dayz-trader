@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Sandshrew",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 59,
+    "sellPrice": 50,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

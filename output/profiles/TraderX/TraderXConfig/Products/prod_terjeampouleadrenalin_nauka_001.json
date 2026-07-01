@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpouleAdrenalin",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 202,
+    "sellPrice": 10,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

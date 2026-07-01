@@ -1,0 +1,17 @@
+{
+    "className": "AK101",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 80000,
+    "sellPrice": 60000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_ak_plasticbttstck_diakon_001",
+        "prod_ak_railhndgrd_diakon_001",
+        "prod_pso1optic_diakon_001",
+        "prod_universallight_diakon_001",
+        "prod_mag_ak101_30rnd_green_diakon_001"
+    ],
+    "variants": []
+}

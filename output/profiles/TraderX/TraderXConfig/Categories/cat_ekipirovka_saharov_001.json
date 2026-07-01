@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Экипировка]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_canteen_saharov_001",
+        "prod_headtorch_grey_saharov_001",
+        "prod_sak_mutantcase_01_saharov_001"
+    ]
+}

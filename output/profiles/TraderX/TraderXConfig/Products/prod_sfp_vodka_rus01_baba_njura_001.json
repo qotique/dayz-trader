@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Vodka_Rus01",
+    "coefficient": 1.0,
+    "maxStock": 500,
+    "tradeQuantity": 16,
+    "buyPrice": 66,
+    "sellPrice": 50,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

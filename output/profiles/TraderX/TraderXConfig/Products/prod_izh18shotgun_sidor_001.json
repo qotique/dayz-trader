@@ -1,0 +1,11 @@
+{
+    "className": "Izh18Shotgun",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 3240,
+    "sellPrice": 2400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

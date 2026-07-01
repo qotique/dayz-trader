@@ -1,0 +1,11 @@
+{
+    "className": "RNG_Bag_Pegasus_Base",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 15600,
+    "sellPrice": 14800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

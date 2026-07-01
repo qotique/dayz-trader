@@ -1,0 +1,11 @@
+{
+    "className": "RZ_PDA_SOS",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 540,
+    "sellPrice": 400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

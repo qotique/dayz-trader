@@ -1,0 +1,11 @@
+{
+    "className": "SFP_SVD1963",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 825000,
+    "sellPrice": 618750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

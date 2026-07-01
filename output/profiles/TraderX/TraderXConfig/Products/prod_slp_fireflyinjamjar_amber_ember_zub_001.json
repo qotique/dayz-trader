@@ -1,0 +1,11 @@
+{
+    "className": "SLP_FireflyInJamJar_Amber_Ember",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 10200,
+    "sellPrice": 10050,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

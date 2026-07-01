@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Экипировка]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_binoculars_sidor_001",
+        "prod_headtorch_grey_sidor_001",
+        "prod_fp4_poas_bag_sidor_001",
+        "prod_sak_mutantcase_01_sidor_001"
+    ]
+}

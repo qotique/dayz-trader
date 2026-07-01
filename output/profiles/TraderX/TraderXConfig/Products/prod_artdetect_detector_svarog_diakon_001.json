@@ -1,0 +1,11 @@
+{
+    "className": "ArtDetect_Detector_Svarog",
+    "coefficient": 1.0,
+    "maxStock": 5,
+    "tradeQuantity": 524388,
+    "buyPrice": 150000,
+    "sellPrice": 112500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

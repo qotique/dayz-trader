@@ -1,0 +1,11 @@
+{
+    "className": "RSG_Body_Plash_Black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 7500,
+    "sellPrice": 7100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

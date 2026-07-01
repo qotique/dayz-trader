@@ -1,0 +1,11 @@
+{
+    "className": "Ammo_12gaSlug",
+    "coefficient": 1.0,
+    "maxStock": 5000,
+    "tradeQuantity": 18,
+    "buyPrice": 1100,
+    "sellPrice": 800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

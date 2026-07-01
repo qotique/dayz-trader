@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpouleFlemoclav",
+    "coefficient": 1.0,
+    "maxStock": 20,
+    "tradeQuantity": 16,
+    "buyPrice": 20555,
+    "sellPrice": 1000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

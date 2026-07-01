@@ -1,0 +1,15 @@
+{
+    "className": "AK74",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 70000,
+    "sellPrice": 52500,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_ak74_woodbttstck_diakon_001",
+        "prod_mag_ak74_30rnd_diakon_001",
+        "prod_mag_ak74_45rnd_diakon_001"
+    ],
+    "variants": []
+}

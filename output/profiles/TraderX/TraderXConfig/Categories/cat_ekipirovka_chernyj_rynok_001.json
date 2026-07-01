@@ -1,0 +1,25 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Экипировка]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_binoculars_chernyj_rynok_001",
+        "prod_canteen_chernyj_rynok_001",
+        "prod_platecarrierholster_chernyj_rynok_001",
+        "prod_platecarrierpouches_chernyj_rynok_001",
+        "prod_headtorch_grey_chernyj_rynok_001",
+        "prod_headtorch_black_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_belt_chernyj_rynok_001",
+        "prod_sge_military_bulat_resp_chernyj_rynok_001",
+        "prod_sge_military_bulat_belt_chernyj_rynok_001",
+        "prod_sge_military_beryl_pouches_1_chernyj_rynok_001",
+        "prod_sge_military_beryl_pouches_2_chernyj_rynok_001",
+        "prod_sge_military_beryl_pouches_3_chernyj_rynok_001",
+        "prod_sge_sunrise_pouches2_cn2_chernyj_rynok_001",
+        "prod_fp4_poas_bag_chernyj_rynok_001",
+        "prod_rnc_activeheadset_bk_chernyj_rynok_001",
+        "prod_rnc_activeheadset_gr_chernyj_rynok_001",
+        "prod_sak_mutantcase_01_chernyj_rynok_001"
+    ]
+}

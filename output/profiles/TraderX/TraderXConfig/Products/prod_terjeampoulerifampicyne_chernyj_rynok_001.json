@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpouleRifampicyne",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 1970,
+    "sellPrice": 50,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

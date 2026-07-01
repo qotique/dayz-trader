@@ -1,0 +1,16 @@
+{
+    "className": "ColdWarJacket_Splinter",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 8100,
+    "sellPrice": 7650,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_coldwarjacket_strichtarn_sidor_001",
+        "prod_coldwarjacket_oblaky_sidor_001",
+        "prod_coldwarjacket_finnish_sidor_001",
+        "prod_coldwarjacket_jigsaw_sidor_001"
+    ]
+}

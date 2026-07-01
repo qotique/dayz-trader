@@ -1,0 +1,20 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Стимуляторы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_express_syringe25_nauka_001",
+        "prod_sfp_express_syringe50_nauka_001",
+        "prod_sfp_express_syringe75_nauka_001",
+        "prod_sfp_express_syringe100_nauka_001",
+        "prod_terjeampouleadrenalin_nauka_001",
+        "prod_terjeinjectorreanimatal_nauka_001",
+        "prod_terjeinjectorpropital_nauka_001",
+        "prod_sfp_ai2_medkit_standart_nauka_001",
+        "prod_sfp_ai2_medkit_yello_nauka_001",
+        "prod_sfp_ai2_medkit_blue_nauka_001",
+        "prod_sfp_ai2_medkit_green_nauka_001",
+        "prod_sfp_ai2_medkit_red_nauka_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "Mag_IJ70_8Rnd",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 3900,
+    "sellPrice": 2900,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

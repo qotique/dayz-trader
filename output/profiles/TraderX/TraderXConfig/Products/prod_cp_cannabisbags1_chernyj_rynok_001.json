@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBagS1",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 2500,
+    "sellPrice": 1250,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

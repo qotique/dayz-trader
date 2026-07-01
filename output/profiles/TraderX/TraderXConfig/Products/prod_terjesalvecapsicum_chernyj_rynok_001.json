@@ -1,0 +1,11 @@
+{
+    "className": "TerjeSalveCapsicum",
+    "coefficient": 1.0,
+    "maxStock": 350,
+    "tradeQuantity": 16,
+    "buyPrice": 1835,
+    "sellPrice": 50,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

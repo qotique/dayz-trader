@@ -1,0 +1,13 @@
+{
+    "isVisible": 0,
+    "icon": "",
+    "categoryName": "[Хлам]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_paper_rybak_001",
+        "prod_qpk_anomalymushroom_red_rybak_001",
+        "prod_qpk_anomalymushroom_blue_rybak_001",
+        "prod_qpk_anomalymushroom_green_rybak_001",
+        "prod_qpk_anomalymushroom_yellow_rybak_001"
+    ]
+}

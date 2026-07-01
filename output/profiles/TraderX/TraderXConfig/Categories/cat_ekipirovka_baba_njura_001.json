@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Экипировка]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_binoculars_baba_njura_001",
+        "prod_canteen_baba_njura_001",
+        "prod_headtorch_grey_baba_njura_001"
+    ]
+}

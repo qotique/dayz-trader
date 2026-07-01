@@ -1,0 +1,13 @@
+{
+    "className": "HighCapacityVest_Black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 18500,
+    "sellPrice": 17550,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_highcapacityvest_les_chernyj_rynok_001"
+    ]
+}

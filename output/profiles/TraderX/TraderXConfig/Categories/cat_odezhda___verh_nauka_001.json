@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Верх]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_ecologbig_tors_nauka_001",
+        "prod_labcoat_nauka_001",
+        "prod_sfp_hazmat_tors_nauka_001",
+        "prod_nbcjacketwhite_nauka_001"
+    ]
+}

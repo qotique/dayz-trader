@@ -1,0 +1,11 @@
+{
+    "className": "Mag_AK101_30Rnd_Green",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 7000,
+    "sellPrice": 5250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

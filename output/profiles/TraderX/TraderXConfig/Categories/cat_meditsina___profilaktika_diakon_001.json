@@ -1,0 +1,14 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Профилактика]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeexpresstestvirusz_diakon_001",
+        "prod_terjeexpresstestrabies_diakon_001",
+        "prod_terjeexpresstestsepsispack_diakon_001",
+        "prod_terjeexpresstestrabiespack_diakon_001",
+        "prod_terjeexpresstestagents_diakon_001",
+        "prod_terjepillsb190_diakon_001"
+    ]
+}

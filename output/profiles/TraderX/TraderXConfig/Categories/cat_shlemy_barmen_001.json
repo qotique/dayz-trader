@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Шлемы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_ballistichelmet_green_barmen_001",
+        "prod_tankerhelmet_barmen_001",
+        "prod_tgk_russiansoldier_v2_helmet_black_barmen_001"
+    ]
+}

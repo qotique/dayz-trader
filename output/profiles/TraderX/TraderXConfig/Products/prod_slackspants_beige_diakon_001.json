@@ -1,0 +1,18 @@
+{
+    "className": "SlacksPants_Beige",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 1200,
+    "sellPrice": 1100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_slackspants_blue_diakon_001",
+        "prod_slackspants_brown_diakon_001",
+        "prod_slackspants_darkgrey_diakon_001",
+        "prod_slackspants_khaki_diakon_001",
+        "prod_slackspants_lightgrey_diakon_001",
+        "prod_slackspants_white_diakon_001"
+    ]
+}

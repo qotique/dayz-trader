@@ -1,0 +1,11 @@
+{
+    "className": "UKAssVest_Winter",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 5700,
+    "sellPrice": 5400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,14 @@
+{
+    "className": "RSG_Jaket_Stalker_Back",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 9900,
+    "sellPrice": 9400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_rsg_jaket_stalker1_hood_sidor_001",
+        "prod_rsg_jaket_stalker_black_hood_sidor_001"
+    ]
+}

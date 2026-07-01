@@ -1,0 +1,11 @@
+{
+    "className": "QPK_FAR",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 54000,
+    "sellPrice": 53450,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

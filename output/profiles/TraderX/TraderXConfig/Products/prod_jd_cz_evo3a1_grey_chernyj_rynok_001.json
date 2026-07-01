@@ -1,0 +1,11 @@
+{
+    "className": "JD_CZ_EVO3A1_Grey",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 425000,
+    "sellPrice": 318750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

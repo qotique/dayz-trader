@@ -1,0 +1,11 @@
+{
+    "className": "SGE_Military_Beryl_Pouches_2",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 30000,
+    "sellPrice": 22500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

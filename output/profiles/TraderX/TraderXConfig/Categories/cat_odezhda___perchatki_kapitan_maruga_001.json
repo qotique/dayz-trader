@@ -1,0 +1,21 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Перчатки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_tacticalgloves_black_kapitan_maruga_001",
+        "prod_omnogloves_brown_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_gloves_emr_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camoa_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camob_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camoc_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camod_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camoe_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camof_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camog_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camoh_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camol_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_gloves_camoj_kapitan_maruga_001"
+    ]
+}

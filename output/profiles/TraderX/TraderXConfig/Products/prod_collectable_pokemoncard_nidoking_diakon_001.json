@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Nidoking",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 13,
+    "sellPrice": 12,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

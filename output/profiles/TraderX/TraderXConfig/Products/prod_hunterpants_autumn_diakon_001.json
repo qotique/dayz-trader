@@ -1,0 +1,16 @@
+{
+    "className": "HunterPants_Autumn",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 1800,
+    "sellPrice": 1350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_hunterpants_brown_diakon_001",
+        "prod_hunterpants_spring_diakon_001",
+        "prod_hunterpants_summer_diakon_001",
+        "prod_hunterpants_winter_diakon_001"
+    ]
+}

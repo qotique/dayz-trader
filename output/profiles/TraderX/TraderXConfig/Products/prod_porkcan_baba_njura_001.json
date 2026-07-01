@@ -1,0 +1,11 @@
+{
+    "className": "PorkCan",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 110,
+    "sellPrice": 11,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "Sak_C_Kaliy",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 4500,
+    "sellPrice": 3350,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

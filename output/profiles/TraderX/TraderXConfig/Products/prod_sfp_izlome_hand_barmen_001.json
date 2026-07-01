@@ -1,0 +1,11 @@
+{
+    "className": "SFP_izlome_hand",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 1260,
+    "sellPrice": 1150,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

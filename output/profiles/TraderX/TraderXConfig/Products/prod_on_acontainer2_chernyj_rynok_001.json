@@ -1,0 +1,11 @@
+{
+    "className": "ON_AContainer2",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 524388,
+    "buyPrice": 60000,
+    "sellPrice": 45000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

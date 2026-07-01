@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisSeedsPackFuture",
+    "coefficient": 1.0,
+    "maxStock": 300,
+    "tradeQuantity": 16,
+    "buyPrice": 2500,
+    "sellPrice": 1250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

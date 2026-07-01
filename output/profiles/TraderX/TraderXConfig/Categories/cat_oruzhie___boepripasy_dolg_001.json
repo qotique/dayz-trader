@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Боеприпасы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_ammo_12gapellets_dolg_001",
+        "prod_ammo_9x39_dolg_001"
+    ]
+}

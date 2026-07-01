@@ -1,0 +1,20 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Разгрузки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_gorka4_vest_kapitan_maruga_001",
+        "prod_smershvest_kapitan_maruga_001",
+        "prod_smershbag_kapitan_maruga_001",
+        "prod_highcapacityvest_olive_kapitan_maruga_001",
+        "prod_ukassvest_camo_kapitan_maruga_001",
+        "prod_ukassvest_khaki_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_granadepouch_emr_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_groinpouch_emr_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_magpouchbig_emr_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall2_emr_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall_emr_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_medpouch_emr_kapitan_maruga_001"
+    ]
+}

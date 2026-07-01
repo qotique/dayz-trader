@@ -1,0 +1,11 @@
+{
+    "className": "UMP45",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 28000,
+    "sellPrice": 21000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

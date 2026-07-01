@@ -1,0 +1,26 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Рюкзаки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_novice_bagpack_diakon_001",
+        "prod_fp4_pohod_bag_diakon_001",
+        "prod_fp4_surv_bag_diakon_001",
+        "prod_fp4_surv_bag_medical_diakon_001",
+        "prod_fp4_surv_bag_orange_diakon_001",
+        "prod_armypouch_beige_diakon_001",
+        "prod_fp4_surv_bag_violet_diakon_001",
+        "prod_sge_stalker_sunrise_backpack_diakon_001",
+        "prod_fp4_tacticalbag_green_diakon_001",
+        "prod_rng_camelbag_woods_diakon_001",
+        "prod_coyotebag_green_diakon_001",
+        "prod_alicebag_camo_diakon_001",
+        "prod_attack2bag_ttsko_diakon_001",
+        "prod_assaultbag_ttsko_diakon_001",
+        "prod_rng_bag_pegasus_wood_diakon_001",
+        "prod_gelya_backpacks_camelbackpack_hexcamarid_diakon_001",
+        "prod_rng_bag_pegasus_base_diakon_001",
+        "prod_rsg_backpack_tactical_black_diakon_001"
+    ]
+}

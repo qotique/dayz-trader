@@ -1,0 +1,11 @@
+{
+    "className": "L96A1_Optic",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 75000,
+    "sellPrice": 56250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

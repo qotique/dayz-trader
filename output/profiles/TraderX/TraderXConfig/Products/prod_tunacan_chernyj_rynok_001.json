@@ -1,0 +1,11 @@
+{
+    "className": "TunaCan",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 875,
+    "sellPrice": 50,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

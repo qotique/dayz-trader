@@ -1,0 +1,11 @@
+{
+    "className": "Kote_Material_WeaponsOil",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 18,
+    "buyPrice": 1650,
+    "sellPrice": 1200,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

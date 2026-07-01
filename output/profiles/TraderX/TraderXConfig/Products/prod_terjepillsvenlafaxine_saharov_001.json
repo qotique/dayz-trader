@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsVenlafaxine",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 706,
+    "sellPrice": 35,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

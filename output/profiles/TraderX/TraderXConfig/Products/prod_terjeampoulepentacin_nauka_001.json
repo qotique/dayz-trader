@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpoulePentacin",
+    "coefficient": 1.0,
+    "maxStock": 70,
+    "tradeQuantity": 16,
+    "buyPrice": 520,
+    "sellPrice": 26,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

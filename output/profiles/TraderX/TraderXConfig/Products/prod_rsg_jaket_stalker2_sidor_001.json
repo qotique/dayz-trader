@@ -1,0 +1,11 @@
+{
+    "className": "RSG_Jaket_Stalker2",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 9900,
+    "sellPrice": 9400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

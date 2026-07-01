@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Прочее]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_battery9v_barmen_001",
+        "prod_cj_battery9v_1_barmen_001",
+        "prod_chemlight_red_barmen_001",
+        "prod_chemlight_blue_barmen_001",
+        "prod_chemlight_green_barmen_001",
+        "prod_chemlight_white_barmen_001",
+        "prod_chemlight_yellow_barmen_001",
+        "prod_sfp_collection_folder2_barmen_001",
+        "prod_heatpack_barmen_001",
+        "prod_whetstone_barmen_001"
+    ]
+}

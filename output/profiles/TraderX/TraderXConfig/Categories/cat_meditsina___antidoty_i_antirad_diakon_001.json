@@ -1,0 +1,24 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антидоты и Антирад]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_charcoaltablets_diakon_001",
+        "prod_terjeantiradinjector_diakon_001",
+        "prod_terjeampoulemetoclopramid_diakon_001",
+        "prod_terjeampoulepentacin_diakon_001",
+        "prod_terjeampouleneirocetal_diakon_001",
+        "prod_terjeampouleheptral_diakon_001",
+        "prod_terjeampoulecarboxyme_diakon_001",
+        "prod_terjeinjectorstomaproxidal_diakon_001",
+        "prod_terjepillscharcoaltablets_diakon_001",
+        "prod_terjepillspolisorb_diakon_001",
+        "prod_terjepillsmesalazin_diakon_001",
+        "prod_terjepillsftalazol_diakon_001",
+        "prod_terjepillshexacyanoferrate_diakon_001",
+        "prod_terjepillsiversan_diakon_001",
+        "prod_terjepillsrombiopental_diakon_001",
+        "prod_terjepillspotassiumiodide_diakon_001"
+    ]
+}

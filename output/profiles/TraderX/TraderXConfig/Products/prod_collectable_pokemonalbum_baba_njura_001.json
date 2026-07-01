@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonAlbum",
+    "coefficient": 1.0,
+    "maxStock": 1000,
+    "tradeQuantity": 16,
+    "buyPrice": 1320,
+    "sellPrice": 350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Gorka4Vest_Top",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 21500,
+    "sellPrice": 16100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

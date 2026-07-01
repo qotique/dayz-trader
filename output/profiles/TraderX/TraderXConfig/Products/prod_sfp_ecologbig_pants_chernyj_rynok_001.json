@@ -1,0 +1,11 @@
+{
+    "className": "SFP_EcologBig_pants",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 20000,
+    "sellPrice": 19000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

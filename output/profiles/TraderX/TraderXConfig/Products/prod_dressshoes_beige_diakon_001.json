@@ -1,0 +1,15 @@
+{
+    "className": "DressShoes_Beige",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 2500,
+    "sellPrice": 2350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_dressshoes_brown_diakon_001",
+        "prod_dressshoes_sunburst_diakon_001",
+        "prod_dressshoes_white_diakon_001"
+    ]
+}

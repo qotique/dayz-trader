@@ -1,0 +1,11 @@
+{
+    "className": "TerjeSurgicalTool_Ceramic",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 370,
+    "sellPrice": 19,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

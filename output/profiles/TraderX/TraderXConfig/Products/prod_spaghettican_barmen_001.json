@@ -1,0 +1,11 @@
+{
+    "className": "SpaghettiCan",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 330,
+    "sellPrice": 33,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

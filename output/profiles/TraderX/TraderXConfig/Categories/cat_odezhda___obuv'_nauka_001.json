@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Обувь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_ecologbig_boots_nauka_001",
+        "prod_sfp_hazmat_boots_nauka_001",
+        "prod_dressshoes_black_nauka_001"
+    ]
+}

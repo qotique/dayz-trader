@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Jolteon",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 1834,
+    "sellPrice": 1700,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Инструменты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_fishingrod_rybak_001",
+        "prod_pot_rybak_001"
+    ]
+}

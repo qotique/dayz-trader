@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Quest_ProtectionCase_0031",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 50000,
+    "sellPrice": 49500,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

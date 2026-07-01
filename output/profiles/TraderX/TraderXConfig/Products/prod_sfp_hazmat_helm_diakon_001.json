@@ -1,0 +1,13 @@
+{
+    "className": "SFP_Hazmat_Helm",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 2500,
+    "sellPrice": 2350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sfp_hazmat_helm_mirror_diakon_001"
+    ]
+}

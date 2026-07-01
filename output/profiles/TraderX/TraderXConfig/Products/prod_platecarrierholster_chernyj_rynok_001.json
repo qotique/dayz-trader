@@ -1,0 +1,11 @@
+{
+    "className": "PlateCarrierHolster",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 3500,
+    "sellPrice": 2600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

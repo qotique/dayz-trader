@@ -1,0 +1,11 @@
+{
+    "className": "QPK_MedTools",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 825,
+    "sellPrice": 800,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

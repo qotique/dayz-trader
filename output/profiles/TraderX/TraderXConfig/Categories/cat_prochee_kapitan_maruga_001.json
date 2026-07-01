@@ -1,0 +1,14 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Прочее]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjecaseradmilitary_kapitan_maruga_001",
+        "prod_terjeradtent_kapitan_maruga_001",
+        "prod_battery9v_kapitan_maruga_001",
+        "prod_chemlight_red_kapitan_maruga_001",
+        "prod_heatpack_kapitan_maruga_001",
+        "prod_whetstone_kapitan_maruga_001"
+    ]
+}

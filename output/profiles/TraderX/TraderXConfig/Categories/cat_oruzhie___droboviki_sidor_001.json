@@ -1,0 +1,14 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Дробовики]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_izh43shotgun_sidor_001",
+        "prod_toz34_sidor_001",
+        "prod_m1912_shotgun_sidor_001",
+        "prod_rs_x1_armtac_sidor_001",
+        "prod_izh18shotgun_sidor_001",
+        "prod_jd_serbusupershorty_sidor_001"
+    ]
+}

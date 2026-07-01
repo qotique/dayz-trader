@@ -1,0 +1,17 @@
+{
+    "className": "QuiltedJacket_Green",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 1800,
+    "sellPrice": 1350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_quiltedjacket_orange_diakon_001",
+        "prod_quiltedjacket_yellow_diakon_001",
+        "prod_quiltedjacket_grey_diakon_001",
+        "prod_quiltedjacket_blue_diakon_001",
+        "prod_quiltedjacket_red_diakon_001"
+    ]
+}

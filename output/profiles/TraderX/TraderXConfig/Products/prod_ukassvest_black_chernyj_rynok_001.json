@@ -1,0 +1,14 @@
+{
+    "className": "UKAssVest_Black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 19000,
+    "sellPrice": 18050,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_ukassvest_olive_chernyj_rynok_001",
+        "prod_ukassvest_winter_chernyj_rynok_001"
+    ]
+}

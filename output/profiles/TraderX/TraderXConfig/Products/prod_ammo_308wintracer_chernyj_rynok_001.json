@@ -1,0 +1,11 @@
+{
+    "className": "Ammo_308WinTracer",
+    "coefficient": 1.0,
+    "maxStock": 5000,
+    "tradeQuantity": 18,
+    "buyPrice": 8000,
+    "sellPrice": 6000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

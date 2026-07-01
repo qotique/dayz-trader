@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Pikachu",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 268,
+    "sellPrice": 250,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

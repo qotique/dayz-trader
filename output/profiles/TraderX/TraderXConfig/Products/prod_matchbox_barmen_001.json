@@ -1,0 +1,11 @@
+{
+    "className": "Matchbox",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524370,
+    "buyPrice": 45,
+    "sellPrice": 34,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

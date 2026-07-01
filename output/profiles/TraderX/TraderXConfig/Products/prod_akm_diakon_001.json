@@ -1,0 +1,17 @@
+{
+    "className": "AKM",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 140000,
+    "sellPrice": 105000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_ak_railhndgrd_diakon_001",
+        "prod_universallight_diakon_001",
+        "prod_kobraoptic_diakon_001",
+        "prod_ak_woodbttstck_diakon_001",
+        "prod_mag_akm_drum75rnd_diakon_001"
+    ],
+    "variants": []
+}

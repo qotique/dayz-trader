@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsPainkillerTablets",
+    "coefficient": 1.0,
+    "maxStock": 150,
+    "tradeQuantity": 16,
+    "buyPrice": 458,
+    "sellPrice": 23,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

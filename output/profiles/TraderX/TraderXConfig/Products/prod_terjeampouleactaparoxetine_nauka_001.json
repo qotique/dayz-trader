@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpouleActaparoxetine",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 558,
+    "sellPrice": 28,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

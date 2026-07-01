@@ -1,0 +1,23 @@
+{
+    "className": "TGK_RussianSolider_V3_Boots_BlackA",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 12000,
+    "sellPrice": 8400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tgk_russiansolider_v3_boots_blackb_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_blue_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_gray_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_greena_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_greenb_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_greenc_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_orange_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_tana_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_tanb_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_tanc_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_boots_tand_chernyj_rynok_001"
+    ]
+}

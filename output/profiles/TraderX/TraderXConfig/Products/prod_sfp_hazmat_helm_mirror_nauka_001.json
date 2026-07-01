@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Hazmat_Helm_mirror",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 1300,
+    "sellPrice": 1200,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

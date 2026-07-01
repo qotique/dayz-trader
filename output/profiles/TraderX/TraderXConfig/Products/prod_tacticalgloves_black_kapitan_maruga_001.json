@@ -1,0 +1,13 @@
+{
+    "className": "TacticalGloves_Black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 650,
+    "sellPrice": 450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tacticalgloves_green_kapitan_maruga_001"
+    ]
+}

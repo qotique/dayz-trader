@@ -1,0 +1,11 @@
+{
+    "className": "Wallet_Small_White",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 500,
+    "sellPrice": 450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

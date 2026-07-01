@@ -1,0 +1,17 @@
+{
+    "className": "GorkaPants_Summer",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 11500,
+    "sellPrice": 8600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_gorkapants_autumn_chernyj_rynok_001",
+        "prod_gorkapants_flat_chernyj_rynok_001",
+        "prod_gorkapants_pautrev_chernyj_rynok_001",
+        "prod_gorkapants_winter_chernyj_rynok_001",
+        "prod_gorkapants_les_chernyj_rynok_001"
+    ]
+}

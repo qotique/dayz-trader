@@ -1,0 +1,11 @@
+{
+    "className": "FP4_VKPO_DEMI_USHANKA",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 3250,
+    "sellPrice": 2400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

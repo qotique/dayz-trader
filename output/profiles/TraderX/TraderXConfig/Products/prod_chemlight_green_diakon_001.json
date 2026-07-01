@@ -1,0 +1,11 @@
+{
+    "className": "Chemlight_Green",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 52435236,
+    "buyPrice": 50,
+    "sellPrice": 38,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

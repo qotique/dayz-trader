@@ -1,0 +1,11 @@
+{
+    "className": "USMCJacket_Desert",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 3000,
+    "sellPrice": 2250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

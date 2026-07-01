@@ -1,0 +1,11 @@
+{
+    "className": "BDUPants",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 4000,
+    "sellPrice": 3000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

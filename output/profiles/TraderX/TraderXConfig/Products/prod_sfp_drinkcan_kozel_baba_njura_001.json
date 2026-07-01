@@ -1,0 +1,11 @@
+{
+    "className": "SFP_DrinkCan_Kozel",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 61,
+    "sellPrice": 6,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

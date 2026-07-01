@@ -1,0 +1,24 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антидоты и Антирад]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_charcoaltablets_nauka_001",
+        "prod_terjeantiradinjector_nauka_001",
+        "prod_terjeampoulemetoclopramid_nauka_001",
+        "prod_terjeampoulepentacin_nauka_001",
+        "prod_terjeampouleneirocetal_nauka_001",
+        "prod_terjeampouleheptral_nauka_001",
+        "prod_terjeampoulecarboxyme_nauka_001",
+        "prod_terjeinjectorstomaproxidal_nauka_001",
+        "prod_terjepillscharcoaltablets_nauka_001",
+        "prod_terjepillspolisorb_nauka_001",
+        "prod_terjepillsmesalazin_nauka_001",
+        "prod_terjepillsftalazol_nauka_001",
+        "prod_terjepillshexacyanoferrate_nauka_001",
+        "prod_terjepillsiversan_nauka_001",
+        "prod_terjepillsrombiopental_nauka_001",
+        "prod_terjepillspotassiumiodide_nauka_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "CP_PlasticRoll",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 1750,
+    "sellPrice": 850,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

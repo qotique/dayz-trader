@@ -1,0 +1,11 @@
+{
+    "className": "R12",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 275000,
+    "sellPrice": 206250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

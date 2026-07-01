@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBrickPurpleKush",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 68800,
+    "sellPrice": 34400,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SFP_EcologBig_tors",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 7800,
+    "sellPrice": 7400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

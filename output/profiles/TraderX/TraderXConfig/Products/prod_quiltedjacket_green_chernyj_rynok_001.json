@@ -1,0 +1,17 @@
+{
+    "className": "QuiltedJacket_Green",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 9000,
+    "sellPrice": 6750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_quiltedjacket_orange_chernyj_rynok_001",
+        "prod_quiltedjacket_yellow_chernyj_rynok_001",
+        "prod_quiltedjacket_grey_chernyj_rynok_001",
+        "prod_quiltedjacket_blue_chernyj_rynok_001",
+        "prod_quiltedjacket_red_chernyj_rynok_001"
+    ]
+}

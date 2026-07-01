@@ -1,0 +1,11 @@
+{
+    "className": "QPK_12Gauge",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 1920,
+    "sellPrice": 1900,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

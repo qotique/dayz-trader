@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Прочее]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_battery9v_ashot_001",
+        "prod_ac_emptybag_ashot_001",
+        "prod_ac_rollingpapers_ashot_001",
+        "prod_cp_plasticroll_ashot_001"
+    ]
+}

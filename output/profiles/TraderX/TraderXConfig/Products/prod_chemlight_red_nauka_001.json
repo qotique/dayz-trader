@@ -1,0 +1,11 @@
+{
+    "className": "Chemlight_Red",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 52435236,
+    "buyPrice": 65,
+    "sellPrice": 49,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

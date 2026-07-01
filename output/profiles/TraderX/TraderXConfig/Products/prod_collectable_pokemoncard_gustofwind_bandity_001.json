@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_GustOfWind",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 208,
+    "sellPrice": 150,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

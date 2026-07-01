@@ -1,0 +1,15 @@
+{
+    "className": "SGE_Stalker_Sunrise_Pants",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 110000,
+    "sellPrice": 82500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sge_stalker_sunrise_pants_2_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_pants_3_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_pants_4_chernyj_rynok_001"
+    ]
+}

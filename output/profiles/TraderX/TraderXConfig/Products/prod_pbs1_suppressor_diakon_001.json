@@ -1,0 +1,11 @@
+{
+    "className": "PBS1_Suppressor",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 100000,
+    "sellPrice": 75000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

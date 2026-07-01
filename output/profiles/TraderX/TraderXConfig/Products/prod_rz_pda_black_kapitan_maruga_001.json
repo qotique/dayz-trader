@@ -1,0 +1,11 @@
+{
+    "className": "RZ_PDA_Black",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 13000,
+    "sellPrice": 9750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

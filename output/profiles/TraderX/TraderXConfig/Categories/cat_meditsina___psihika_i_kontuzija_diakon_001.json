@@ -1,0 +1,21 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Психика и Контузия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeampouleneirox_diakon_001",
+        "prod_terjeampoulemetralindole_diakon_001",
+        "prod_terjeampouleactaparoxetine_diakon_001",
+        "prod_terjeampouleamitriptyline_diakon_001",
+        "prod_terjeinjectoramoxiclav_diakon_001",
+        "prod_terjeinjectorneirox_diakon_001",
+        "prod_terjeinjectoramfitalicyne_diakon_001",
+        "prod_terjepillsadepress_diakon_001",
+        "prod_terjepillsnimesulid_diakon_001",
+        "prod_terjepillsnoopept_diakon_001",
+        "prod_terjepillsmexamine_diakon_001",
+        "prod_terjepillsvenlafaxine_diakon_001",
+        "prod_terjepillsagteminol_diakon_001"
+    ]
+}

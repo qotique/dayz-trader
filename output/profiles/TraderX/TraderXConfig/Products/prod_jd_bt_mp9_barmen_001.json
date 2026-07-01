@@ -1,0 +1,14 @@
+{
+    "className": "JD_BT_MP9",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 97500,
+    "sellPrice": 73100,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_reflexoptic_barmen_001",
+        "prod_jd_bt_mp9_30rnd_mag_barmen_001"
+    ],
+    "variants": []
+}

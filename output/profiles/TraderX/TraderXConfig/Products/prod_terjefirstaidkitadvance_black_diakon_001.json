@@ -1,0 +1,14 @@
+{
+    "className": "TerjeFirstAidKitAdvance_Black",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 24000,
+    "sellPrice": 1200,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_terjefirstaidkitadvance_brown_diakon_001",
+        "prod_terjefirstaidkitadvance_green_diakon_001"
+    ]
+}

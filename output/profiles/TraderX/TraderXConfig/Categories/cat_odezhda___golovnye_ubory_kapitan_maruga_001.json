@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Головные уборы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_fp4_reconrus_gorka_kapitan_maruga_001",
+        "prod_fp4_vkpo_leto_cap_kapitan_maruga_001",
+        "prod_fp4_vkpo_demi_ushanka_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_colork_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_balaclava_emr_kapitan_maruga_001"
+    ]
+}

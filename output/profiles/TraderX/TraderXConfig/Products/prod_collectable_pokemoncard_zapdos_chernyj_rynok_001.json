@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Zapdos",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 21430,
+    "sellPrice": 20350,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

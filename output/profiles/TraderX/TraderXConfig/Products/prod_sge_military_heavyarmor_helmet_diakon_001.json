@@ -1,0 +1,11 @@
+{
+    "className": "SGE_Military_HeavyArmor_Helmet",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 35000,
+    "sellPrice": 26250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

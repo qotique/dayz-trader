@@ -1,0 +1,11 @@
+{
+    "className": "StartKitIV",
+    "coefficient": 1.0,
+    "maxStock": 200,
+    "tradeQuantity": 16,
+    "buyPrice": 20,
+    "sellPrice": 1,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Can_Kukuruza_closed",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 66,
+    "sellPrice": 7,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

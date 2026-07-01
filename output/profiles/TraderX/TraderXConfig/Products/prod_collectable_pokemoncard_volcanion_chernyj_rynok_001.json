@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Volcanion",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 4285,
+    "sellPrice": 4050,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

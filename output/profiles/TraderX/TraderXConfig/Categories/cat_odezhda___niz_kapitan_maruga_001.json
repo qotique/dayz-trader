@@ -1,0 +1,30 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Низ]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_gorka4_pants_kapitan_maruga_001",
+        "prod_sfp_ctg_pants_brown_kapitan_maruga_001",
+        "prod_usmcpants_desert_kapitan_maruga_001",
+        "prod_usmcpants_woodland_kapitan_maruga_001",
+        "prod_bdupants_kapitan_maruga_001",
+        "prod_fp4_tacticalpants_vkpo_kapitan_maruga_001",
+        "prod_fp4_vkpo_demi_pants_kapitan_maruga_001",
+        "prod_sge_military_bulat_pants_kapitan_maruga_001",
+        "prod_sge_military_beryl_pants_kapitan_maruga_001",
+        "prod_sfp_heavy_military_pants_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colork_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_pants_emr_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants__camoa_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camob_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camoc_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camod_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camoe_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camof_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camog_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camoh_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camol_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_pants_camoj_kapitan_maruga_001"
+    ]
+}

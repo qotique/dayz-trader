@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_FightingEnergy",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 35,
+    "sellPrice": 33,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

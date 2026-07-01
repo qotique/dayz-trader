@@ -1,0 +1,11 @@
+{
+    "className": "RNG_Bag_Pegasus_wood",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 36000,
+    "sellPrice": 27000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

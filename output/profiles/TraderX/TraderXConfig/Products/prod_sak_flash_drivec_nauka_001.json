@@ -1,0 +1,11 @@
+{
+    "className": "Sak_flash_driveC",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 2200,
+    "sellPrice": 1650,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

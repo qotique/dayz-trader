@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBrickBlackFrost",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 130000,
+    "sellPrice": 65000,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

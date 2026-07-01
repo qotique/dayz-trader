@@ -1,0 +1,15 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Винтовки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_soc94_chernyj_rynok_001",
+        "prod_svt40_chernyj_rynok_001",
+        "prod_g_43_chernyj_rynok_001",
+        "prod_vss_chernyj_rynok_001",
+        "prod_m1carbine_chernyj_rynok_001",
+        "prod_svd_chernyj_rynok_001",
+        "prod_sfp_svd1963_chernyj_rynok_001"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "className": "AK74",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 350000,
+    "sellPrice": 262500,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_ak74_woodbttstck_chernyj_rynok_001",
+        "prod_mag_ak74_30rnd_chernyj_rynok_001",
+        "prod_mag_ak74_45rnd_chernyj_rynok_001"
+    ],
+    "variants": []
+}

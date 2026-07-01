@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Магазины]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_jd_mag_groza_20rnd_barmen_001",
+        "prod_jd_mag_m249_box200rnd_barmen_001",
+        "prod_jd_cz_mag_evo_35rnd_barmen_001",
+        "prod_jd_mag_mp7_40rnd_barmen_001",
+        "prod_jd_bt_mp9_30rnd_mag_barmen_001"
+    ]
+}

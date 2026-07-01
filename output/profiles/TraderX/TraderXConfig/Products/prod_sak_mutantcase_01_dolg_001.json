@@ -1,0 +1,14 @@
+{
+    "className": "Sak_MutantCase_01",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 10400,
+    "sellPrice": 9850,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sak_mutantcase_02_dolg_001",
+        "prod_sak_mutantcase_03_dolg_001"
+    ]
+}

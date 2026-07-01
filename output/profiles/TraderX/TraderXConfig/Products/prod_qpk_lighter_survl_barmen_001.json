@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Lighter_SurvL",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 4950,
+    "sellPrice": 4900,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

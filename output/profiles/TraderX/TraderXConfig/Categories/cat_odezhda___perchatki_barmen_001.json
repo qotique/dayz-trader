@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Перчатки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_workinggloves_beige_barmen_001",
+        "prod_tacticalgloves_black_barmen_001",
+        "prod_fp4_minigloves_black_barmen_001",
+        "prod_sfp_mechanics_gloves_blackred_barmen_001",
+        "prod_tgk_russiansoldier_v2_gloves_black_barmen_001"
+    ]
+}

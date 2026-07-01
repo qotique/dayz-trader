@@ -1,0 +1,15 @@
+{
+    "className": "RnC_ActiveHeadset_BK",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 12000,
+    "sellPrice": 11400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_rnc_activeheadset_tan_barmen_001",
+        "prod_rnc_activeheadset_mc_barmen_001",
+        "prod_rnc_activeheadset_rnc_barmen_001"
+    ]
+}

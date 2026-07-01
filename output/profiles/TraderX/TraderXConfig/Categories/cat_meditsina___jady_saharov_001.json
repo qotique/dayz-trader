@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Яды]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeinjectornovichek_saharov_001",
+        "prod_terjepillspotassiumcyanide_saharov_001",
+        "prod_terjepillsarsenic_saharov_001"
+    ]
+}

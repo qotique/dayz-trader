@@ -1,0 +1,20 @@
+{
+    "className": "TGK_RussianSoldier_v2_6B45_EMR",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 12000,
+    "sellPrice": 8400,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_tgk_russiansoldier_v2_groinplate_emr_diakon_001",
+        "prod_tgk_russiansoldier_v2_groinpouch_emr_diakon_001",
+        "prod_tgk_russiansoldier_v2_magpouchbig_emr_diakon_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall2_emr_diakon_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall2_emr_diakon_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall_emr_diakon_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall_emr_diakon_001",
+        "prod_tgk_russiansoldier_v2_medpouch_emr_diakon_001"
+    ],
+    "variants": []
+}

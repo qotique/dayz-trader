@@ -1,0 +1,11 @@
+{
+    "className": "JD_Mag_MP7_40Rnd",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 8500,
+    "sellPrice": 6350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

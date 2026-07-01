@@ -1,0 +1,15 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Винтовки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_soc94_diakon_001",
+        "prod_svt40_diakon_001",
+        "prod_g_43_diakon_001",
+        "prod_vss_diakon_001",
+        "prod_m1carbine_diakon_001",
+        "prod_svd_diakon_001",
+        "prod_sfp_svd1963_diakon_001"
+    ]
+}

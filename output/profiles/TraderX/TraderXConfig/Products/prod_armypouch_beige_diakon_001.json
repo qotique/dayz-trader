@@ -1,0 +1,15 @@
+{
+    "className": "ArmyPouch_Beige",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 3500,
+    "sellPrice": 2600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_armypouch_black_diakon_001",
+        "prod_armypouch_camo_diakon_001",
+        "prod_armypouch_green_diakon_001"
+    ]
+}

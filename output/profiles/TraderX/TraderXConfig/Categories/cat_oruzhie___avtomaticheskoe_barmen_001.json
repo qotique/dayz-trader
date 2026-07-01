@@ -1,0 +1,16 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Автоматическое]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_aks74u_barmen_001",
+        "prod_ak74_barmen_001",
+        "prod_akm_barmen_001",
+        "prod_jd_groza_barmen_001",
+        "prod_jd_m249_barmen_001",
+        "prod_jd_cz_evo3a1_barmen_001",
+        "prod_jd_mp7_barmen_001",
+        "prod_jd_bt_mp9_barmen_001"
+    ]
+}

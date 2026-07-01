@@ -1,0 +1,20 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Стимуляторы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_express_syringe25_diakon_001",
+        "prod_sfp_express_syringe50_diakon_001",
+        "prod_sfp_express_syringe75_diakon_001",
+        "prod_sfp_express_syringe100_diakon_001",
+        "prod_terjeampouleadrenalin_diakon_001",
+        "prod_terjeinjectorreanimatal_diakon_001",
+        "prod_terjeinjectorpropital_diakon_001",
+        "prod_sfp_ai2_medkit_standart_diakon_001",
+        "prod_sfp_ai2_medkit_yello_diakon_001",
+        "prod_sfp_ai2_medkit_blue_diakon_001",
+        "prod_sfp_ai2_medkit_green_diakon_001",
+        "prod_sfp_ai2_medkit_red_diakon_001"
+    ]
+}

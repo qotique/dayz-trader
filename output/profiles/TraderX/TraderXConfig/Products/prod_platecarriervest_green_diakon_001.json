@@ -1,0 +1,13 @@
+{
+    "className": "PlateCarrierVest_Green",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 524388,
+    "buyPrice": 22000,
+    "sellPrice": 16500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_platecarriervest_winter_diakon_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "RZ_PDA_HackSSD",
+    "coefficient": 1.0,
+    "maxStock": 5,
+    "tradeQuantity": 524388,
+    "buyPrice": 50000,
+    "sellPrice": 37500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

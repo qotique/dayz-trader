@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsMesalazin",
+    "coefficient": 1.0,
+    "maxStock": 45,
+    "tradeQuantity": 16,
+    "buyPrice": 6665,
+    "sellPrice": 300,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

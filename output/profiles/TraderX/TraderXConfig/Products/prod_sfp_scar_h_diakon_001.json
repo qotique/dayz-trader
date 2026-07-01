@@ -1,0 +1,11 @@
+{
+    "className": "SFP_SCAR_H",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 180000,
+    "sellPrice": 135000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

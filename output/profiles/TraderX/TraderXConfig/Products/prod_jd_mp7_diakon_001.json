@@ -1,0 +1,16 @@
+{
+    "className": "JD_MP7",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 55000,
+    "sellPrice": 41250,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_universallight_diakon_001",
+        "prod_reflexoptic_diakon_001",
+        "prod_jd_mp7suppressor_diakon_001",
+        "prod_jd_mag_mp7_40rnd_diakon_001"
+    ],
+    "variants": []
+}

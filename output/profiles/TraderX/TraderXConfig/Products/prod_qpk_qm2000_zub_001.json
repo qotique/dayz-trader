@@ -1,0 +1,11 @@
+{
+    "className": "QPK_QM2000",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 48000,
+    "sellPrice": 47500,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

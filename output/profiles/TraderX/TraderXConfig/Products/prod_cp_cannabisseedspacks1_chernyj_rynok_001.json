@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisSeedsPackS1",
+    "coefficient": 1.0,
+    "maxStock": 300,
+    "tradeQuantity": 16,
+    "buyPrice": 9000,
+    "sellPrice": 4500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

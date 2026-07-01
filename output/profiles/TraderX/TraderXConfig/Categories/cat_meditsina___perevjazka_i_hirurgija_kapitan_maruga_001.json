@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_kapitan_maruga_001",
+        "prod_cj_fieldbandage_large_kapitan_maruga_001",
+        "prod_cj_fieldbandage_small_kapitan_maruga_001",
+        "prod_sak_m_bandage_kapitan_maruga_001",
+        "prod_terjefirstaidkitadvance_camo_kapitan_maruga_001",
+        "prod_terjefirstaidkitindividual_camo_kapitan_maruga_001",
+        "prod_terjesurgicaltool_white_kapitan_maruga_001",
+        "prod_terjesyringenew_kapitan_maruga_001",
+        "prod_terjesurgicalkit_kapitan_maruga_001",
+        "prod_terjesurgicaltool_ceramic_kapitan_maruga_001"
+    ]
+}

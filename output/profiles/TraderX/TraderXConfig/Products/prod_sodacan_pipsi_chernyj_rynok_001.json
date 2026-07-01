@@ -1,0 +1,11 @@
+{
+    "className": "SodaCan_Pipsi",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 225,
+    "sellPrice": 22,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

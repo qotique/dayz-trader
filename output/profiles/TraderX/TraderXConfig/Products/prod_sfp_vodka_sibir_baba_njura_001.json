@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Vodka_Sibir",
+    "coefficient": 1.0,
+    "maxStock": 500,
+    "tradeQuantity": 16,
+    "buyPrice": 286,
+    "sellPrice": 250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

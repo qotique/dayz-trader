@@ -1,0 +1,11 @@
+{
+    "className": "Mutant_XZ_Izlom_Hand",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 2100,
+    "sellPrice": 1950,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBrickStardawg",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 230000,
+    "sellPrice": 115000,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

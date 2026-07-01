@@ -1,0 +1,11 @@
+{
+    "className": "SFP_JustGloves",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 999,
+    "sellPrice": 700,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

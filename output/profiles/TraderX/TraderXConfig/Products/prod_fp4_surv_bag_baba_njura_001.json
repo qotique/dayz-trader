@@ -1,0 +1,15 @@
+{
+    "className": "FP4_Surv_Bag",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 7150,
+    "sellPrice": 5350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_fp4_surv_bag_green_baba_njura_001",
+        "prod_fp4_surv_bag_orange_baba_njura_001",
+        "prod_fp4_surv_bag_violet_baba_njura_001"
+    ]
+}

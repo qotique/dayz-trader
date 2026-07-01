@@ -1,0 +1,11 @@
+{
+    "className": "Expansion_Ammo_FlareSupplyGreen",
+    "coefficient": 1.0,
+    "maxStock": 10,
+    "tradeQuantity": 524388,
+    "buyPrice": 500000,
+    "sellPrice": 5000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

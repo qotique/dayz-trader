@@ -1,0 +1,17 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Боеприпасы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_ammo_12gapellets_barmen_001",
+        "prod_ammo_545x39_barmen_001",
+        "prod_ammo_556x45_barmen_001",
+        "prod_ammo_556x45tracer_barmen_001",
+        "prod_ammo_308win_barmen_001",
+        "prod_ammo_308wintracer_barmen_001",
+        "prod_ammo_9x39_barmen_001",
+        "prod_ammo_9x19_barmen_001",
+        "prod_ammo_hk_46x30_barmen_001"
+    ]
+}

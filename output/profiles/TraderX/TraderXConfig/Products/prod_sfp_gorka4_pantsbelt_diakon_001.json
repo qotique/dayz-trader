@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Gorka4_PantsBelt",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 2800,
+    "sellPrice": 2100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

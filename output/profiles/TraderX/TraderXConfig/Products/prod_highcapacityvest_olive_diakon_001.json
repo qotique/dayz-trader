@@ -1,0 +1,11 @@
+{
+    "className": "HighCapacityVest_Olive",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 3700,
+    "sellPrice": 3500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

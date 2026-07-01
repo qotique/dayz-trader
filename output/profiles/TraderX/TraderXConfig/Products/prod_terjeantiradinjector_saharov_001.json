@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAntiradInjector",
+    "coefficient": 1.0,
+    "maxStock": 65,
+    "tradeQuantity": 16,
+    "buyPrice": 8458,
+    "sellPrice": 400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,13 @@
+{
+    "className": "BoonieHat_DPM",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 2500,
+    "sellPrice": 1850,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_booniehat_dubok_chernyj_rynok_001"
+    ]
+}

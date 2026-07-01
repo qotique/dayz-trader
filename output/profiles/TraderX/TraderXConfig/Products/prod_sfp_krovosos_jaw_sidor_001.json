@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Krovosos_jaw",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 1680,
+    "sellPrice": 1550,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

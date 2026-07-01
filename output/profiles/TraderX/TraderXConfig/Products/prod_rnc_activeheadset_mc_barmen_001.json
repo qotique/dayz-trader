@@ -1,0 +1,11 @@
+{
+    "className": "RnC_ActiveHeadset_MC",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 12000,
+    "sellPrice": 11400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

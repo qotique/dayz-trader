@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsAdepress",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 458,
+    "sellPrice": 23,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,13 @@
+{
+    "className": "RSG_Jaket_Monolit_Hood",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 27500,
+    "sellPrice": 26100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_rsg_jaket_monolit2_hood_chernyj_rynok_001"
+    ]
+}

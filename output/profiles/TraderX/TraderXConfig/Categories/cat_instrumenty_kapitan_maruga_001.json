@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Инструменты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_combatknife_kapitan_maruga_001",
+        "prod_sfp_armyradio169_kapitan_maruga_001",
+        "prod_terjedosimetrmkc01a_kapitan_maruga_001",
+        "prod_rz_pda_black_kapitan_maruga_001",
+        "prod_rz_pda_flash_kapitan_maruga_001",
+        "prod_rz_pda_sos_kapitan_maruga_001",
+        "prod_rz_pda_networkchip_kapitan_maruga_001",
+        "prod_rz_pda_battery_kapitan_maruga_001",
+        "prod_compass_kapitan_maruga_001",
+        "prod_gpsreceiver_kapitan_maruga_001"
+    ]
+}

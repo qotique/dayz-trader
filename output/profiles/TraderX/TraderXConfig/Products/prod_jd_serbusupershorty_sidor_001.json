@@ -1,0 +1,11 @@
+{
+    "className": "JD_SerbuSuperShorty",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 32400,
+    "sellPrice": 24300,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

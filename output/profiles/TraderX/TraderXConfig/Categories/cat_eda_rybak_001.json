@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Еда]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_carpfilletmeat_rybak_001",
+        "prod_carp_rybak_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SmershVest",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 5250,
+    "sellPrice": 3900,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

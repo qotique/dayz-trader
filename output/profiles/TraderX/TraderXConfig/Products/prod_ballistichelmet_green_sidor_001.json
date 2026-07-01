@@ -1,0 +1,11 @@
+{
+    "className": "BallisticHelmet_Green",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 12600,
+    "sellPrice": 9450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

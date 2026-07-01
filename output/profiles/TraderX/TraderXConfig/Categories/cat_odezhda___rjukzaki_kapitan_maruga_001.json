@@ -1,0 +1,17 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Рюкзаки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_armypouch_beige_kapitan_maruga_001",
+        "prod_fp4_tacticalbag_green_kapitan_maruga_001",
+        "prod_rng_camelbag_woods_kapitan_maruga_001",
+        "prod_coyotebag_green_kapitan_maruga_001",
+        "prod_alicebag_camo_kapitan_maruga_001",
+        "prod_attack2bag_ttsko_kapitan_maruga_001",
+        "prod_assaultbag_ttsko_kapitan_maruga_001",
+        "prod_rng_bag_pegasus_wood_kapitan_maruga_001",
+        "prod_gelya_backpacks_camelbackpack_hexcamarid_kapitan_maruga_001"
+    ]
+}

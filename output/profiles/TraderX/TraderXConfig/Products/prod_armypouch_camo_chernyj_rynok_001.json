@@ -1,0 +1,11 @@
+{
+    "className": "ArmyPouch_Camo",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 17500,
+    "sellPrice": 13100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

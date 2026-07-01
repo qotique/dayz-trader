@@ -1,0 +1,11 @@
+{
+    "className": "GorkaEJacket_Winter",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 7920,
+    "sellPrice": 5900,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

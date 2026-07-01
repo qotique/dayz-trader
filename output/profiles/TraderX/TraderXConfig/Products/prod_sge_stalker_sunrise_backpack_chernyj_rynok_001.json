@@ -1,0 +1,15 @@
+{
+    "className": "SGE_Stalker_Sunrise_BackPack",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 60000,
+    "sellPrice": 45000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sge_stalker_sunrise_backpack_2_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_backpack_3_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_backpack_4_chernyj_rynok_001"
+    ]
+}

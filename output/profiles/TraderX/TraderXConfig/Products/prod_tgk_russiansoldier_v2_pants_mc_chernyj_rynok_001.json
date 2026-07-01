@@ -1,0 +1,11 @@
+{
+    "className": "TGK_RussianSoldier_v2_Pants_MC",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 30000,
+    "sellPrice": 21000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Beedrill",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 1716,
+    "sellPrice": 1600,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

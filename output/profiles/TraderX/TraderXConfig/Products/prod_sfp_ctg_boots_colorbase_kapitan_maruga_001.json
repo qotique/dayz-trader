@@ -1,0 +1,14 @@
+{
+    "className": "SFP_CTG_Boots_ColorBase",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 15600,
+    "sellPrice": 11700,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sfp_ctg_boots_summer_kapitan_maruga_001",
+        "prod_sfp_ctg_boots_autumn_kapitan_maruga_001"
+    ]
+}

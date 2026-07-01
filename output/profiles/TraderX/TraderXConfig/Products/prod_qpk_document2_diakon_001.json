@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Document2",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 4000,
+    "sellPrice": 3950,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

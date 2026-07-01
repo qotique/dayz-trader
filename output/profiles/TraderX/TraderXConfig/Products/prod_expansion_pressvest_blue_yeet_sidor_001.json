@@ -1,0 +1,11 @@
+{
+    "className": "Expansion_PressVest_Blue_Yeet",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 14400,
+    "sellPrice": 13650,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

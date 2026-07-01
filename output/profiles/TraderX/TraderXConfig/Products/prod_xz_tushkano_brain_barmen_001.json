@@ -1,0 +1,11 @@
+{
+    "className": "XZ_Tushkano_brain",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 432,
+    "sellPrice": 400,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

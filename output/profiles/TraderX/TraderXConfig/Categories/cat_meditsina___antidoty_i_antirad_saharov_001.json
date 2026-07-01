@@ -1,0 +1,23 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антидоты и Антирад]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_charcoaltablets_saharov_001",
+        "prod_terjeantiradinjector_saharov_001",
+        "prod_terjeampoulemetoclopramid_saharov_001",
+        "prod_terjeampoulepentacin_saharov_001",
+        "prod_terjeampouleneirocetal_saharov_001",
+        "prod_terjeampouleheptral_saharov_001",
+        "prod_terjeampoulecarboxyme_saharov_001",
+        "prod_terjeinjectorstomaproxidal_saharov_001",
+        "prod_terjepillscharcoaltablets_saharov_001",
+        "prod_terjepillspolisorb_saharov_001",
+        "prod_terjepillsmesalazin_saharov_001",
+        "prod_terjepillsftalazol_saharov_001",
+        "prod_terjepillshexacyanoferrate_saharov_001",
+        "prod_terjepillsiversan_saharov_001",
+        "prod_terjepillsrombiopental_saharov_001"
+    ]
+}

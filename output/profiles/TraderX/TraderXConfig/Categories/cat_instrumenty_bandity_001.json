@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Инструменты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_armyradio169_bandity_001",
+        "prod_rz_pda_black_bandity_001"
+    ]
+}

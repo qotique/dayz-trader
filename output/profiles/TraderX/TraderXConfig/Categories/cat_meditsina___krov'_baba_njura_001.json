@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Кровь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_startkitiv_baba_njura_001",
+        "prod_bloodbagempty_baba_njura_001",
+        "prod_salinebagiv_baba_njura_001",
+        "prod_terjepillsmagnesiumsulfate_baba_njura_001"
+    ]
+}

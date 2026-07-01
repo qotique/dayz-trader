@@ -1,0 +1,25 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антибиотики и Вакцины]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeampouleamoxivan_nauka_001",
+        "prod_terjeampoulevaxicam_nauka_001",
+        "prod_terjeampoulerabivax_nauka_001",
+        "prod_terjeampoulerabinoline_nauka_001",
+        "prod_terjeampouleketarol_nauka_001",
+        "prod_terjeampouleflemoclav_nauka_001",
+        "prod_terjeampouleimipenem_nauka_001",
+        "prod_terjeampoulerifampicyne_nauka_001",
+        "prod_terjeinjectortopoizomeraza_nauka_001",
+        "prod_terjeinjectorrabinucoline_nauka_001",
+        "prod_terjepillstetracyclineantibiotics_nauka_001",
+        "prod_terjepillsparacetamol_nauka_001",
+        "prod_terjepillsibuprofen_nauka_001",
+        "prod_terjepillsnurofen_nauka_001",
+        "prod_terjepillsamoxiclav_nauka_001",
+        "prod_terjepillspiperacylin_nauka_001",
+        "prod_terjepillsamibaktam_nauka_001"
+    ]
+}

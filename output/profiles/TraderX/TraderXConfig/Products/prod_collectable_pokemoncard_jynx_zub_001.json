@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Jynx",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 1287,
+    "sellPrice": 1200,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

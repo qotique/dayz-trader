@@ -1,0 +1,11 @@
+{
+    "className": "Kote_Material_CanBolts",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 2100,
+    "sellPrice": 1550,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

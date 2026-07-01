@@ -1,0 +1,11 @@
+{
+    "className": "SFP_CTG_Boots_Autumn",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 15600,
+    "sellPrice": 11700,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

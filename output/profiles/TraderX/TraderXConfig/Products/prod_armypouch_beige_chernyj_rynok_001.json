@@ -1,0 +1,15 @@
+{
+    "className": "ArmyPouch_Beige",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 17500,
+    "sellPrice": 13100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_armypouch_black_chernyj_rynok_001",
+        "prod_armypouch_camo_chernyj_rynok_001",
+        "prod_armypouch_green_chernyj_rynok_001"
+    ]
+}

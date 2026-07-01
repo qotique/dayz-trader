@@ -1,0 +1,11 @@
+{
+    "className": "TerjeInjectorStomaproxidal",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 8260,
+    "sellPrice": 400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

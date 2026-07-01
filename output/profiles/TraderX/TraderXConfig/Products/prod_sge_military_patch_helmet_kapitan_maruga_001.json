@@ -1,0 +1,11 @@
+{
+    "className": "SGE_Military_Patch_Helmet",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 19500,
+    "sellPrice": 14600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

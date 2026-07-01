@@ -1,0 +1,19 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Бронежилеты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_modularvestsystem_base_kapitan_maruga_001",
+        "prod_sge_military_bulat_vest_kapitan_maruga_001",
+        "prod_sge_military_beryl_plate_kapitan_maruga_001",
+        "prod_sge_military_beryl_vest_kapitan_maruga_001",
+        "prod_sge_military_patch_helmet_kapitan_maruga_001",
+        "prod_sge_military_beryl_helmet_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_vest_colork_kapitan_maruga_001",
+        "prod_sfp_vest6b5_green_kapitan_maruga_001",
+        "prod_platecarriervest_camo_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_groinplate_emr_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_6b45_emr_kapitan_maruga_001"
+    ]
+}

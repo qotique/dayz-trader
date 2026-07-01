@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Ultralink",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 60000,
+    "sellPrice": 59400,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

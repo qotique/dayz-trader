@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Инструменты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_armyradio169_saharov_001",
+        "prod_terjedosimetrdpg05_saharov_001",
+        "prod_on_acontainer4_saharov_001",
+        "prod_rz_pda_black_saharov_001",
+        "prod_rz_pda_flash_saharov_001",
+        "prod_rz_pda_flash_profile_saharov_001",
+        "prod_rz_pda_sos_saharov_001",
+        "prod_rz_pda_networkchip_saharov_001",
+        "prod_rz_pda_ssd_saharov_001",
+        "prod_rz_pda_battery_saharov_001"
+    ]
+}

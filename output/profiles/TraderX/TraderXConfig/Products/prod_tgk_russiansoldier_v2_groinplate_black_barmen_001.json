@@ -1,0 +1,15 @@
+{
+    "className": "TGK_RussianSoldier_v2_GroinPlate_Black",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 2100,
+    "sellPrice": 1450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tgk_russiansoldier_v2_groinplate_alpine_barmen_001",
+        "prod_tgk_russiansoldier_v2_groinplate_black_mc_barmen_001",
+        "prod_tgk_russiansoldier_v2_groinplate_mc_barmen_001"
+    ]
+}

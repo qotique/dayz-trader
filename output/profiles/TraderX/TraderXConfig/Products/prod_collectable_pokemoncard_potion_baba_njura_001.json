@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Potion",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 52,
+    "sellPrice": 49,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

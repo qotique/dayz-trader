@@ -1,0 +1,11 @@
+{
+    "className": "SFP_CTG_Pants_Swamp",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 19500,
+    "sellPrice": 14600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

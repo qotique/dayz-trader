@@ -1,0 +1,11 @@
+{
+    "className": "QPK_TheOkoMortarFire",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 80000,
+    "sellPrice": 79200,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

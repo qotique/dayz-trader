@@ -1,0 +1,11 @@
+{
+    "className": "SLP_FireflyInJar_Lavender",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 20000,
+    "sellPrice": 19800,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

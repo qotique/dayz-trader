@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_ImposterProfessorOak",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 1059,
+    "sellPrice": 1000,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

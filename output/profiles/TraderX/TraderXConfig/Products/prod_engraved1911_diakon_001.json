@@ -1,0 +1,11 @@
+{
+    "className": "Engraved1911",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 30000,
+    "sellPrice": 22500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

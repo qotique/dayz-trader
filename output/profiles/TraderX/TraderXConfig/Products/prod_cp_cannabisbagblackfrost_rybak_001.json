@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBagBlackFrost",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 4500,
+    "sellPrice": 2250,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

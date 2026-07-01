@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антидоты и Антирад]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_charcoaltablets_barmen_001",
+        "prod_terjepillscharcoaltablets_barmen_001",
+        "prod_terjepillspolisorb_barmen_001"
+    ]
+}

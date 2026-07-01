@@ -1,0 +1,13 @@
+{
+    "className": "USMCJacket_Woodland",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 3900,
+    "sellPrice": 2900,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_usmcjacket_desert_kapitan_maruga_001"
+    ]
+}

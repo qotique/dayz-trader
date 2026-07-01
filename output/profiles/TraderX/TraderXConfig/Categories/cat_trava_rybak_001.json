@@ -1,0 +1,24 @@
+{
+    "isVisible": 0,
+    "icon": "",
+    "categoryName": "[Трава]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_cp_cannabisbagblackfrost_rybak_001",
+        "prod_cp_cannabisbagbluegod_rybak_001",
+        "prod_cp_cannabisbagfuture_rybak_001",
+        "prod_cp_cannabisbagnomad_rybak_001",
+        "prod_cp_cannabisbagpurplekush_rybak_001",
+        "prod_cp_cannabisbags1_rybak_001",
+        "prod_cp_cannabisbagskunk_rybak_001",
+        "prod_cp_cannabisbagstardawg_rybak_001",
+        "prod_cp_cannabisbrickblackfrost_rybak_001",
+        "prod_cp_cannabisbrickbluegod_rybak_001",
+        "prod_cp_cannabisbrickfuture_rybak_001",
+        "prod_cp_cannabisbricknomad_rybak_001",
+        "prod_cp_cannabisbrickpurplekush_rybak_001",
+        "prod_cp_cannabisbricks1_rybak_001",
+        "prod_cp_cannabisbrickskunk_rybak_001",
+        "prod_cp_cannabisbrickstardawg_rybak_001"
+    ]
+}

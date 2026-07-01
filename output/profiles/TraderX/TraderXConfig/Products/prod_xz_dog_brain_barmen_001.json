@@ -1,0 +1,11 @@
+{
+    "className": "XZ_Dog_brain",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 108,
+    "sellPrice": 100,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

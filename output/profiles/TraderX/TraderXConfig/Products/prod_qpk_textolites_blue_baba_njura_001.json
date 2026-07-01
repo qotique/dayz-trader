@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Textolites_Blue",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 330,
+    "sellPrice": 300,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

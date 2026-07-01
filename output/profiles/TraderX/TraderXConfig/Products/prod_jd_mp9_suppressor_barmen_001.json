@@ -1,0 +1,11 @@
+{
+    "className": "JD_MP9_Suppressor",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 27000,
+    "sellPrice": 20250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

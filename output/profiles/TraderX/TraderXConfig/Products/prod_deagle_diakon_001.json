@@ -1,0 +1,11 @@
+{
+    "className": "Deagle",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 70000,
+    "sellPrice": 52500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

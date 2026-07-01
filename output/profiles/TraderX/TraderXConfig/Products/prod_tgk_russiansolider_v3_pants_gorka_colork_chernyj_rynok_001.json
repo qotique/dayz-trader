@@ -1,0 +1,22 @@
+{
+    "className": "TGK_RussianSolider_V3_Pants_Gorka_ColorK",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 40000,
+    "sellPrice": 28000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tgk_russiansolider_v3_pants_gorka_colora_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colorb_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colorc_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colord_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colore_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colorf_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colorg_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colorh_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colorl_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_pants_gorka_colorj_chernyj_rynok_001"
+    ]
+}

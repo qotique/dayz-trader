@@ -1,0 +1,11 @@
+{
+    "className": "TerjeInjectorErytromixelin",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 985,
+    "sellPrice": 49,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

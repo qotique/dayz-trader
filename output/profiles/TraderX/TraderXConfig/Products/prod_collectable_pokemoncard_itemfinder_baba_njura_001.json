@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_ItemFinder",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 424,
+    "sellPrice": 400,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "GSH18",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 6500,
+    "sellPrice": 4850,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

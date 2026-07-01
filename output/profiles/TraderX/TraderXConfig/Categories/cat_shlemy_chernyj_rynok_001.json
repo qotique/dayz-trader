@@ -1,0 +1,15 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Шлемы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_gorkahelmet_chernyj_rynok_001",
+        "prod_sge_military_heavyarmor_helmet_chernyj_rynok_001",
+        "prod_ballistichelmet_green_chernyj_rynok_001",
+        "prod_tankerhelmet_chernyj_rynok_001",
+        "prod_sfp_hazmat_helm_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_helmet_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_helmet_emr_chernyj_rynok_001"
+    ]
+}

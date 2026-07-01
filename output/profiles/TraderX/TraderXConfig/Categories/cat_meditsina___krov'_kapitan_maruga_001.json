@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Кровь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_startkitiv_kapitan_maruga_001",
+        "prod_bloodbagempty_kapitan_maruga_001",
+        "prod_salinebagiv_kapitan_maruga_001",
+        "prod_terjepillsmagnesiumsulfate_kapitan_maruga_001",
+        "prod_terjepillsvikasol_kapitan_maruga_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "AliceBag_Camo",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 6400,
+    "sellPrice": 4800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

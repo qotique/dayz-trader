@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsNimesulid",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 880,
+    "sellPrice": 44,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

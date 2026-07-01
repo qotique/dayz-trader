@@ -1,0 +1,28 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Разгрузки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_gorka4_vest_chernyj_rynok_001",
+        "prod_smershvest_chernyj_rynok_001",
+        "prod_smershbag_chernyj_rynok_001",
+        "prod_highcapacityvest_black_chernyj_rynok_001",
+        "prod_highcapacityvest_olive_chernyj_rynok_001",
+        "prod_ukassvest_black_chernyj_rynok_001",
+        "prod_ukassvest_camo_chernyj_rynok_001",
+        "prod_ukassvest_khaki_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_granadepouch_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_granadepouch_emr_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_groinpouch_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_groinpouch_emr_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchbig_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchbig_emr_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall2_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall2_emr_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall_emr_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_medpouch_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_medpouch_emr_chernyj_rynok_001"
+    ]
+}

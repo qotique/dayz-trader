@@ -1,0 +1,11 @@
+{
+    "className": "SGE_Military_Beryl_Helmet",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 15600,
+    "sellPrice": 11700,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

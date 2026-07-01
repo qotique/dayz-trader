@@ -1,0 +1,11 @@
+{
+    "className": "TerjePump",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 50000,
+    "sellPrice": 37500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

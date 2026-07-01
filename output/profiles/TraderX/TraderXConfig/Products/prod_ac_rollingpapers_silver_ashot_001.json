@@ -1,0 +1,11 @@
+{
+    "className": "AC_RollingPapers_Silver",
+    "coefficient": 1.0,
+    "maxStock": 1000,
+    "tradeQuantity": 16,
+    "buyPrice": 600,
+    "sellPrice": 300,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

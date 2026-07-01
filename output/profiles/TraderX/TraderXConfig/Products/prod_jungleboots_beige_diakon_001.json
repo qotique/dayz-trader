@@ -1,0 +1,14 @@
+{
+    "className": "JungleBoots_Beige",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 700,
+    "sellPrice": 500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_jungleboots_black_diakon_001",
+        "prod_jungleboots_green_diakon_001"
+    ]
+}

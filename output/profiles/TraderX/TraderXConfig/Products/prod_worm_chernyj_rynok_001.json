@@ -1,0 +1,11 @@
+{
+    "className": "Worm",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 2621796,
+    "buyPrice": 2500,
+    "sellPrice": 250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

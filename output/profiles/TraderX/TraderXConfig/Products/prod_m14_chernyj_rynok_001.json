@@ -1,0 +1,11 @@
+{
+    "className": "M14",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 1000000,
+    "sellPrice": 750000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

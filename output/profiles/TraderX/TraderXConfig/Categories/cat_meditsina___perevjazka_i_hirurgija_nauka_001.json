@@ -1,0 +1,27 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_nauka_001",
+        "prod_cj_fieldbandage_large_nauka_001",
+        "prod_cj_fieldbandage_small_nauka_001",
+        "prod_sak_m_bandage_nauka_001",
+        "prod_terjefirstaidkitadvance_black_nauka_001",
+        "prod_terjefirstaidkitadvance_camo_nauka_001",
+        "prod_terjefirstaidkitindividual_black_nauka_001",
+        "prod_terjefirstaidkitindividual_camo_nauka_001",
+        "prod_terjefirstaidkitmedium_nauka_001",
+        "prod_terjefirstaidkitlarge_nauka_001",
+        "prod_terjeplaster_nauka_001",
+        "prod_terjebandagehemostatic_nauka_001",
+        "prod_terjesurgicaltool_white_nauka_001",
+        "prod_terjesyringenew_nauka_001",
+        "prod_bloodbagkit_nauka_001",
+        "prod_terjesurgicalkit_nauka_001",
+        "prod_terjesurgicaltool_ceramic_nauka_001",
+        "prod_bandagehemostatic_nauka_001",
+        "prod_terjestethoscope_nauka_001"
+    ]
+}

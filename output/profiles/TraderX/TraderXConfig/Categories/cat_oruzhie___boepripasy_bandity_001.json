@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Боеприпасы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_ammo_12gapellets_bandity_001",
+        "prod_ammo_545x39_bandity_001",
+        "prod_ammo_545x39tracer_bandity_001"
+    ]
+}

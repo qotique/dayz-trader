@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Battery9V_GP",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 18,
+    "buyPrice": 429,
+    "sellPrice": 300,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

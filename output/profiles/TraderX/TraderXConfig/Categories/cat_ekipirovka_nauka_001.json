@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Экипировка]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_canteen_nauka_001",
+        "prod_headtorch_grey_nauka_001",
+        "prod_fp4_poas_bag_nauka_001",
+        "prod_sak_mutantcase_01_nauka_001"
+    ]
+}

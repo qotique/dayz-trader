@@ -1,0 +1,11 @@
+{
+    "className": "SFP_WinM1912Short_Shotgun",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 7500,
+    "sellPrice": 5600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

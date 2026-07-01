@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpouleMetralindole",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 818,
+    "sellPrice": 41,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

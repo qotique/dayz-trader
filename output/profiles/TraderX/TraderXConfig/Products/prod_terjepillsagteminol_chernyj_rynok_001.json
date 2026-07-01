@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsAgteminol",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 915,
+    "sellPrice": 46,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

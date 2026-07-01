@@ -1,0 +1,16 @@
+{
+    "className": "ColdWarBottom_Frogskin",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 16500,
+    "sellPrice": 15650,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_coldwarbottom_dpm_chernyj_rynok_001",
+        "prod_coldwarbottom_ttsmkk_chernyj_rynok_001",
+        "prod_coldwarbottom_klmk_chernyj_rynok_001",
+        "prod_coldwarbottom_klmkso_chernyj_rynok_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Яды]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeinjectornovichek_chernyj_rynok_001",
+        "prod_terjepillspotassiumcyanide_chernyj_rynok_001",
+        "prod_terjepillsarsenic_chernyj_rynok_001"
+    ]
+}

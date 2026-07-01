@@ -1,0 +1,15 @@
+{
+    "className": "RSG_Backpack_Tactical_Black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 10000,
+    "sellPrice": 9500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_rsg_backpack_tactical_green_diakon_001",
+        "prod_rsg_backpack_tactical_camo_diakon_001",
+        "prod_rsg_backpack_tactical_brown_diakon_001"
+    ]
+}

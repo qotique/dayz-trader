@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_zub_001",
+        "prod_terjesyringenew_zub_001",
+        "prod_bloodbagkit_zub_001",
+        "prod_terjesurgicalkit_zub_001",
+        "prod_terjesurgicaltool_ceramic_zub_001"
+    ]
+}

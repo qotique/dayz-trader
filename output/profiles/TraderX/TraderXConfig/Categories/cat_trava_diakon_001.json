@@ -1,0 +1,24 @@
+{
+    "isVisible": 0,
+    "icon": "",
+    "categoryName": "[Трава]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_cp_cannabisbagblackfrost_diakon_001",
+        "prod_cp_cannabisbagbluegod_diakon_001",
+        "prod_cp_cannabisbagfuture_diakon_001",
+        "prod_cp_cannabisbagnomad_diakon_001",
+        "prod_cp_cannabisbagpurplekush_diakon_001",
+        "prod_cp_cannabisbags1_diakon_001",
+        "prod_cp_cannabisbagskunk_diakon_001",
+        "prod_cp_cannabisbagstardawg_diakon_001",
+        "prod_cp_cannabisbrickblackfrost_diakon_001",
+        "prod_cp_cannabisbrickbluegod_diakon_001",
+        "prod_cp_cannabisbrickfuture_diakon_001",
+        "prod_cp_cannabisbricknomad_diakon_001",
+        "prod_cp_cannabisbrickpurplekush_diakon_001",
+        "prod_cp_cannabisbricks1_diakon_001",
+        "prod_cp_cannabisbrickskunk_diakon_001",
+        "prod_cp_cannabisbrickstardawg_diakon_001"
+    ]
+}

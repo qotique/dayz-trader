@@ -1,0 +1,11 @@
+{
+    "className": "TOZ34",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 15000,
+    "sellPrice": 11250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

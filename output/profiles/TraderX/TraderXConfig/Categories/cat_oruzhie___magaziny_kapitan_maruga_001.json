@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Магазины]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_mag_ak74_45rnd_kapitan_maruga_001",
+        "prod_sfp_pkp_boxmag_kapitan_maruga_001",
+        "prod_mag_ak74_30rnd_kapitan_maruga_001",
+        "prod_mag_svd_10rnd_kapitan_maruga_001",
+        "prod_mag_ij70_8rnd_kapitan_maruga_001"
+    ]
+}

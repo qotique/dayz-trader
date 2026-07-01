@@ -1,0 +1,14 @@
+{
+    "className": "AKS74U",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 60000,
+    "sellPrice": 45000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_mag_ak74_30rnd_diakon_001",
+        "prod_mag_ak74_45rnd_diakon_001"
+    ],
+    "variants": []
+}

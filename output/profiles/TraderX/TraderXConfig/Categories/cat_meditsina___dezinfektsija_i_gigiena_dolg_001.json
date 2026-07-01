@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Дезинфекция и Гигиена]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_disinfectantalcohol_dolg_001",
+        "prod_disinfectantspray_dolg_001"
+    ]
+}

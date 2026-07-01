@@ -1,0 +1,11 @@
+{
+    "className": "SFP_CTG_Boots_Summer",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 60000,
+    "sellPrice": 45000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

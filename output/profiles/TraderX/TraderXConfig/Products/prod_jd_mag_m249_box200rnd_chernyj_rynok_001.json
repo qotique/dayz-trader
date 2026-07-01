@@ -1,0 +1,11 @@
+{
+    "className": "JD_Mag_M249_Box200Rnd",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 60000,
+    "sellPrice": 45000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "AN94",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 450000,
+    "sellPrice": 337500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

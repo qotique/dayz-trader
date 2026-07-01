@@ -1,0 +1,27 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_chernyj_rynok_001",
+        "prod_cj_fieldbandage_large_chernyj_rynok_001",
+        "prod_cj_fieldbandage_small_chernyj_rynok_001",
+        "prod_sak_m_bandage_chernyj_rynok_001",
+        "prod_terjefirstaidkitadvance_black_chernyj_rynok_001",
+        "prod_terjefirstaidkitadvance_camo_chernyj_rynok_001",
+        "prod_terjefirstaidkitindividual_black_chernyj_rynok_001",
+        "prod_terjefirstaidkitindividual_camo_chernyj_rynok_001",
+        "prod_terjefirstaidkitmedium_chernyj_rynok_001",
+        "prod_terjefirstaidkitlarge_chernyj_rynok_001",
+        "prod_terjeplaster_chernyj_rynok_001",
+        "prod_terjebandagehemostatic_chernyj_rynok_001",
+        "prod_terjesurgicaltool_white_chernyj_rynok_001",
+        "prod_terjesyringenew_chernyj_rynok_001",
+        "prod_bloodbagkit_chernyj_rynok_001",
+        "prod_terjesurgicalkit_chernyj_rynok_001",
+        "prod_terjesurgicaltool_ceramic_chernyj_rynok_001",
+        "prod_bandagehemostatic_chernyj_rynok_001",
+        "prod_terjestethoscope_chernyj_rynok_001"
+    ]
+}

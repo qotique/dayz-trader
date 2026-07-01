@@ -1,0 +1,11 @@
+{
+    "className": "Attack2Bag_Ttsko",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 8320,
+    "sellPrice": 6200,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

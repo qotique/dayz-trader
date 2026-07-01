@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsHexacyanoferrate",
+    "coefficient": 1.0,
+    "maxStock": 95,
+    "tradeQuantity": 16,
+    "buyPrice": 845,
+    "sellPrice": 42,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

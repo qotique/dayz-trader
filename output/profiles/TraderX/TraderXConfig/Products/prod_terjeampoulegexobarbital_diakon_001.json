@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpouleGexobarbital",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 3364,
+    "sellPrice": 150,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

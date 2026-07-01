@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Ophthalmoscope",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 2700,
+    "sellPrice": 2650,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

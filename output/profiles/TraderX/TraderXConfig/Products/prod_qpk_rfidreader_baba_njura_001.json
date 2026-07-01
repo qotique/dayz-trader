@@ -1,0 +1,11 @@
+{
+    "className": "QPK_RFIDreader",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 3850,
+    "sellPrice": 3800,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

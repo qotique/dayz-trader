@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_ClefairlyDoll",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 1875,
+    "sellPrice": 1750,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Qwest_BlackBox",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 250000,
+    "sellPrice": 247500,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

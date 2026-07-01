@@ -1,0 +1,18 @@
+{
+    "className": "SlacksPants_Beige",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 6000,
+    "sellPrice": 5700,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_slackspants_blue_chernyj_rynok_001",
+        "prod_slackspants_brown_chernyj_rynok_001",
+        "prod_slackspants_darkgrey_chernyj_rynok_001",
+        "prod_slackspants_khaki_chernyj_rynok_001",
+        "prod_slackspants_lightgrey_chernyj_rynok_001",
+        "prod_slackspants_white_chernyj_rynok_001"
+    ]
+}

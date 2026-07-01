@@ -1,0 +1,11 @@
+{
+    "className": "CJ_Battery9V_1",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 18,
+    "buyPrice": 650,
+    "sellPrice": 450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

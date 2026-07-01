@@ -1,0 +1,13 @@
+{
+    "className": "SFP_BenelliM4",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 400000,
+    "sellPrice": 300000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_reflexoptic_chernyj_rynok_001"
+    ],
+    "variants": []
+}

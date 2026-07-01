@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Головные уборы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_booniehat_dpm_diakon_001",
+        "prod_fp4_reconrus_gorka_diakon_001",
+        "prod_fp4_vkpo_leto_cap_diakon_001",
+        "prod_fp4_vkpo_demi_ushanka_diakon_001",
+        "prod_sfp_ecologbig_helm_diakon_001",
+        "prod_nbchoodwhite_diakon_001",
+        "prod_rsg_mask_black_diakon_001",
+        "prod_tgk_russiansoldier_v2_balaclava_black_diakon_001",
+        "prod_tgk_russiansoldier_v2_balaclava_emr_diakon_001",
+        "prod_tgk_russiansolider_v3_balacalava_colork_diakon_001"
+    ]
+}

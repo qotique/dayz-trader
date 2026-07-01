@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Charizard",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 33000,
+    "sellPrice": 31350,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

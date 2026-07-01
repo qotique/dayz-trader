@@ -1,0 +1,11 @@
+{
+    "className": "TGK_RussianSoldier_v2_MagPouchSmall_EMR",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 7000,
+    "sellPrice": 4900,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

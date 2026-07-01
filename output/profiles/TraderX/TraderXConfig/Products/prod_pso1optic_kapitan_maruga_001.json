@@ -1,0 +1,11 @@
+{
+    "className": "PSO1Optic",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 3900,
+    "sellPrice": 2900,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

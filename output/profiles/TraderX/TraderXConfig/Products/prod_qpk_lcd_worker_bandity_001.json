@@ -1,0 +1,11 @@
+{
+    "className": "QPK_LCD_Worker",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 5200,
+    "sellPrice": 5100,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

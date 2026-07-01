@@ -1,0 +1,13 @@
+{
+    "className": "RSG_Body_Plash_Brown",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 25000,
+    "sellPrice": 23750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_rsg_body_plash_black_chernyj_rynok_001"
+    ]
+}

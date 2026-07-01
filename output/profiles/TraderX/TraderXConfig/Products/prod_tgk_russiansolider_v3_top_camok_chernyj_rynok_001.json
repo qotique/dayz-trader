@@ -1,0 +1,11 @@
+{
+    "className": "TGK_RussianSolider_V3_TOP_CamoK",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 18000,
+    "sellPrice": 12600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

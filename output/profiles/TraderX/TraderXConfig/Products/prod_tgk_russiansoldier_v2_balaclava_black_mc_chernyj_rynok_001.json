@@ -1,0 +1,11 @@
+{
+    "className": "TGK_RussianSoldier_v2_Balaclava_Black_MC",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 2500,
+    "sellPrice": 1750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

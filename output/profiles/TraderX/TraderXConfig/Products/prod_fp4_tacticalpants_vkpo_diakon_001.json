@@ -1,0 +1,11 @@
+{
+    "className": "FP4_TacticalPants_vkpo",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 12000,
+    "sellPrice": 9000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,16 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Шлемы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_helmet_sobr_colorbase_diakon_001",
+        "prod_gorkahelmet_diakon_001",
+        "prod_sge_military_heavyarmor_helmet_diakon_001",
+        "prod_ballistichelmet_green_diakon_001",
+        "prod_tankerhelmet_diakon_001",
+        "prod_sfp_hazmat_helm_diakon_001",
+        "prod_tgk_russiansoldier_v2_helmet_black_diakon_001",
+        "prod_tgk_russiansoldier_v2_helmet_emr_diakon_001"
+    ]
+}

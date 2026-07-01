@@ -1,0 +1,11 @@
+{
+    "className": "RZ_PDA_Battery",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 18,
+    "buyPrice": 650,
+    "sellPrice": 450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

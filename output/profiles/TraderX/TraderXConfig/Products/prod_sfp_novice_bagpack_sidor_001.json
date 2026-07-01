@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Novice_bagpack",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 7200,
+    "sellPrice": 5400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

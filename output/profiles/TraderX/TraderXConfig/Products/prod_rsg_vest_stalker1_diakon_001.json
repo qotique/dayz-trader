@@ -1,0 +1,13 @@
+{
+    "className": "RSG_Vest_Stalker1",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 12000,
+    "sellPrice": 11400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_rsg_vest_stalker2_diakon_001"
+    ]
+}

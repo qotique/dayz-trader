@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Яды]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeinjectornovichek_diakon_001",
+        "prod_terjepillspotassiumcyanide_diakon_001",
+        "prod_terjepillsarsenic_diakon_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "RZ_PDA_Flash",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 1300,
+    "sellPrice": 950,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

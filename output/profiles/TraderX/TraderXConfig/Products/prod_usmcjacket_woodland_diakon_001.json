@@ -1,0 +1,13 @@
+{
+    "className": "USMCJacket_Woodland",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 3000,
+    "sellPrice": 2250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_usmcjacket_desert_diakon_001"
+    ]
+}

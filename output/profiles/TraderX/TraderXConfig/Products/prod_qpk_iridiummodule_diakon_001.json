@@ -1,0 +1,11 @@
+{
+    "className": "QPK_IridiumModule",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 22000,
+    "sellPrice": 21750,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

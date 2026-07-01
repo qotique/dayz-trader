@@ -1,0 +1,15 @@
+{
+    "className": "FP4_VKPO_Demi_RHBZ",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 10400,
+    "sellPrice": 7800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_fp4_vkpo_leto_tors_rhbz_kapitan_maruga_001",
+        "prod_fp4_vkpo_leto_tors_rtv_kapitan_maruga_001",
+        "prod_fp4_vkpo_demi_vdv_kapitan_maruga_001"
+    ]
+}

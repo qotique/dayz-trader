@@ -1,0 +1,11 @@
+{
+    "className": "BakedBeansCan",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 363,
+    "sellPrice": 36,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "TGK_RussianSolider_V3_Pants_Gorka_ColorH",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 40000,
+    "sellPrice": 28000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

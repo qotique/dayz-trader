@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsAnalgin",
+    "coefficient": 1.0,
+    "maxStock": 150,
+    "tradeQuantity": 16,
+    "buyPrice": 3985,
+    "sellPrice": 150,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

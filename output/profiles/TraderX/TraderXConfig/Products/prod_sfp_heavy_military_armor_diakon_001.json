@@ -1,0 +1,17 @@
+{
+    "className": "SFP_Heavy_Military_armor",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 40000,
+    "sellPrice": 30000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sfp_heavy_military_armor_dolg_diakon_001",
+        "prod_sfp_heavy_military_armor_cs_diakon_001",
+        "prod_sfp_heavy_military_armor_monolit_diakon_001",
+        "prod_sfp_heavy_military_armor_naem_diakon_001",
+        "prod_sfp_heavy_military_armor_voin_diakon_001"
+    ]
+}

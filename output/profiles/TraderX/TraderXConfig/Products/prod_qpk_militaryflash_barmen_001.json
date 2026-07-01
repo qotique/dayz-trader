@@ -1,0 +1,11 @@
+{
+    "className": "QPK_MilitaryFlash",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 4200,
+    "sellPrice": 4150,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

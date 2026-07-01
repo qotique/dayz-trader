@@ -1,0 +1,13 @@
+{
+    "className": "SFP_ShotgunMP153ModPlastic",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 37500,
+    "sellPrice": 28100,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_reflexoptic_barmen_001"
+    ],
+    "variants": []
+}

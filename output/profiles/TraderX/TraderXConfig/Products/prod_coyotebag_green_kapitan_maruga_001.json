@@ -1,0 +1,11 @@
+{
+    "className": "CoyoteBag_Green",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 7280,
+    "sellPrice": 5450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

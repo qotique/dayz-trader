@@ -1,0 +1,15 @@
+{
+    "className": "JD_BT_MP9",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 325000,
+    "sellPrice": 243750,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_universallight_chernyj_rynok_001",
+        "prod_reflexoptic_chernyj_rynok_001",
+        "prod_jd_bt_mp9_30rnd_mag_chernyj_rynok_001"
+    ],
+    "variants": []
+}

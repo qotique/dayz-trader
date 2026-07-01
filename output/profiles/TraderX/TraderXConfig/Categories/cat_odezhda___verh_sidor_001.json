@@ -1,0 +1,19 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Верх]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_gorkaejacket_summer_sidor_001",
+        "prod_sge_loner_beginner_jacket_sidor_001",
+        "prod_sge_clearsky_jacket_beginner_sidor_001",
+        "prod_sfp_novice_jacket_sidor_001",
+        "prod_usmcjacket_woodland_sidor_001",
+        "prod_coldwarjacket_splinter_sidor_001",
+        "prod_coldwartop_frogskin_sidor_001",
+        "prod_rsg_body_plash_brown_sidor_001",
+        "prod_rsg_jaket_stalker1_sidor_001",
+        "prod_rsg_jaket_stalker_back_sidor_001",
+        "prod_rsg_jaket_stalker2_hood_sidor_001"
+    ]
+}

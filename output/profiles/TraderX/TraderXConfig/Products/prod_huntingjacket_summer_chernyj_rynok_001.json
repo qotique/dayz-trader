@@ -1,0 +1,16 @@
+{
+    "className": "HuntingJacket_Summer",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 22500,
+    "sellPrice": 16850,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_huntingjacket_autumn_chernyj_rynok_001",
+        "prod_huntingjacket_spring_chernyj_rynok_001",
+        "prod_huntingjacket_winter_chernyj_rynok_001",
+        "prod_huntingjacket_brown_chernyj_rynok_001"
+    ]
+}

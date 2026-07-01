@@ -1,0 +1,11 @@
+{
+    "className": "AC_RollingPapers_Green",
+    "coefficient": 1.0,
+    "maxStock": 1000,
+    "tradeQuantity": 16,
+    "buyPrice": 200,
+    "sellPrice": 100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Can_Meat_closed",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 202,
+    "sellPrice": 20,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

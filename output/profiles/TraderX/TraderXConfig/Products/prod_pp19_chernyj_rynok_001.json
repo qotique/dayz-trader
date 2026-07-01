@@ -1,0 +1,11 @@
+{
+    "className": "PP19",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 150000,
+    "sellPrice": 112500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

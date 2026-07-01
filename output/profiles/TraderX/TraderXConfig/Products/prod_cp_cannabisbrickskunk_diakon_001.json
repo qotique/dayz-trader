@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBrickSkunk",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 11600,
+    "sellPrice": 5800,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,10 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Магазины]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_mag_ak74_30rnd_sidor_001",
+        "prod_sfp_kiparis_mag_sidor_001"
+    ]
+}

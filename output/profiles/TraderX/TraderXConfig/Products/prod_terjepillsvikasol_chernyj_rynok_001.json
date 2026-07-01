@@ -1,0 +1,11 @@
+{
+    "className": "TerjePillsVikasol",
+    "coefficient": 1.0,
+    "maxStock": 55,
+    "tradeQuantity": 18,
+    "buyPrice": 2390,
+    "sellPrice": 100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

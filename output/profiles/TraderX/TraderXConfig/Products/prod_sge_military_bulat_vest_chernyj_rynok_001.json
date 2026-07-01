@@ -1,0 +1,11 @@
+{
+    "className": "SGE_Military_Bulat_Vest",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 210000,
+    "sellPrice": 157500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

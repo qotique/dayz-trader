@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антибиотики и Вакцины]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeampouleketarol_kapitan_maruga_001",
+        "prod_terjepillstetracyclineantibiotics_kapitan_maruga_001",
+        "prod_terjepillsparacetamol_kapitan_maruga_001",
+        "prod_terjepillsibuprofen_kapitan_maruga_001",
+        "prod_terjepillsnurofen_kapitan_maruga_001"
+    ]
+}

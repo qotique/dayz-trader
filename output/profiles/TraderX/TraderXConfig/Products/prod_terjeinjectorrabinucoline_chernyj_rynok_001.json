@@ -1,0 +1,11 @@
+{
+    "className": "TerjeInjectorRabinucoline",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 5640,
+    "sellPrice": 250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

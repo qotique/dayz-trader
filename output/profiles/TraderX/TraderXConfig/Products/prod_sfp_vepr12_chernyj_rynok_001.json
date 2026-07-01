@@ -1,0 +1,23 @@
+{
+    "className": "SFP_VEPR12",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 650000,
+    "sellPrice": 487500,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_sfp_vepr12_bttstck_chernyj_rynok_001",
+        "prod_sfp_vepr12_chernyj_rynok_001",
+        "prod_sfp_vepr12_camo_chernyj_rynok_001",
+        "prod_sfp_vepr12_32rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_camo_32rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_16rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_camo_16rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_8rnd_chernyj_rynok_001",
+        "prod_sfp_vepr12_camo_8rnd_chernyj_rynok_001"
+    ],
+    "variants": [
+        "prod_sfp_vepr12_camo_chernyj_rynok_001"
+    ]
+}

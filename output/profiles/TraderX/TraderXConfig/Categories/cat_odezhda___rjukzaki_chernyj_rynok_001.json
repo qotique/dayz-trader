@@ -1,0 +1,25 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Рюкзаки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_novice_bagpack_chernyj_rynok_001",
+        "prod_fp4_pohod_bag_chernyj_rynok_001",
+        "prod_fp4_surv_bag_chernyj_rynok_001",
+        "prod_fp4_surv_bag_medical_chernyj_rynok_001",
+        "prod_fp4_surv_bag_orange_chernyj_rynok_001",
+        "prod_armypouch_beige_chernyj_rynok_001",
+        "prod_fp4_surv_bag_violet_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_backpack_chernyj_rynok_001",
+        "prod_rng_camelbag_woods_chernyj_rynok_001",
+        "prod_coyotebag_green_chernyj_rynok_001",
+        "prod_alicebag_camo_chernyj_rynok_001",
+        "prod_attack2bag_ttsko_chernyj_rynok_001",
+        "prod_assaultbag_ttsko_chernyj_rynok_001",
+        "prod_rng_bag_pegasus_wood_chernyj_rynok_001",
+        "prod_gelya_backpacks_camelbackpack_hexcamarid_chernyj_rynok_001",
+        "prod_rng_bag_pegasus_base_chernyj_rynok_001",
+        "prod_rsg_backpack_tactical_black_chernyj_rynok_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Боеприпасы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_ammo_12gapellets_zub_001",
+        "prod_ammo_545x39_zub_001",
+        "prod_ammo_545x39tracer_zub_001"
+    ]
+}

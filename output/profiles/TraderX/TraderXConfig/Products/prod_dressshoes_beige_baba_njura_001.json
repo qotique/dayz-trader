@@ -1,0 +1,11 @@
+{
+    "className": "DressShoes_Beige",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 2750,
+    "sellPrice": 2600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

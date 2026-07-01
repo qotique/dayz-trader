@@ -1,0 +1,13 @@
+{
+    "className": "AKS74U",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 108000,
+    "sellPrice": 81000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_mag_ak74_30rnd_sidor_001"
+    ],
+    "variants": []
+}

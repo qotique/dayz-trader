@@ -1,0 +1,11 @@
+{
+    "className": "SVD",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 208000,
+    "sellPrice": 156000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

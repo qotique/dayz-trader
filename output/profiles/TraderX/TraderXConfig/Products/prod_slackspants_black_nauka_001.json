@@ -1,0 +1,11 @@
+{
+    "className": "SlacksPants_Black",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 1560,
+    "sellPrice": 1450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

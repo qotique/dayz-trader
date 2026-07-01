@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Анальгетики и Гематомы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_morphine_chernyj_rynok_001",
+        "prod_painkillertablets_chernyj_rynok_001",
+        "prod_terjeampoulenovacaine_chernyj_rynok_001",
+        "prod_terjeampoulemorphine_chernyj_rynok_001",
+        "prod_terjeampoulegexobarbital_chernyj_rynok_001",
+        "prod_terjeampouleketamin_chernyj_rynok_001",
+        "prod_terjeinjectorpromidol_chernyj_rynok_001",
+        "prod_terjepillspainkillertablets_chernyj_rynok_001",
+        "prod_terjepillsanalgin_chernyj_rynok_001",
+        "prod_terjesalvecapsicum_chernyj_rynok_001"
+    ]
+}

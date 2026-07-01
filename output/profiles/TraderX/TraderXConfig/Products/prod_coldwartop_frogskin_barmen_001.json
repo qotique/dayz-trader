@@ -1,0 +1,16 @@
+{
+    "className": "ColdWarTop_Frogskin",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 6750,
+    "sellPrice": 6400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_coldwartop_dpm_barmen_001",
+        "prod_coldwartop_ttsmkk_barmen_001",
+        "prod_coldwartop_klmk_barmen_001",
+        "prod_coldwartop_klmkso_barmen_001"
+    ]
+}

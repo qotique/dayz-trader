@@ -1,0 +1,11 @@
+{
+    "className": "Sak_C_PlateA",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 9900,
+    "sellPrice": 7400,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

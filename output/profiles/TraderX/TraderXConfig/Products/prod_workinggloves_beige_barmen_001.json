@@ -1,0 +1,14 @@
+{
+    "className": "WorkingGloves_Beige",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 300,
+    "sellPrice": 200,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_workinggloves_black_barmen_001",
+        "prod_workinggloves_yellow_barmen_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "QPK_USBFlashDrive",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 15000,
+    "sellPrice": 14850,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Обувь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_militaryboots_beige_barmen_001",
+        "prod_militaryboots_black_barmen_001",
+        "prod_sfp_gorka4_boots_barmen_001",
+        "prod_militaryboots_brown_barmen_001",
+        "prod_tgk_russiansoldier_v2_boots_black_barmen_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SawedoffIzh43Shotgun",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 1650,
+    "sellPrice": 1200,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

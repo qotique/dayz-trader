@@ -1,0 +1,11 @@
+{
+    "className": "SLP_FireflyInJar_Ice",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 3600,
+    "sellPrice": 3550,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,22 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Прочее]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_battery9v_baba_njura_001",
+        "prod_chemlight_red_baba_njura_001",
+        "prod_hook_baba_njura_001",
+        "prod_sfp_collection_folder_baba_njura_001",
+        "prod_collectable_pokemonalbum_baba_njura_001",
+        "prod_heatpack_baba_njura_001",
+        "prod_whetstone_baba_njura_001",
+        "prod_wallet_small_red_baba_njura_001",
+        "prod_wallet_small_green_baba_njura_001",
+        "prod_wallet_small_blue_baba_njura_001",
+        "prod_wallet_small_black_baba_njura_001",
+        "prod_wallet_small_grey_baba_njura_001",
+        "prod_wallet_small_white_baba_njura_001",
+        "prod_cp_plasticroll_baba_njura_001"
+    ]
+}

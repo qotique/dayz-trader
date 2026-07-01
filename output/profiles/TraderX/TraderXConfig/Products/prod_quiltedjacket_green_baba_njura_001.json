@@ -1,0 +1,17 @@
+{
+    "className": "QuiltedJacket_Green",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 524388,
+    "buyPrice": 1980,
+    "sellPrice": 1450,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_quiltedjacket_orange_baba_njura_001",
+        "prod_quiltedjacket_yellow_baba_njura_001",
+        "prod_quiltedjacket_grey_baba_njura_001",
+        "prod_quiltedjacket_blue_baba_njura_001",
+        "prod_quiltedjacket_red_baba_njura_001"
+    ]
+}

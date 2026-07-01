@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisSeedsPackPurpleKush",
+    "coefficient": 1.0,
+    "maxStock": 300,
+    "tradeQuantity": 16,
+    "buyPrice": 2200,
+    "sellPrice": 1100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

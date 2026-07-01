@@ -1,0 +1,11 @@
+{
+    "className": "RSG_Mask_ULTBlack",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 3500,
+    "sellPrice": 3300,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

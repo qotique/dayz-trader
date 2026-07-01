@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Circuit_Board",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 525,
+    "sellPrice": 500,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

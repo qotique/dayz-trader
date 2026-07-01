@@ -1,0 +1,11 @@
+{
+    "className": "SFP_ZombieCivilian_hand",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 1750,
+    "sellPrice": 1650,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

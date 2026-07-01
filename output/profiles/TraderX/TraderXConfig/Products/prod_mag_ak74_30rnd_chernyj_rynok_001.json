@@ -1,0 +1,11 @@
+{
+    "className": "Mag_AK74_30Rnd",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 45000,
+    "sellPrice": 33750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

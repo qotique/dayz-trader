@@ -1,0 +1,23 @@
+{
+    "className": "TGK_RussianSolider_V3_Balacalava_ColorK",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 910,
+    "sellPrice": 600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tgk_russiansolider_v3_balacalava_camoa_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camob_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camoc_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camod_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camoe_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camof_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camog_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camoh_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camol_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camoj_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_balacalava_camok_kapitan_maruga_001"
+    ]
+}

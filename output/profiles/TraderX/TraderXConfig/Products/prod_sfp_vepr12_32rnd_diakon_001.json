@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Vepr12_32Rnd",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 16000,
+    "sellPrice": 12000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

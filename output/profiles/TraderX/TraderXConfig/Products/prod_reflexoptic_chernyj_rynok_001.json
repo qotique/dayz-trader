@@ -1,0 +1,11 @@
+{
+    "className": "ReflexOptic",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 30000,
+    "sellPrice": 22500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "TerjeSurgicalTool_White",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 321,
+    "sellPrice": 16,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

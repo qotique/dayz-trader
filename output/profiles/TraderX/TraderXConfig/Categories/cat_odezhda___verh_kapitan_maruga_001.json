@@ -1,0 +1,21 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Верх]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_gorka4vest_top_kapitan_maruga_001",
+        "prod_sfp_gorka4_jacket_tanblack_kapitan_maruga_001",
+        "prod_sfp_ctg_jacket_colorbase_kapitan_maruga_001",
+        "prod_usmcjacket_woodland_kapitan_maruga_001",
+        "prod_bdujacket_kapitan_maruga_001",
+        "prod_topvest_vkpo_kapitan_maruga_001",
+        "prod_fp4_vkpo_demi_rhbz_kapitan_maruga_001",
+        "prod_fp4_vkpo_demi_kapitan_maruga_001",
+        "prod_sge_military_bulat_jacket_kapitan_maruga_001",
+        "prod_sfp_heavy_military_armor_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_top_colora_kapitan_maruga_001",
+        "prod_tgk_russiansolider_v3_top_gorka_colora_kapitan_maruga_001",
+        "prod_tgk_russiansoldier_v2_vkpo_emr_kapitan_maruga_001"
+    ]
+}

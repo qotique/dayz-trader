@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Низ]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_ecologbig_pants_nauka_001",
+        "prod_sfp_hazmat_pants_nauka_001",
+        "prod_nbcpantswhite_nauka_001",
+        "prod_slackspants_black_nauka_001"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Рюкзаки]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_novice_bagpack_sidor_001",
+        "prod_fp4_pohod_bag_sidor_001",
+        "prod_fp4_surv_bag_sidor_001",
+        "prod_armypouch_beige_sidor_001",
+        "prod_rsg_backpack_tactical_black_sidor_001"
+    ]
+}

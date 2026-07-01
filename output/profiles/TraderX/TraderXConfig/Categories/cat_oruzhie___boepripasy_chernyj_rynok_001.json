@@ -1,0 +1,24 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Боеприпасы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_ammo_flare_chernyj_rynok_001",
+        "prod_ammo_12gapellets_chernyj_rynok_001",
+        "prod_ammo_545x39_chernyj_rynok_001",
+        "prod_ammo_545x39tracer_chernyj_rynok_001",
+        "prod_ammo_380_chernyj_rynok_001",
+        "prod_ammo_556x45_chernyj_rynok_001",
+        "prod_ammo_556x45tracer_chernyj_rynok_001",
+        "prod_ammo_308win_chernyj_rynok_001",
+        "prod_ammo_308wintracer_chernyj_rynok_001",
+        "prod_ammo_12gaslug_chernyj_rynok_001",
+        "prod_ammo_762x54_chernyj_rynok_001",
+        "prod_ammo_762x54tracer_chernyj_rynok_001",
+        "prod_ammo_9x39_chernyj_rynok_001",
+        "prod_ammo_9x19_chernyj_rynok_001",
+        "prod_ammo_hk_46x30_chernyj_rynok_001",
+        "prod_sfp_vepr12_8rnd_chernyj_rynok_001"
+    ]
+}

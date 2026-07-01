@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Дезинфекция и Гигиена]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_disinfectantalcohol_sidor_001",
+        "prod_terjesoap_sidor_001",
+        "prod_disinfectantspray_sidor_001"
+    ]
+}

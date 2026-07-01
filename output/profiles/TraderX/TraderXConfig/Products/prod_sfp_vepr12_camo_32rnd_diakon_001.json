@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Vepr12_camo_32Rnd",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 17000,
+    "sellPrice": 12750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

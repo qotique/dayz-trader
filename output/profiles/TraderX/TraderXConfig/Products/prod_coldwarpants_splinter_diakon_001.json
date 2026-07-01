@@ -1,0 +1,16 @@
+{
+    "className": "ColdWarPants_Splinter",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 3300,
+    "sellPrice": 3100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_coldwarpants_strichtarn_diakon_001",
+        "prod_coldwarpants_oblaky_diakon_001",
+        "prod_coldwarpants_finnish_diakon_001",
+        "prod_coldwarpants_jigsaw_diakon_001"
+    ]
+}

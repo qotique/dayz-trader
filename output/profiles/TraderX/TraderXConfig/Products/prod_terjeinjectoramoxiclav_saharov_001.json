@@ -1,0 +1,11 @@
+{
+    "className": "TerjeInjectorAmoxiclav",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 6938,
+    "sellPrice": 300,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

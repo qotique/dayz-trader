@@ -1,0 +1,11 @@
+{
+    "className": "SGE_Sunrise_Pouches2_CN2",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 7150,
+    "sellPrice": 5350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

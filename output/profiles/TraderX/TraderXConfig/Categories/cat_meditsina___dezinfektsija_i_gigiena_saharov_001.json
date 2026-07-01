@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Дезинфекция и Гигиена]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeampoulealcohol_saharov_001",
+        "prod_disinfectantalcohol_saharov_001",
+        "prod_terjesoap_saharov_001",
+        "prod_disinfectantspray_saharov_001"
+    ]
+}

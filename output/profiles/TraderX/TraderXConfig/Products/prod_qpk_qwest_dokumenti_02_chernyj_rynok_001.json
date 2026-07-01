@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Qwest_Dokumenti_02",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 75000,
+    "sellPrice": 74250,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

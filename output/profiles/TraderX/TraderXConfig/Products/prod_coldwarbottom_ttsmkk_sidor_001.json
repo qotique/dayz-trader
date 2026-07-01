@@ -1,0 +1,11 @@
+{
+    "className": "ColdWarBottom_TTsMKK",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 5940,
+    "sellPrice": 5600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

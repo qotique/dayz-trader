@@ -1,0 +1,25 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Антибиотики и Вакцины]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_terjeampouleamoxivan_saharov_001",
+        "prod_terjeampoulevaxicam_saharov_001",
+        "prod_terjeampoulerabivax_saharov_001",
+        "prod_terjeampoulerabinoline_saharov_001",
+        "prod_terjeampouleketarol_saharov_001",
+        "prod_terjeampouleflemoclav_saharov_001",
+        "prod_terjeampouleimipenem_saharov_001",
+        "prod_terjeampoulerifampicyne_saharov_001",
+        "prod_terjeinjectortopoizomeraza_saharov_001",
+        "prod_terjeinjectorrabinucoline_saharov_001",
+        "prod_terjepillstetracyclineantibiotics_saharov_001",
+        "prod_terjepillsparacetamol_saharov_001",
+        "prod_terjepillsibuprofen_saharov_001",
+        "prod_terjepillsnurofen_saharov_001",
+        "prod_terjepillsamoxiclav_saharov_001",
+        "prod_terjepillspiperacylin_saharov_001",
+        "prod_terjepillsamibaktam_saharov_001"
+    ]
+}

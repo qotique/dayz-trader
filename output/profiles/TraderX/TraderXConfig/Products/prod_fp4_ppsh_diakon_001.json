@@ -1,0 +1,11 @@
+{
+    "className": "FP4_PPSH",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 35000,
+    "sellPrice": 26250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

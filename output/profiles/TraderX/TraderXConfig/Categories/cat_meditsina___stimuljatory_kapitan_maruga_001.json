@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Стимуляторы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_express_syringe25_kapitan_maruga_001",
+        "prod_sfp_express_syringe50_kapitan_maruga_001",
+        "prod_sfp_ai2_medkit_green_kapitan_maruga_001",
+        "prod_sfp_ai2_medkit_red_kapitan_maruga_001"
+    ]
+}

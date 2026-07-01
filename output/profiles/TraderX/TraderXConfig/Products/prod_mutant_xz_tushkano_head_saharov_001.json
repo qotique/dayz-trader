@@ -1,0 +1,11 @@
+{
+    "className": "Mutant_XZ_Tushkano_Head",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 1500,
+    "sellPrice": 1400,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

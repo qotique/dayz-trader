@@ -1,0 +1,30 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Бронежилеты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_vest6b5_black_chernyj_rynok_001",
+        "prod_sfp_vest6b5_green_chernyj_rynok_001",
+        "prod_platecarriervest_green_chernyj_rynok_001",
+        "prod_platecarriervest_camo_chernyj_rynok_001",
+        "prod_modularvestsystem_base_chernyj_rynok_001",
+        "prod_sge_stalker_sunrise_vest_chernyj_rynok_001",
+        "prod_sge_military_bulat_vest_chernyj_rynok_001",
+        "prod_sge_military_beryl_plate_chernyj_rynok_001",
+        "prod_sge_military_beryl_vest_chernyj_rynok_001",
+        "prod_sge_military_patch_helmet_chernyj_rynok_001",
+        "prod_sge_military_beryl_helmet_chernyj_rynok_001",
+        "prod_sge_military_heavyarmor_vest_chernyj_rynok_001",
+        "prod_expansion_platecarriervest_yeet_chernyj_rynok_001",
+        "prod_expansion_pressvest_blue_yeet_chernyj_rynok_001",
+        "prod_rsg_vest_stalker1_chernyj_rynok_001",
+        "prod_rsg_vest_monolit_chernyj_rynok_001",
+        "prod_rsg_vest_black_stalker_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_groinplate_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_groinplate_emr_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_6b45_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_6b45_emr_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_vest_colork_chernyj_rynok_001"
+    ]
+}

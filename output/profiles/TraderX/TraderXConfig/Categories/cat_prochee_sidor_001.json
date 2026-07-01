@@ -1,0 +1,16 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Прочее]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_battery9v_sidor_001",
+        "prod_chemlight_red_sidor_001",
+        "prod_chemlight_blue_sidor_001",
+        "prod_chemlight_green_sidor_001",
+        "prod_chemlight_white_sidor_001",
+        "prod_chemlight_yellow_sidor_001",
+        "prod_heatpack_sidor_001",
+        "prod_whetstone_sidor_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SLP_FireflyInJar_Purple",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 8800,
+    "sellPrice": 8700,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

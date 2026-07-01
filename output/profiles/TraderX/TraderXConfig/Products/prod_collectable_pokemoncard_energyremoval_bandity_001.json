@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_EnergyRemoval",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 704,
+    "sellPrice": 650,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

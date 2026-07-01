@@ -1,0 +1,11 @@
+{
+    "className": "CharcoalTablets",
+    "coefficient": 1.0,
+    "maxStock": 200,
+    "tradeQuantity": 16,
+    "buyPrice": 262,
+    "sellPrice": 13,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

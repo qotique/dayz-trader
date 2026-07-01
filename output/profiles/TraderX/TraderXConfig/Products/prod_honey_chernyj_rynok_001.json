@@ -1,0 +1,11 @@
+{
+    "className": "Honey",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 6000,
+    "sellPrice": 3000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,19 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Стимуляторы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_sfp_express_syringe25_saharov_001",
+        "prod_sfp_express_syringe50_saharov_001",
+        "prod_sfp_express_syringe75_saharov_001",
+        "prod_sfp_express_syringe100_saharov_001",
+        "prod_terjeampouleadrenalin_saharov_001",
+        "prod_terjeinjectorreanimatal_saharov_001",
+        "prod_terjeinjectorpropital_saharov_001",
+        "prod_sfp_ai2_medkit_standart_saharov_001",
+        "prod_sfp_ai2_medkit_yello_saharov_001",
+        "prod_sfp_ai2_medkit_blue_saharov_001",
+        "prod_sfp_ai2_medkit_green_saharov_001"
+    ]
+}

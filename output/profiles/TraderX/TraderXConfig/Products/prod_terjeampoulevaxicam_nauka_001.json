@@ -1,0 +1,11 @@
+{
+    "className": "TerjeAmpouleVaxicam",
+    "coefficient": 1.0,
+    "maxStock": 40,
+    "tradeQuantity": 16,
+    "buyPrice": 953,
+    "sellPrice": 48,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

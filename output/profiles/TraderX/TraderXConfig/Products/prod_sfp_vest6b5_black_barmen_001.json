@@ -1,0 +1,13 @@
+{
+    "className": "SFP_Vest6b5_Black",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 524388,
+    "buyPrice": 42000,
+    "sellPrice": 31500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sfp_vest6b5_tan_barmen_001"
+    ]
+}

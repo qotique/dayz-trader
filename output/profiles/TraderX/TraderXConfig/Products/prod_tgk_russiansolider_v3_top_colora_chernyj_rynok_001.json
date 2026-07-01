@@ -1,0 +1,32 @@
+{
+    "className": "TGK_RussianSolider_V3_TOP_ColorA",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 18000,
+    "sellPrice": 12600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_tgk_russiansolider_v3_top_camoa_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camob_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camoc_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camod_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camoe_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camof_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camog_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camoh_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camol_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camoj_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_camok_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colorb_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colorc_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colord_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colore_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colorf_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colorg_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colorh_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colorl_chernyj_rynok_001",
+        "prod_tgk_russiansolider_v3_top_colorj_chernyj_rynok_001"
+    ]
+}

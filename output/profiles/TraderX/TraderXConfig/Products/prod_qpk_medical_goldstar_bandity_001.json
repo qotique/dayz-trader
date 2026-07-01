@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Medical_GoldStar",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 680,
+    "sellPrice": 650,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

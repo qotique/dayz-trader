@@ -1,0 +1,17 @@
+{
+    "className": "FP4_MiniGloves_black",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 2000,
+    "sellPrice": 1500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_fp4_minigloves_blackred_diakon_001",
+        "prod_fp4_minigloves_blue_diakon_001",
+        "prod_fp4_minigloves_brown_diakon_001",
+        "prod_fp4_minigloves_green_diakon_001",
+        "prod_fp4_minigloves_gray_diakon_001"
+    ]
+}

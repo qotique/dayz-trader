@@ -1,0 +1,16 @@
+{
+    "className": "ColdWarTop_Frogskin",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 4500,
+    "sellPrice": 4250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_coldwartop_dpm_diakon_001",
+        "prod_coldwartop_ttsmkk_diakon_001",
+        "prod_coldwartop_klmk_diakon_001",
+        "prod_coldwartop_klmkso_diakon_001"
+    ]
+}

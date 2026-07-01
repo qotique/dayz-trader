@@ -1,0 +1,11 @@
+{
+    "className": "TLRLight",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 250,
+    "sellPrice": 150,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

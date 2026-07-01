@@ -1,0 +1,17 @@
+{
+    "className": "AK101",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 400000,
+    "sellPrice": 300000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_ak_plasticbttstck_chernyj_rynok_001",
+        "prod_ak_railhndgrd_chernyj_rynok_001",
+        "prod_pso1optic_chernyj_rynok_001",
+        "prod_universallight_chernyj_rynok_001",
+        "prod_mag_ak101_30rnd_green_chernyj_rynok_001"
+    ],
+    "variants": []
+}

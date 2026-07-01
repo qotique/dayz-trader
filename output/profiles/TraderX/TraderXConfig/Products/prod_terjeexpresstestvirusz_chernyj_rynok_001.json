@@ -1,0 +1,11 @@
+{
+    "className": "TerjeExpressTestVirusZ",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 10,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

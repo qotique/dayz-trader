@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Drowzee",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 236,
+    "sellPrice": 200,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

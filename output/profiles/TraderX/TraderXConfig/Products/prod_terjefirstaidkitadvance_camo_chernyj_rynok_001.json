@@ -1,0 +1,11 @@
+{
+    "className": "TerjeFirstAidKitAdvance_Camo",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 120000,
+    "sellPrice": 6000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

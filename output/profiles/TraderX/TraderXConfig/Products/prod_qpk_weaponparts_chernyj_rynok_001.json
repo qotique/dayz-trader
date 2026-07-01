@@ -1,0 +1,11 @@
+{
+    "className": "QPK_WeaponParts",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 16500,
+    "sellPrice": 16300,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "DressShoes_Sunburst",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 2500,
+    "sellPrice": 2350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

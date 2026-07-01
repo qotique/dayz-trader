@@ -1,0 +1,11 @@
+{
+    "className": "BoonieHat_Dubok",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 500,
+    "sellPrice": 350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

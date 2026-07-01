@@ -1,0 +1,11 @@
+{
+    "className": "SFP_AI2_medkit_Red",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 16000,
+    "sellPrice": 1600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

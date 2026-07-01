@@ -1,0 +1,13 @@
+{
+    "className": "BoonieHat_DPM",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 550,
+    "sellPrice": 400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_booniehat_dubok_baba_njura_001"
+    ]
+}

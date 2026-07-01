@@ -1,0 +1,16 @@
+{
+    "className": "RS_x1_Armtac",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 13500,
+    "sellPrice": 10100,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_rs_x1_armtac_berezka_barmen_001",
+        "prod_rs_x1_armtac_desert_barmen_001",
+        "prod_rs_x1_armtac_twofire_barmen_001",
+        "prod_rs_x1_armtac_pank_barmen_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "RS_x1_Armtac_TwoFire",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 18000,
+    "sellPrice": 13500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

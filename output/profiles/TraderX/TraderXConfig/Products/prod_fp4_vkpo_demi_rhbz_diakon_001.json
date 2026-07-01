@@ -1,0 +1,15 @@
+{
+    "className": "FP4_VKPO_Demi_RHBZ",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 8000,
+    "sellPrice": 6000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_fp4_vkpo_leto_tors_rhbz_diakon_001",
+        "prod_fp4_vkpo_leto_tors_rtv_diakon_001",
+        "prod_fp4_vkpo_demi_vdv_diakon_001"
+    ]
+}

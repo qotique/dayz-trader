@@ -1,0 +1,22 @@
+{
+    "className": "TGK_RussianSoldier_v2_6B45_Black",
+    "coefficient": 1.0,
+    "maxStock": 30,
+    "tradeQuantity": 16,
+    "buyPrice": 60000,
+    "sellPrice": 42000,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_tgk_russiansoldier_v2_groinplate_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_groinpouch_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchbig_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall2_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_magpouchsmall_black_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_medpouch_black_chernyj_rynok_001"
+    ],
+    "variants": [
+        "prod_tgk_russiansoldier_v2_6b45_alpine_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_6b45_black_mc_chernyj_rynok_001",
+        "prod_tgk_russiansoldier_v2_6b45_mc_chernyj_rynok_001"
+    ]
+}

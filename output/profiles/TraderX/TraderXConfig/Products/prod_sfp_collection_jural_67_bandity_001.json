@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Collection_Jural_67",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 200,
+    "sellPrice": 150,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

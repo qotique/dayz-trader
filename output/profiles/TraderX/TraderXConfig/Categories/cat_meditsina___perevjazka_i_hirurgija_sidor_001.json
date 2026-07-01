@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Перевязка и Хирургия]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_bandagedressing_sidor_001",
+        "prod_terjesyringenew_sidor_001",
+        "prod_terjesurgicalkit_sidor_001",
+        "prod_terjesurgicaltool_ceramic_sidor_001"
+    ]
+}

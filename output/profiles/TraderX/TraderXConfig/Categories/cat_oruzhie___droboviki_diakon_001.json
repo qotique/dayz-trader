@@ -1,0 +1,23 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Дробовики]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_izh43shotgun_diakon_001",
+        "prod_r12_diakon_001",
+        "prod_toz34_diakon_001",
+        "prod_sfp_shotgunmp153_diakon_001",
+        "prod_m1912_shotgun_diakon_001",
+        "prod_rs_x1_armtac_diakon_001",
+        "prod_sfp_shotgunmp153mod_diakon_001",
+        "prod_sfp_spas12_shotgun_diakon_001",
+        "prod_vepr12_diakon_001",
+        "prod_sfp_vepr12_diakon_001",
+        "prod_fp4_spas12_diakon_001",
+        "prod_izh18shotgun_diakon_001",
+        "prod_sfp_benellim4_diakon_001",
+        "prod_jd_model1887_diakon_001",
+        "prod_jd_serbusupershorty_diakon_001"
+    ]
+}

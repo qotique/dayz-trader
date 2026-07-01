@@ -1,0 +1,12 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Анальгетики и Гематомы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_painkillertablets_svoboda_001",
+        "prod_terjepillspainkillertablets_svoboda_001",
+        "prod_terjepillsanalgin_svoboda_001",
+        "prod_terjesalvecapsicum_svoboda_001"
+    ]
+}

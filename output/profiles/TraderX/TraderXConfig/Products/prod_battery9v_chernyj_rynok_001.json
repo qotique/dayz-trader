@@ -1,0 +1,11 @@
+{
+    "className": "Battery9V",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 18,
+    "buyPrice": 850,
+    "sellPrice": 600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

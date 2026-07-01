@@ -1,0 +1,11 @@
+{
+    "className": "BandageHemostatic",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 43,
+    "sellPrice": 2,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

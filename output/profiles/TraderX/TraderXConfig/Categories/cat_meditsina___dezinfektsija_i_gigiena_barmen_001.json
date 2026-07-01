@@ -1,0 +1,11 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Дезинфекция и Гигиена]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_disinfectantalcohol_barmen_001",
+        "prod_terjesoap_barmen_001",
+        "prod_disinfectantspray_barmen_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "TacticalBaconCan",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 18,
+    "buyPrice": 494,
+    "sellPrice": 49,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

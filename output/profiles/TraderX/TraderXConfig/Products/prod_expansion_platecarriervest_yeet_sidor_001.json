@@ -1,0 +1,11 @@
+{
+    "className": "Expansion_PlateCarrierVest_Yeet",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 16200,
+    "sellPrice": 15350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "JDM249Body",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 600000,
+    "sellPrice": 450000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

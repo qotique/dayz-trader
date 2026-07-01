@@ -1,0 +1,19 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Одежда | Верх]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_gorkaejacket_summer_barmen_001",
+        "prod_sfp_gorka4vest_top_barmen_001",
+        "prod_sfp_gorka4_jacket_tanblack_barmen_001",
+        "prod_sge_stalker_sunrise_jacket_barmen_001",
+        "prod_coldwarjacket_splinter_barmen_001",
+        "prod_coldwartop_frogskin_barmen_001",
+        "prod_rsg_body_plash_brown_barmen_001",
+        "prod_rsg_jaket_stalker1_barmen_001",
+        "prod_rsg_jaket_stalker_back_barmen_001",
+        "prod_rsg_jaket_stalker2_hood_barmen_001",
+        "prod_tgk_russiansoldier_v2_vkpo_black_barmen_001"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Plot_eye",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 180,
+    "sellPrice": 150,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

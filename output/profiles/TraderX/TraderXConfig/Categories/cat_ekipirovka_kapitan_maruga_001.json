@@ -1,0 +1,16 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Экипировка]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_platecarrierpouches_kapitan_maruga_001",
+        "prod_sge_military_bulat_resp_kapitan_maruga_001",
+        "prod_sge_military_bulat_belt_kapitan_maruga_001",
+        "prod_sge_military_beryl_pouches_1_kapitan_maruga_001",
+        "prod_sge_military_beryl_pouches_2_kapitan_maruga_001",
+        "prod_sge_military_beryl_pouches_3_kapitan_maruga_001",
+        "prod_sge_sunrise_pouches2_cn2_kapitan_maruga_001",
+        "prod_rnc_activeheadset_gr_kapitan_maruga_001"
+    ]
+}

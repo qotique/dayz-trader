@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Vepr12_Camo_8Rnd",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 4500,
+    "sellPrice": 3350,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

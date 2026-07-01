@@ -1,0 +1,13 @@
+{
+    "className": "SGE_Loner_Beginner_Jacket",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 3500,
+    "sellPrice": 2600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sge_loner_beginner_jacket_camo_diakon_001"
+    ]
+}

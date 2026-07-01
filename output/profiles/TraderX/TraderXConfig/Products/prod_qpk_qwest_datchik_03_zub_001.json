@@ -1,0 +1,11 @@
+{
+    "className": "QPK_Qwest_Datchik_03",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 15600,
+    "sellPrice": 15400,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

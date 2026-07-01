@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Анальгетики и Гематомы]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_morphine_nauka_001",
+        "prod_painkillertablets_nauka_001",
+        "prod_terjeampoulenovacaine_nauka_001",
+        "prod_terjeampoulemorphine_nauka_001",
+        "prod_terjeampoulegexobarbital_nauka_001",
+        "prod_terjeampouleketamin_nauka_001",
+        "prod_terjeinjectorpromidol_nauka_001",
+        "prod_terjepillspainkillertablets_nauka_001",
+        "prod_terjepillsanalgin_nauka_001",
+        "prod_terjesalvecapsicum_nauka_001"
+    ]
+}

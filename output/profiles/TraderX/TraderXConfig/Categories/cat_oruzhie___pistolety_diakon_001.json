@@ -1,0 +1,23 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Оружие | Пистолеты]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_p1_diakon_001",
+        "prod_flaregun_diakon_001",
+        "prod_pistol_tokarev_diakon_001",
+        "prod_glock19_diakon_001",
+        "prod_fnx45_diakon_001",
+        "prod_gsh18_diakon_001",
+        "prod_colt1911_diakon_001",
+        "prod_aps_pistol_diakon_001",
+        "prod_engraved1911_diakon_001",
+        "prod_deagle_diakon_001",
+        "prod_deagle_gold_diakon_001",
+        "prod_magnum_diakon_001",
+        "prod_longhorn_diakon_001",
+        "prod_sfp_pmakarov_diakon_001",
+        "prod_p220_diakon_001"
+    ]
+}

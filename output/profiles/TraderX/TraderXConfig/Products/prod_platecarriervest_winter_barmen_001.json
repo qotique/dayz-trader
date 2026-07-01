@@ -1,0 +1,11 @@
+{
+    "className": "PlateCarrierVest_Winter",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 524388,
+    "buyPrice": 33000,
+    "sellPrice": 24750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

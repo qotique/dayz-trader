@@ -1,0 +1,11 @@
+{
+    "className": "QPK_SiliconTube",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 16,
+    "buyPrice": 2250,
+    "sellPrice": 2200,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

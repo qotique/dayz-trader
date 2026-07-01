@@ -1,0 +1,11 @@
+{
+    "className": "CP_CannabisBagFuture",
+    "coefficient": 1.0,
+    "maxStock": 100,
+    "tradeQuantity": 524388,
+    "buyPrice": 700,
+    "sellPrice": 350,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

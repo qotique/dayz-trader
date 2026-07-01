@@ -1,0 +1,14 @@
+{
+    "className": "SurgicalGloves_Blue",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 400,
+    "sellPrice": 300,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_surgicalgloves_lightblue_chernyj_rynok_001",
+        "prod_surgicalgloves_green_chernyj_rynok_001"
+    ]
+}

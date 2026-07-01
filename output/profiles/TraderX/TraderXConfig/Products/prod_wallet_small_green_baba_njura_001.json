@@ -1,0 +1,11 @@
+{
+    "className": "Wallet_Small_Green",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 550,
+    "sellPrice": 500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,18 @@
+{
+    "isVisible": 1,
+    "icon": "",
+    "categoryName": "[Медицина | Кровь]",
+    "licensesRequired": [],
+    "productIds": [
+        "prod_startkitiv_saharov_001",
+        "prod_bloodbagempty_saharov_001",
+        "prod_salinebagiv_saharov_001",
+        "prod_bloodtestkit_saharov_001",
+        "prod_terjeampouleerythropoetin_saharov_001",
+        "prod_terjeinjectorerythropoietin_saharov_001",
+        "prod_terjeinjectorerytromixelin_saharov_001",
+        "prod_terjepillsmagnesiumsulfate_saharov_001",
+        "prod_terjepillsirovit_saharov_001",
+        "prod_terjepillsvikasol_saharov_001"
+    ]
+}

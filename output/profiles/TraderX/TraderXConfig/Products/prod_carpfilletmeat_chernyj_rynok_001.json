@@ -1,0 +1,11 @@
+{
+    "className": "CarpFilletMeat",
+    "coefficient": 1.0,
+    "maxStock": 120,
+    "tradeQuantity": 18,
+    "buyPrice": 3000,
+    "sellPrice": 2850,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

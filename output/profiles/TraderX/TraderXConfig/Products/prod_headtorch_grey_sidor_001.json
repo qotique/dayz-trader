@@ -1,0 +1,11 @@
+{
+    "className": "Headtorch_Grey",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 524388,
+    "buyPrice": 900,
+    "sellPrice": 650,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

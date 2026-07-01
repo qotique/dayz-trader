@@ -1,0 +1,15 @@
+{
+    "className": "JD_M249",
+    "coefficient": 1.0,
+    "maxStock": 50,
+    "tradeQuantity": 16,
+    "buyPrice": 250000,
+    "sellPrice": 187500,
+    "stockSettings": 0,
+    "attachments": [
+        "prod_jd_mag_m249_box200rnd_diakon_001",
+        "prod_jdm249body_diakon_001",
+        "prod_jdm249cover_diakon_001"
+    ],
+    "variants": []
+}

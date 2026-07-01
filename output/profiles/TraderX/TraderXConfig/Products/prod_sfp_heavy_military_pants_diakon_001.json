@@ -1,0 +1,17 @@
+{
+    "className": "SFP_Heavy_Military_pants",
+    "coefficient": 1.0,
+    "maxStock": 15,
+    "tradeQuantity": 16,
+    "buyPrice": 40000,
+    "sellPrice": 30000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": [
+        "prod_sfp_heavy_military_pants_dolg_diakon_001",
+        "prod_sfp_heavy_military_pants_cs_diakon_001",
+        "prod_sfp_heavy_military_pants_monolit_diakon_001",
+        "prod_sfp_heavy_military_pants_naem_diakon_001",
+        "prod_sfp_heavy_military_pants_voin_diakon_001"
+    ]
+}

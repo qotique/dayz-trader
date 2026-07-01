@@ -1,0 +1,11 @@
+{
+    "className": "Collectable_PokemonCard_Arcanine",
+    "coefficient": 1.0,
+    "maxStock": 1,
+    "tradeQuantity": 16,
+    "buyPrice": 2500,
+    "sellPrice": 2350,
+    "stockSettings": 98,
+    "attachments": [],
+    "variants": []
+}

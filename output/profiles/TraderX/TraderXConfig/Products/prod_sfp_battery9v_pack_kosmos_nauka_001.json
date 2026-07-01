@@ -1,0 +1,11 @@
+{
+    "className": "SFP_Battery9V_pack_Kosmos",
+    "coefficient": 1.0,
+    "maxStock": 35,
+    "tradeQuantity": 16,
+    "buyPrice": 1040,
+    "sellPrice": 750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

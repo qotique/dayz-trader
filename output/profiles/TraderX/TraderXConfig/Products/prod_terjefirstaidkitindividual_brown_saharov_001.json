@@ -1,0 +1,11 @@
+{
+    "className": "TerjeFirstAidKitIndividual_Brown",
+    "coefficient": 1.0,
+    "maxStock": 25,
+    "tradeQuantity": 16,
+    "buyPrice": 32000,
+    "sellPrice": 1600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}
