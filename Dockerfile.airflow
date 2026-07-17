@@ -1,0 +1,17 @@
+FROM apache/airflow:3.0.2-python3.12
+
+USER root
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc libpq-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+USER airflow
+
+COPY --chown=airflow:airflow requirements.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
+
+COPY --chown=airflow:airflow trader_concept.py /opt/airflow/trader_concept.py
+COPY --chown=airflow:airflow cli.py /opt/airflow/cli.py
+COPY --chown=airflow:airflow models/ /opt/airflow/models/
+COPY --chown=airflow:airflow ml_*.py /opt/airflow/
+COPY --chown=airflow:airflow dags/ /opt/airflow/dags/
