@@ -25,8 +25,6 @@ from trader_concept import (
     save_general_settings,
 )
 
-# ── Helpers ──────────────────────────────────────────────────────────────────
-
 
 def mock_sheet(data: dict[str, list[dict[str, Any]]]) -> MagicMock:
     """Build a gspread.Spreadsheet mock that returns test data per worksheet."""
@@ -39,9 +37,6 @@ def mock_sheet(data: dict[str, list[dict[str, Any]]]) -> MagicMock:
     sheet = MagicMock()
     sheet.worksheet = MagicMock(side_effect=worksheet)
     return sheet
-
-
-# ── Fixtures ─────────────────────────────────────────────────────────────────
 
 
 @pytest.fixture
@@ -100,9 +95,6 @@ def sheet_data() -> dict[str, list[dict[str, Any]]]:
     }
 
 
-# ── Integration: load_data → process_traders → save_* ─────────────────────────
-
-
 class TestFullPipeline:
     def test_load_data_returns_structured_data(self, sheet_data: dict) -> None:
         sheet = mock_sheet(sheet_data)
@@ -148,12 +140,10 @@ class TestFullPipeline:
             stock_dir = Path(tmpdir) / "TraderXDatabase/Stock"
             cat_dir = Path(tmpdir) / "TraderXConfig/Categories"
 
-            # Files are created
             assert len(list(product_dir.iterdir())) > 0
             assert len(list(stock_dir.iterdir())) > 0
             assert len(list(cat_dir.iterdir())) > 0
 
-            # Verify all generated JSONs are valid
             for f in product_dir.iterdir():
                 data = json.loads(f.read_text(encoding="utf-8"))
                 assert "className" in data
@@ -242,9 +232,6 @@ class TestFullPipeline:
             assert (Path(tmpdir) / "TraderXConfig/TraderXCurrencySettings.json").exists()
 
 
-# ── Integration: product variant & attachment logic ───────────────────────────
-
-
 class TestProductRelationships:
     def test_parent_with_variants(self, sheet_data: dict) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -261,17 +248,13 @@ class TestProductRelationships:
                 output_dir=tmpdir,
             )
 
-            # Sidor has AK47 (parent) + AK47_Wood (variant) + silencer + scope
             next(t for t in output_traders if t["givenName"] == "Сидор")
 
-            # Find product files for Sidor
             prod_dir = Path(tmpdir) / "TraderXConfig/Products"
             sidor_products = list(prod_dir.glob("*_sidor_001.json"))
 
-            # Should have: AK47(parent), AK47_Wood(variant), silencer, scope
             assert len(sidor_products) >= 4
 
-            # Parent product should list variants
             ak47_file = prod_dir / "prod_ak47_sidor_001.json"
             assert ak47_file.exists()
             ak47_data = json.loads(ak47_file.read_text(encoding="utf-8"))
@@ -279,7 +262,6 @@ class TestProductRelationships:
             assert "prod_silencer_sidor_001" in ak47_data["attachments"]
             assert "prod_scope_sidor_001" in ak47_data["attachments"]
 
-            # Variant product should not have variants
             ak47w_file = prod_dir / "prod_ak47_wood_sidor_001.json"
             assert ak47w_file.exists()
             ak47w_data = json.loads(ak47w_file.read_text(encoding="utf-8"))
@@ -304,13 +286,11 @@ class TestProductRelationships:
             prod_dir = Path(tmpdir) / "TraderXConfig/Products"
             stock_dir = Path(tmpdir) / "TraderXDatabase/Stock"
 
-            # silencer and scope should exist as standalone products for Sidor
             silencer = prod_dir / "prod_silencer_sidor_001.json"
             scope = prod_dir / "prod_scope_sidor_001.json"
             assert silencer.exists(), "silencer attachment product not created"
             assert scope.exists(), "scope attachment product not created"
 
-            # They should also have stock entries
             assert (stock_dir / "prod_silencer_sidor_001.json").exists()
             assert (stock_dir / "prod_scope_sidor_001.json").exists()
 
@@ -331,30 +311,25 @@ class TestProductRelationships:
 
             prod_dir = Path(tmpdir) / "TraderXConfig/Products"
 
-            # FishingRod for Рыбак — price from map (80 sell, 40 buy)
             rod = json.loads(
                 (prod_dir / "prod_fishingrod_rybak_001.json").read_text(encoding="utf-8")
             )
             assert rod["buyPrice"] == 40
             assert rod["sellPrice"] == 80
 
-            # AK47 for Сидор — price from map (1200 sell, 600 buy)
             ak47 = json.loads(
                 (prod_dir / "prod_ak47_sidor_001.json").read_text(encoding="utf-8")
             )
             assert ak47["buyPrice"] == 600
             assert ak47["sellPrice"] == 1200
 
-            # FishingNet (variant) for Рыбак — no price in map, calculated
             net = json.loads(
                 (prod_dir / "prod_fishingnet_rybak_001.json").read_text(encoding="utf-8")
             )
-            # base=200, ratio=1.0 → buy=200, sell=200 * 0.5 = 100
             assert net["buyPrice"] == 200
             assert net["sellPrice"] == 100
 
     def test_trader_without_products_skipped(self, sheet_data: dict) -> None:
-        # Add a third trader with no product access
         sheet_data["Торговцы"].append(
             {"Имя": "БезТоваров", "Описание": "Empty", "className": "TraderEmpty", "Наценка": 1.0, "Валюта": "", "Позиция": "", "Ориентация": ""},
         )
@@ -400,3 +375,65 @@ class TestProductRelationships:
 
             rybak = next(t for t in output_traders if t["givenName"] == "Рыбак")
             assert len(rybak["loadouts"]) == 2
+
+    def test_orphaned_variants_rehomed_when_parent_missing(self, sheet_data: dict) -> None:
+        sheet_data["Торговцы"].append(
+            {
+                "Имя": "Оружейник",
+                "Описание": "Торгует оружием",
+                "className": "TraderWeapons",
+                "Наценка": 1.0,
+                "Валюта": "Rub",
+                "Позиция": "",
+                "Ориентация": "",
+            },
+        )
+        sheet_data["Товары"].append(
+            {
+                "product_id": "",
+                "className": "AK47_Camo",
+                "Категория": "Оружие",
+                "Себестоимость": 650,
+                "Наценка продажи игроком": 0.3,
+                "Сток": 200,
+                "Запас": 10,
+                "Режим": 1,
+                "Коефициент": 1.0,
+                "Обвес": "",
+                "Вариант для": "AK47",
+                "Оружейник": True,
+                "Оружейник наценка": 1.0,
+            },
+        )
+        sheet_data["Товары"][3]["Оружейник"] = True   # AK47_Wood
+        sheet_data["Товары"][2]["Оружейник"] = False  # AK47 parent
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            ensure_output_dirs(tmpdir)
+            sheet = mock_sheet(sheet_data)
+            trader_names: list[str] = []
+            data = load_data(sheet, trader_names)
+            process_traders(
+                traders_raw=data["traders_raw"],
+                products_all=data["products_all"],
+                prices_map=data["prices_map"],
+                categories_template=data["categories_template"],
+                loadouts_by_trader=data["loadouts_by_trader"],
+                output_dir=tmpdir,
+            )
+
+            prod_dir = Path(tmpdir) / "TraderXConfig/Products"
+            weapon_smith_products = list(prod_dir.glob("*_oruzhejnik_001.json"))
+
+            assert len(weapon_smith_products) >= 2
+
+            ak47w_file = prod_dir / "prod_ak47_wood_oruzhejnik_001.json"
+            ak47c_file = prod_dir / "prod_ak47_camo_oruzhejnik_001.json"
+            assert ak47w_file.exists()
+            assert ak47c_file.exists()
+
+            ak47w_data = json.loads(ak47w_file.read_text(encoding="utf-8"))
+            ak47c_data = json.loads(ak47c_file.read_text(encoding="utf-8"))
+
+            assert ak47w_data["variants"] == ["prod_ak47_camo_oruzhejnik_001"]
+            assert ak47c_data["variants"] == []

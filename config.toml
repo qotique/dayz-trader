@@ -7,11 +7,12 @@
 mode = "google"
 
 # ── Google Sheets ─────────────────────────────────────────────────────────────
+[google]
 # ID таблицы (берётся из ссылки: https://docs.google.com/spreadsheets/d/<ID>/)
-# spreadsheet_id = "1yC8sdoBM_bpFciLyPNAWtvXBQvO604-3WlUJ_y123Xw"
+spreadsheet_id = "10EIAQROX6kft6fnHaXk6_rMYb8j9oMgANAxi3yC9w0o"
 
 # Путь к файлу сервисного аккаунта Google (credentials.json)
-# credentials_file = "credentials.json"
+credentials_file = "credentials.json"
 
 # ── Локальный режим ───────────────────────────────────────────────────────────
 # Путь к папке с CSV-файлами или Excel-файлу.
@@ -31,4 +32,9 @@ mode = "google"
 
 # ── Выходные данные ───────────────────────────────────────────────────────────
 # Куда сохранять результат
-# output_dir = "output/profiles/TraderX"
+output_dir = "output/profiles/TraderX"
+
+[stock_report]
+ftp_host = "185.207.214.77"
+ftp_user = "gs17090"
+ftp_remote_path = "/Server/profiles/TraderX/TraderXDatabase/Stock"

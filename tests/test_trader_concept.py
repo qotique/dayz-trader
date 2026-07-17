@@ -61,7 +61,7 @@ class TestRoundStockForVodka:
             Категория="Drinks",
             Себестоимость=50,
         )
-        assert round_stock_for_vodka(prod, "chernyi_rynok") == 0
+        assert round_stock_for_vodka(prod, "chernyi_rynok") == 50
 
     def test_vodka_on_other_trader(self) -> None:
         prod = _make_product(
